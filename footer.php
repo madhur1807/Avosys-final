@@ -99,7 +99,7 @@
             <div class="footer-bottom-content">
                 <div class="col-sm-4 col-md-4 no-padding-left">
                 <div class="footer-bottom-single">
-                    <p> © 2016 - 2017 Experts. With Love by <a href="http://themeforest.net/user/7oroof/portfolio?ref=7oroof">7oroof.com</a></p>
+                    <p>ENIGMA©2018. All Rights Reserved | Design by <a href="http://enigmaexperts.org/" target="_blank">ENIGMA</a></p>
                 </div>
                 </div>
                 <div class="col-sm-4 col-md-4 no-padding">
