@@ -176,7 +176,7 @@
       <section class="feature-area">
          <div class="feature-left">
             <div class="feature-left-icon">
-               <a href="#"><span class="icon icon-Video"></span></a>
+               
             </div>            
          </div>
          <div class="container">
@@ -292,7 +292,7 @@
                   <div class="col-sm-6 col-md-3">
                      <div class="team-single">
                         <div class="team-image">
-                           <img src="images/team/team-1.png"  class="img-responsive" alt="">
+                           <img src="images/team/team-1.jpg"  class="img-responsive" alt="">
                            <div class="team-hover-text">
                               <h2>Ahmed Abd-Alhaleem</h2>
                               <p>Head of Investment</p>
@@ -313,7 +313,7 @@
                   <div class="col-sm-6 col-md-3">
                      <div class="team-single">
                         <div class="team-image">
-                           <img src="images/team/team-2.png"  class="img-responsive" alt="">
+                           <img src="images/team/team-2.jpg"  class="img-responsive" alt="">
                            <div class="team-hover-text">
                               <h2>Ahmed Hassan</h2>
                               <p>Tax Advice</p>
@@ -334,7 +334,7 @@
                   <div class="col-sm-6 col-md-3">
                      <div class="team-single">
                         <div class="team-image">
-                           <img src="images/team/team-3.png"  class="img-responsive" alt="">
+                           <img src="images/team/team-3.jpg"  class="img-responsive" alt="">
                            <div class="team-hover-text">
                               <h2>Mohamed Habaza</h2>
                               <p>Business Planner</p>
@@ -355,7 +355,7 @@
                   <div class="col-sm-6 col-md-3">
                      <div class="team-single">
                         <div class="team-image">
-                           <img src="images/team/team-4.png"  class="img-responsive" alt="">
+                           <img src="images/team/team-4.jpg"  class="img-responsive" alt="">
                            <div class="team-hover-text">
                               <h2>Amr Gamal Sadeq</h2>
                               <p>Stock Market Broker</p>
@@ -448,7 +448,7 @@
                   <div class="col-md-4 col-sm-4">
                      <div class="blog-content-single">
                         <div class="blog-img">
-                           <img src="images/blog/blog-1.png" alt="" class="img-responsive">
+                           <img src="images/blog/blog-1.jpg" alt="" class="img-responsive">
                            <i class="fa fa-image"></i>
                         </div>
                         <div class="blog-text">
@@ -468,7 +468,7 @@
                   <div class="col-md-4 col-sm-4">
                      <div class="blog-content-single">
                         <div class="blog-img">
-                           <img src="images/blog/blog-2.png" alt="" class="img-responsive">
+                           <img src="images/blog/blog-2.jpg" alt="" class="img-responsive">
                            <i class="fa fa-briefcase"></i>
                         </div>
                         <div class="blog-text">
@@ -488,7 +488,7 @@
                   <div class="col-md-4 col-sm-4">
                      <div class="blog-content-single">
                         <div class="blog-img">
-                           <img src="images/blog/blog-3.png" alt="" class="img-responsive">
+                           <img src="images/blog/blog-3.jpg" alt="" class="img-responsive">
                            <i class="fa fa-vimeo-square"></i>
                         </div>
                         <div class="blog-text">

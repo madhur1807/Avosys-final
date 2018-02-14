@@ -1413,8 +1413,9 @@ a:hover, a:focus {
     box-shadow: 0 2.3px 2px 0.1px #f1f1f1;
 }
 .expert-left-layer{
+    height: auto!important;
     position: relative;
-    padding: 50px;
+    padding: 50px 50px 30px;
     background: url(../images/home-1-left-img.png);
     background-position: center center;
     background-size: cover;    
@@ -1443,7 +1444,7 @@ a:hover, a:focus {
     font-family: 'Droid Serif', serif;
     font-weight: bold;
     font-style: italic;
-    padding-top: 160px;
+    padding-top: 95px;
     position: relative;
 }
 .expert-left-layer p{
@@ -2650,7 +2651,7 @@ a:hover, a:focus {
     left: 0;
     width: 50%;
     height: 100%;
-    background-image: url(../images/home-2-feature.jpg);
+    background-image: url(../images/rev-slider.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;    
@@ -7367,6 +7368,10 @@ input.shop-submit:hover{
 }
 .ol-loan li{
     margin:10px;
+}
+.tp-bgimg.defaultimg{
+    background-color: rgba(0,0,0,0.4)!important;
+    background-blend-mode: overlay;
 }
 @media(max-width: 767px){
  #map {

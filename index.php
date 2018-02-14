@@ -157,13 +157,13 @@
 							data-splitin="none" 
 							data-splitout="none" 
 							data-responsive_offset="on" 							
-							style="z-index: 9; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);"><a href="#" class="btn rev-slider-btn rev-slider-btn-2">More About Us</a> 
+							style="z-index: 9; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);"><a href="about-us.php" class="btn rev-slider-btn rev-slider-btn-2">More About Us</a> 
                   </div>
 					
 					<!-- SLIDE  -->
 					<li data-index="rs-25" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-rotate="0"  data-saveperformance="off"  data-title="Home6" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 						<!-- MAIN IMAGE -->
-						<img src="images/rev-slider3.jpg"  alt="" title="bg-slider6"  width="1600" height="800" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+						<img src="images/rev-slider.jpg"  alt="" title="bg-slider6"  width="1600" height="800" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 						<!-- LAYERS -->
 						<div class="tp-caption   tp-resizeme" 
 							id="slide-25-layer-8" 
@@ -291,7 +291,7 @@
                         </div>
                         <div class="col-sm-6">
                            <div class="right-cmn-btn">
-                              <a href="#">About Us</a>                           
+                              <a href="about-us.php">About Us</a>                           
                            </div>
                         </div>
                      </div>
