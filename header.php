@@ -43,7 +43,7 @@
                                             <li><a href="working-capital.php">Working Capital</a></li>
                                             <li><a href="term-loan.php">Term Loan</a></li>
                                             <li><a href="balance-transfer.php">Balance Transfer</a></li>
-                                            <li><a href="bmi.php">EMI Calculator</a></li>
+                                            <li><a href="emi.php">EMI Calculator</a></li>
                                         </ul>
                                     </li>  
                         </ul>
