@@ -7,7 +7,7 @@
                     <div class="header-search">                       
                     </div>                   
                     <ul class="menuzord-menu menuzord-menu-bg">
-                    <li class="active"><a href="home.php">Home</a>                        
+                    <li class="active"><a href="index.php">Home</a>                        
                     </li>
                     <li><a href="about-us.php">About Us</a>     
                     </li>
