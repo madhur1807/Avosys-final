@@ -29,10 +29,10 @@
                                     </li>
                                     <li><a href="#">List of Documents</a>
                                         <ul class="dropdown">
-                                            <li><a href="header-6.html">For Salaried</a></li>
-                                            <li><a href="header-7.html">For Professionals</a></li>
-                                            <li><a href="header-8.html">For Business</a></li>
-                                            <li><a href="header-9.html">For NRI</a></li>
+                                            <li><a href="salaried.php">For Salaried</a></li>
+                                            <li><a href="professionals.php">For Professionals</a></li>
+                                            <li><a href="business.php">For Business</a></li>
+                                            <li><a href="nri.php">For NRI</a></li>
                                         </ul>
                                     </li>
                                     
@@ -52,7 +52,7 @@
                         
                     
                                             
-                    <li><a href="blog-grid.php">Get Associated With Us </a>
+                    <li><a href="get-associated.php">Get Associated With Us </a>
                     </li>       
                     <li><a href="contact.php">Contact Us</a></li>
                     </ul>
