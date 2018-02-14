@@ -195,8 +195,8 @@
                            <h2>Things to Remember</h2>
                            <p>
                              <ul>
-                               <li class=".f-h1-head"><p style="font-size:15px;margin-bottom: 10px">If the ratio is less than one then they have negative working capital.</p></li>
-                               <li class=".f-h1-head"><p style="font-size:15px">A high working capital ratio isn't always a good thing, it could indicate that they have too much inventory or they are not investing their excess cash.</p></li>
+                               <li class="f-h1-head"><p style="font-size:15px;margin-bottom: 10px">If the ratio is less than one then they have negative working capital.</p></li>
+                               <li class="f-h1-head"><p style="font-size:15px">A high working capital ratio isn't always a good thing, it could indicate that they have too much inventory or they are not investing their excess cash.</p></li>
                              </ul>                             
                            </p>
                        </div>
