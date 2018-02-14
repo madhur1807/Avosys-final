@@ -5,7 +5,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <!-- TITLE -->
-      <title>Experts</title>
+      <title>Contact Us</title>
       <!-- FAVICON -->
       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />      
       <!-- Bootstrap -->
@@ -63,7 +63,7 @@
       <!-- =========================
         START HEADER SECTION
       ============================== -->  
-      <?php include 'header.php'?>
+      <?php include 'header.php'; ?>
       <!-- =========================
         END HEADER SECTION
       ============================== -->
@@ -167,7 +167,7 @@
       <!-- =========================
         START FOOTER SECTION
       ============================== -->
-      <?php include 'footer.php' ?>
+      <?php include 'footer.php'; ?>
       <!-- =========================
         END FOOTER SECTION
       ============================== -->
