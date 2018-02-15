@@ -149,14 +149,9 @@
                <div class="row">
                   <div class="col-sm-12">
                      <div class="common-btn">
-                        <div class="col-sm-6">
-                           <div class="left-cmn-btn">
+                        <div class="col-sm-12">
+                           <div class="" style="text-align:center">
                               <a href="#">Our Services</a>                           
-                           </div>
-                        </div>
-                        <div class="col-sm-6">
-                           <div class="right-cmn-btn">
-                              <a href="#">About Us</a>                           
                            </div>
                         </div>
                      </div>
@@ -373,12 +368,7 @@
                         </div>
                      </div>
                   </div>
-               </div>
-               <div class="row">
-                  <div class="blog-explore text-center">
-                     <a href="#"><i class="fa fa-long-arrow-right"></i>Meet The Team</a>
-                  </div>
-               </div>               
+               </div>             
             </div>
          </div>          
       </section>
@@ -449,7 +439,7 @@
                      <div class="blog-content-single">
                         <div class="blog-img">
                            <img src="images/blog/blog-1.jpg" alt="" class="img-responsive">
-                           <i class="fa fa-image"></i>
+                           
                         </div>
                         <div class="blog-text">
                            <ul>
@@ -469,7 +459,7 @@
                      <div class="blog-content-single">
                         <div class="blog-img">
                            <img src="images/blog/blog-2.jpg" alt="" class="img-responsive">
-                           <i class="fa fa-briefcase"></i>
+                           
                         </div>
                         <div class="blog-text">
                            <ul>
@@ -489,7 +479,7 @@
                      <div class="blog-content-single">
                         <div class="blog-img">
                            <img src="images/blog/blog-3.jpg" alt="" class="img-responsive">
-                           <i class="fa fa-vimeo-square"></i>
+                           
                         </div>
                         <div class="blog-text">
                            <ul>

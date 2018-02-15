@@ -7,12 +7,12 @@
                     <div class="header-search">                       
                     </div>                   
                     <ul class="menuzord-menu menuzord-menu-bg">
-                    <li class="active"><a href="index.php">Home</a>                        
+                    <li class="active" id="home"><a href="index.php">Home</a>                        
                     </li>
-                    <li><a href="about-us.php">About Us</a>     
+                    <li id="about"><a href="about-us.php">About Us</a>     
                     </li>
                     <!--Services-->
-                        <li><a href="#">Services</a>
+                        <li id="service"><a href="#">Services</a>
                         <ul class="dropdown">
                             <li><a href="#">Retail Mortgage</a>
                                 <ul class="dropdown">
@@ -52,9 +52,9 @@
                         
                     
                                             
-                    <li><a href="get-associated.php">Get Associated With Us </a>
+                    <li id="get-associated"><a href="get-associated.php">Get Associated With Us </a>
                     </li>       
-                    <li><a href="contact.php">Contact Us</a></li>
+                    <li id="contact"><a href="contact.php">Contact Us</a></li>
                     </ul>
                     <div class="appointment-area">
                         <p><a href="contact.php">Happy to help You Always !</a></p>
@@ -63,3 +63,40 @@
         </div>
         </div>
     </header>
+    <script src="js/jquery-1.11.3.min.js"></script> 
+    <script>
+    $(document).ready(function(){
+        $("#home").off().on("click", function(){
+            alert("chl bc");
+            window.loca  = "home";
+            alert("hi" + window.loca);
+        });
+        $("#about").click(function(){
+            window.loca  = "about";
+        });
+        $("#contact").click(function(){
+            window.loca  = "contact";
+        });
+        $("#get-associated").click(function(){
+            window.loca  = "get-associated";
+        });
+        if(window.loca == "home"){
+            alert("home");
+            $(".menuzord-menu li").removeClass("active");
+            $(".menuzord-menu li").eq(0).addClass("active");
+        } else if(window.loca == "about"){
+            $(".menuzord-menu li").removeClass("active");
+            $(".menuzord-menu li").eq(1).addClass("active");
+        } else if(window.loca == "get-associated"){
+            $(".menuzord-menu li").removeClass("active");
+            $("#get-associated").addClass("active");
+        } else if(window.loca == "contact"){
+            $(".menuzord-menu li").removeClass("active");
+            $("#contact").addClass("active");
+        } else{
+            $(".menuzord-menu li").removeClass("active");
+            $(".menuzord-menu li").eq(2).addClass("active");
+        }
+
+    });        
+    </script>
