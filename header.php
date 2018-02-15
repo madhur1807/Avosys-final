@@ -7,9 +7,9 @@
                     <div class="header-search">                       
                     </div>                   
                     <ul class="menuzord-menu menuzord-menu-bg">
-                    <li class="active" id="home"><a href="index.php">Home</a>                        
+                    <li class="active"><a href="index.php">Home</a>                        
                     </li>
-                    <li id="about"><a href="about-us.php">About Us</a>     
+                    <li><a href="about-us.php">About Us</a>     
                     </li>
                     <!--Services-->
                         <li id="service"><a href="#">Services</a>
@@ -66,37 +66,22 @@
     <script src="js/jquery-1.11.3.min.js"></script> 
     <script>
     $(document).ready(function(){
-        $("#home").off().on("click", function(){
-            alert("chl bc");
-            window.loca  = "home";
-            alert("hi" + window.loca);
-        });
-        $("#about").click(function(){
-            window.loca  = "about";
-        });
-        $("#contact").click(function(){
-            window.loca  = "contact";
-        });
-        $("#get-associated").click(function(){
-            window.loca  = "get-associated";
-        });
-        if(window.loca == "home"){
-            alert("home");
+        var current_path = window.location.pathname.split('/').pop();
+        if(current_path == "index.php"){
             $(".menuzord-menu li").removeClass("active");
             $(".menuzord-menu li").eq(0).addClass("active");
-        } else if(window.loca == "about"){
+        } else if(current_path == "about-us.php"){
             $(".menuzord-menu li").removeClass("active");
             $(".menuzord-menu li").eq(1).addClass("active");
-        } else if(window.loca == "get-associated"){
+        } else if(current_path == "get-associated.php"){
             $(".menuzord-menu li").removeClass("active");
             $("#get-associated").addClass("active");
-        } else if(window.loca == "contact"){
+        } else if(current_path == "contact.php"){
             $(".menuzord-menu li").removeClass("active");
             $("#contact").addClass("active");
         } else{
             $(".menuzord-menu li").removeClass("active");
             $(".menuzord-menu li").eq(2).addClass("active");
         }
-
-    });        
+    });       
     </script>
