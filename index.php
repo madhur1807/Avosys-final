@@ -277,7 +277,7 @@
                      </div>
                   </div>
                </div>
-               <div class="row">
+               <!-- <div class="row">
                   <div class="col-sm-12">
                      <div class="common-btn welcome-title-cmn-btn">
                         <div class="col-sm-6">
@@ -292,7 +292,7 @@
                         </div>
                      </div>
                   </div>
-               </div>
+               </div> -->
             </div>
          </div>
       </section>
