@@ -443,36 +443,37 @@
                   <div id="client-slider" class="owl-carousel all-carousel owl-theme">
                      <div class="client-single">
                         <div class="client-img">
-                           <a href="#"><span><img src="images/citibank.png" alt="" style="height: auto"></span></a>
+                           <a href="javascript:void(0)"><span><img src="images/citibank.png" alt="" style="height: auto"></span></a>
                         </div>
                         <div class="client-img">
-                           <a href="#"><span><img style="height: auto" src="images/pnb.jpg" alt=""></span></a>
+                           <a href="javascript:void(0)"><span><img style="height: auto" src="images/pnb.jpg" alt=""></span></a>
                         </div>
                      </div>
                      <div class="client-single">
                         <div class="client-img">
-                           <a href="#"><span><img style="height:auto" src="images/hdfc.png" alt=""></span></a>
+                           <a href="javascript:void(0)"><span><img style="height:auto" src="images/hdfc.png" alt=""></span></a>
                         </div>
                         <div class="client-img">
-                           <a href="#"><span><img style="height: auto" src="images/kotak.jpg" alt=""></span></a>
+                           <a href="javascript:void(0)"><span><img style="height: auto" src="images/kotak.jpg" alt=""></span></a>
                         </div>
                      </div>
                      <div class="client-single">
                         <div class="client-img">
-                           <a href="#"><span><img style="height: auto" src="images/reliance.png" alt=""></span></a>
+                           <a href="javascript:void(0)"><span><img style="height: auto" src="images/reliance.png" alt=""></span></a>
                         </div>
                         <div class="client-img">
-                           <a href="#"><span><img style="height: auto" src="images/indiabulls.png" alt=""></span></a>
+                           <a href="javascript:void(0)"><span><img style="height: auto" src="images/indiabulls.jpg" alt=""></span></a>
                         </div>
                      </div>
                      <div class="client-single">
                         <div class="client-img">
-                           <a href="#"><span><img style="height:auto" src="images/rbl.png" alt=""></span></a>
+                           <a href="javascript:void(0)"><span><img style="height:auto" src="images/rbl.png" alt=""></span></a>
                         </div>
                         <div class="client-img">
-                           <a href="#"><span><img style="height:auto" src="images/indusland.jpg" alt=""></span></a>
+                           <a href="javascript:void(0)"><span><img style="height:auto" src="images/indusland.jpg" alt=""></span></a>
                         </div>
                      </div>
+
                   </div>
                </div>
             </div>
