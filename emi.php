@@ -23,7 +23,7 @@
       <!-- Popup -->
       <link rel="stylesheet" href="css/magnific-popup.css">      
       <!-- JQUERY UI STYLE -->
-      <link rel="stylesheet" href="css/jquery-ui.css">        
+      <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">       
       <!-- OWL CSS -->
       <link href="css/owl.theme.default.css" rel="stylesheet">
       <link href="css/owl.carousel.css" rel="stylesheet">  
@@ -34,7 +34,7 @@
       <link rel="stylesheet" type="text/css" href="revolution/css/navigation.css">           
       <!-- MAIN STYLE -->
       <link rel="stylesheet" href="css/style.css">
-
+      <link rel="stylesheet" href="css/emi.css">
       <!-- GOOGLE FONT -->
       <link href='https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
       <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
@@ -98,11 +98,48 @@
       <!-- =========================
         START FEATURE TYPOGRAPHY SECTION
       ============================== -->         
-      <section class="feature-typo">
+      <section class="feature-typo" style="padding:50px 0">
            <div class="container">
                <div class="row">
                    <div class="col-md-12">
-                       <div class="f-h1-head">
+                    <div id="main_bot" >
+                        <div id="slider_1" class="col-md-8">
+                            <div id="textarea_three">0</div>
+                            <div id="textarea_four">20L</div>
+                        </div> 
+                        <div class="col-md-4 " style="text-align:right;">
+                          <div class="input-group" style="width:75%;float:right;">
+                            <input type="number" class="form-control" id="valueY" style="display: inline-block;">
+                            <span class="input-group-addon" id="basic-addon2">Lakhs</span>
+                          </div>
+                        </div>
+                    </div>
+                    <div id="main_bot1">
+                        <div id="slider_2" class="col-md-8">
+                            <div id="textarea_three">0</div>
+                            <div id="textarea_four">15p.a.</div>
+                            
+                        </div> 
+                        <div class="col-md-4 " style="text-align:right;">
+                          <div class="input-group" style="width:75%;float:right;">
+                            <input type="number" class="form-control" id="valueY" style="display: inline-block;">
+                            <span class="input-group-addon" id="basic-addon2">p.a</span>
+                          </div>
+                        </div>
+                    </div>
+                    <div id="main_bot2">
+                        <div id="slider_3" class="col-md-8">
+                            <div id="textarea_three">0</div>
+                            <div id="textarea_four">30Years</div>
+                        </div> 
+                        <div class="col-md-4 " style="text-align:right;">
+                          <div class="input-group" style="width:75%;float:right;">
+                            <input type="number" class="form-control" id="valueY" style="display: inline-block;">
+                            <span class="input-group-addon" id="basic-addon2">Years</span>
+                          </div>
+                        </div>
+                    </div>
+                       <!-- <div class="f-h1-head">
                            <h1>What is EMI?</h1>
                            <p>Equated Monthly Installment – EMI for short – is the amount payable every month to the bank or any other financial institution until the loan amount is fully paid off. It consists of the interest on loan as well as part of the principal amount to be repaid. The sum of principal amount and interest is divided by the tenure, i.e., number of months, in which the loan has to be repaid. This amount has to be paid monthly. The interest component of the EMI would be larger during the initial months and gradually reduce with each payment. The exact percentage allocated towards payment of the principal depends on the interest rate. Even though your monthly EMI payment won’t change, the proportion of principal and interest components will change with time. With each successive payment, you’ll pay more towards the principal and less in interest.<br><br><span style="font-weight: bold;font-size: 14px;"
                             >Here’s the formula to calculate EMI:</span><br><br>
@@ -110,12 +147,15 @@
                             <b>where</b><br>
                             <b>E</b> is EMI<br>
                             <b>P</b> is Principal Loan Amount<br>
+                            
                             <b>r</b> is s rate of interest calculated on monthly basis. (i.e., r = Rate of Annual interest/12/100. If rate of interest is 10.5% per annum, then r = 10.5/12/100=0.00875)<br>
                             <b>n</b> is loan term / tenure / duration in number of months<br><br>
                             Whether you obtain a secured loan (home loan or car loan) or an unsecured loan (personal loan), you have to repay the loan through Equated Monthly Installments (EMIs) over a specified period of time called the loan tenure. The cost of your loan is calculated in terms of monthly payments. Loan EMI calculation can help you find out the monthly cost of your loan. Accordingly, you can create a monthly budget to balance your income and expense.<br><br>
                             To ensure your loan EMI payments are within your repayment capacity, you can either adjust the loan tenure or the loan amount, or both. You can’t adjust the loan interest rate and processing fee levied by a bank. However, you can compare various loan offers and choose one with a low interest rate and zero processing fee to lower the cost of your loan.
+
+                            
                           </p>
-                       </div>
+                       </div> -->
                    </div>
                </div>                                             
            </div>
@@ -152,10 +192,80 @@
       <script src="js/jquery.bootFolio.js"></script>
       <script src="js/jquery.magnific-popup.js"></script>
       <script src="https://maps.googleapis.com/maps/api/js"></script>       
-      <script src="js/jquery-ui.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script>
       <script src="js/rev-function.js"></script>     
       <script src="js/smoothscroll.js"></script>      
       <script src="js/jquery.matchHeight.js"></script>       
       <script src="js/main.js"></script>        
+      <script>
+      
+        $(function () {
+          
+          var slider = $("#slider_1").slider({
+          range: "min",     
+            value: 1000000,
+            min: 0,
+            max: 2000000,
+            step: 1,
+              
+              slide: function(event, ui) {
+                  $(ui.handle).find('.tooltip_bottom').text(ui.value);
+                  $(ui.handle).find('#valueL').val(ui.value);
+              },
+              create: function(event, ui) {
+                var tooltip_bottom = $('<div class="tooltip_bottom"></div>');
+                
+                $(event.target).find('.ui-slider-handle').append(tooltip_bottom);
+              },
+              change: function(event, ui) {
+                        $('#hidden_bottom').attr('value', ui.value);
+                        }
+          });
+
+          var slider = $("#slider_2").slider({
+          range: "min",     
+            value: 4.00,
+            min: 0.00,
+            max: 15.00,
+            step: 1,
+              
+              slide: function(event, ui) {
+                  $(ui.handle).find('.tooltip_bottom').text(ui.value);
+                  $(ui.handle).find('#valueP').val(ui.value);
+              },
+              create: function(event, ui) {
+                var tooltip_bottom = $('<div class="tooltip_bottom"></div>');
+                
+                $(event.target).find('.ui-slider-handle').append(tooltip_bottom);
+              },
+              change: function(event, ui) {
+                        $('#hidden_bottom').attr('value', ui.value);
+                        }
+          });
+
+          var slider = $("#slider_3").slider({
+          range: "min",     
+            value: 5,
+            min: 0,
+            max: 30,
+            step: 1,
+              
+              slide: function(event, ui) {
+                  $(ui.handle).find('.tooltip_bottom').text(ui.value);
+                  $(ui.handle).find('#valueY').val(ui.value);
+              },
+              create: function(event, ui) {
+                var tooltip_bottom = $('<div class="tooltip_bottom"></div>');
+                
+                $(event.target).find('.ui-slider-handle').append(tooltip_bottom);
+              },
+              change: function(event, ui) {
+                        $('#hidden_bottom').attr('value', ui.value);
+                        }
+          });
+        });
+
+
+      </script>
    </body>
 </html>

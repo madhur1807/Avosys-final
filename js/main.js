@@ -1,6 +1,7 @@
 jQuery(function($) {
         'use strict';
-
+        //emi slider
+        
         (function() {
 
             $(window).on('load', function() {

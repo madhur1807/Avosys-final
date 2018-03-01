@@ -1,0 +1,69 @@
+#main, #main_bot,#main_bot1,#main_bot2 {
+    /* width: 75%; */
+    height: auto;
+    margin: 0px 0 0;
+    padding: 40px 0 ;
+    position: relative;
+}
+#slider, #slider_bottom{
+	width: 520px;
+	position: absolute;
+	height: 10px;
+	/* background: url(https://s12.postimg.org/86n3b78p9/range_before.png) repeat top left !important; */
+}
+#slider_bottom{
+	/* margin-top: 200px; */
+}
+.tooltip, .tooltip_bottom {
+    /* background: url(https://s1.postimg.org/vsg0yj2mj/tooltip.png) no-repeat !important; */
+    position: absolute;
+    display: block;
+    top: -30px;
+    width: auto;
+    border: 1px solid #464646;
+    padding: 3px;
+    border-radius: 3px;
+    /* height: 29px; */
+    color: black;
+    text-align: center;
+    color: #464646;
+    font: 14px Arial, sans-serif;
+}
+.ui-slider-handle {
+	position: absolute!important;
+	z-index: 2!important;
+	width: 20px!important;
+	height: 20px!important;
+	cursor: pointer!important;
+    /* background: url('https://s24.postimg.org/lltizgrj5/handler.png') no-repeat 50% 50% !important; */
+    background: #1bb580 !important;
+    border-radius: 50%!important;
+    background-size: contain!important;
+	outline: none!important;
+    top: -7px!important;
+    box-shadow: 0 0 3px #333;
+    border: none!important;
+	margin-left: -12px!important;
+}
+.ui-slider-range {
+	/* background: url(https://s12.postimg.org/qq1dousb1/range_filled.png) no-repeat !important; */
+	position: absolute;
+	border: 0;
+	top: 0;
+	height: 100% !important;
+	border-radius: 25px;
+}
+#textarea_one, #textarea_three {
+	margin-top: -6px;
+	margin-left: -25px;
+}
+#textarea_two, #textarea_four {
+    margin-left:753px;
+    margin-top: -20px;
+}
+#textarea_one, #textarea_two, #textarea_three, #textarea_four {
+	/* font-weight: 600; */
+	font-family: Arial;
+	font-size: 14px;
+	color: #666;
+}
