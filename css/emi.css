@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 #main, #main_bot,#main_bot1,#main_bot2 {
     /* width: 75%; */
     height: auto;
@@ -71,7 +72,12 @@
 	color: #666;
 }
 .right-emi{
-    display:grid;
+    /* display:grid;
     justify-items: center;
-    align-items: center;
+    align-items: center; */
+    text-align: center;
+}
+.emi-result{
+    color: #1bb580;
+    font-family: 'Roboto', sans-serif;
 }

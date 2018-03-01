@@ -142,7 +142,7 @@
                           </div>
                         </div>
                     </div>
-                    
+                   
                        <!-- <div class="f-h1-head">
                            <h1>What is EMI?</h1>
                            <p>Equated Monthly Installment – EMI for short – is the amount payable every month to the bank or any other financial institution until the loan amount is fully paid off. It consists of the interest on loan as well as part of the principal amount to be repaid. The sum of principal amount and interest is divided by the tenure, i.e., number of months, in which the loan has to be repaid. This amount has to be paid monthly. The interest component of the EMI would be larger during the initial months and gradually reduce with each payment. The exact percentage allocated towards payment of the principal depends on the interest rate. Even though your monthly EMI payment won’t change, the proportion of principal and interest components will change with time. With each successive payment, you’ll pay more towards the principal and less in interest.<br><br><span style="font-weight: bold;font-size: 14px;"
@@ -161,7 +161,7 @@
                           </p>
                        </div> -->
                    </div>
-                   <div class="col-md-5 right-emi" >
+                   <div class="right-emi" >
                         <h3>Monthly EMI:</h3>
                         <h3 class="emi-result"></h3>
                     </div>
