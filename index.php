@@ -139,7 +139,7 @@
 							data-splitin="none" 
 							data-splitout="none" 
 							data-responsive_offset="on" 							
-							style="z-index: 8; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);"><a href="#" class="btn rev-slider-btn">Explore Our Services</a> </div>
+							style="z-index: 8; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);"></div>
 
 						<!-- LAYER NR. 5 -->
 						<div class="tp-caption   tp-resizeme" 
@@ -155,7 +155,7 @@
 							data-splitin="none" 
 							data-splitout="none" 
 							data-responsive_offset="on" 							
-							style="z-index: 9; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);"><a href="about-us.php" class="btn rev-slider-btn rev-slider-btn-2">More About Us</a> 
+							style="z-index: 9; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);margin: 0 auto !important"><a href="about-us.php" class="btn rev-slider-btn rev-slider-btn-2">More About Us</a> 
                   </div>
 					
 					<!-- SLIDE  -->
@@ -311,8 +311,8 @@
                   <div class="menuzord-brand-type-2">
                      <img src="images/logo.png" width="150" alt="">
                   </div>
-                  <h2>Avosys is India's leading financial services marketplace.</h2>
-                  <p>With so many Mortgage and Insurance Brokers out there today, we know that you have more choice than ever! The choice is in your hands: Where do you go to get an advice and where you purchase products?!!</p>
+                  <h2>Avosys is a leading financial services marketplace.</h2>
+                  <p>With so many Mortgage Brokers out there today, we know that you have more choice than ever! The choice is in your hands: Where do you go to get an advice and where you purchase products?!!</p>
                   <div class="common-btn">
                      <div class="left-cmn-btn btn-expert-left">
                         <a href="#">Our Features</a>                           
@@ -368,14 +368,14 @@
                            <div class="main-title-content">
                               <h3>Having a trouble?</h3>
                               <h2>Find Advisor</h2>
-                              <p>Find out about the ways to deal with debts if you are falling behind with day-to-day bills, loan and credit card repayments or other commitments & get some free advice by speaking to one of our financial advisers over the phone? Just submit your details and we’ll be in touch shortly. Our staff can help work out what's right for you !</p>
+                              <p>Find out about the ways to deal with debts if you are falling behind with loan and get some free advice by speaking to one of our financial advisers over the phone? Just submit your details and we’ll be in touch shortly. Our staff can help work out what's right for you !</p>
                            </div>                     
                         </div>
-                        <div class="form-left-address">
+                        <!-- <div class="form-left-address">
                            Monday to Friday, 8am to 8pm <br>
                            Saturday, 9am to 1pm <br>
                            Sunday and Bank Holidays, closed
-                        </div>                     
+                        </div>  -->                    
                      </div>
                   </div> 
                   <div class="col-sm-7">
@@ -393,9 +393,12 @@
                               </div>
                               <div class="col-sm-6">
                                  <select class="form-control">
-                                    <option>Saving & Investing</option>
-                                    <option>The second option</option>
-                                    <option>The thrid option</option>
+                                    <option>Home Loan</option>
+                                    <option>Loan Against Property</option>
+                                    <option>Purchase Of Commercial Property</option>
+                                    <option>Lease Rental Discounting</option>
+                                    <option>Buisness Loan</option>
+                                    <option>Balance Transfer</option>
                                  </select>
                               </div>
                               <div class="col-sm-12">
