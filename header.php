@@ -1,3 +1,4 @@
+
 <header class="header-area navbar-fixed-top">
         <div class="container custom-header">
         <div class="row">
@@ -10,8 +11,36 @@
                     </li>
                     <li><a href="about-us.php">About Us</a>     
                     </li>
+                    <li><a href="#">Retail Mortgage</a>
+                        <ul class="dropdown">
+                            <li><a href="#">Services</a>
+                                <ul class="dropdown">
+                                    <li><a href="home-loan.php">Home Loan</a></li>
+                                    <li><a href="loan-against-property.php">Loan Against Property</a></li>
+                                    <li><a href="purchase-of-commercial-property.php">Purchase of Commercial Property</a></li>
+                                    <li><a href="lease-rental-discounting.php">Lease Rental Discounting</a></li>
+                                    <li><a href="bussiness-loan.php">Business Loan</a></li>
+                                    <li><a href="balance-transfer.php">Balance Transfer</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">List of Documents</a>
+                                <ul class="dropdown">
+                                    <li><a href="salaried.php">For Salaried</a></li>
+                                    <li><a href="business.php">For Business</a></li>
+                                </ul>
+                            </li>                            
+                        </ul>
+                    </li>
+                    <li id="project-financing"><a href="#">Project Financing</a>
+                        <ul class="dropdown">
+                            <li><a href="working-capital.php">Working Capital</a></li>
+                            <li><a href="term-loan.php">Term Loan</a></li>
+                            <li><a href="balance-transfer.php">Balance Transfer</a></li>
+                            <li><a href="emi.php">EMI Calculator</a></li>
+                        </ul>
+                    </li>
                     <!--Services-->
-                        <li id="service"><a href="#">Services</a>
+                        <!-- <li id="service"><a href="#">Services</a>
                         <ul class="dropdown">
                             <li><a href="#">Retail Mortgage</a>
                                 <ul class="dropdown">
@@ -43,7 +72,7 @@
                                         </ul>
                                     </li>  
                         </ul>
-                    </li>
+                    </li> -->
                         <!--end of services header-->
                         
                     
@@ -73,9 +102,15 @@
         } else if(current_path == "contact.php"){
             $(".menuzord-menu li").removeClass("active");
             $("#contact").addClass("active");
-        } else{
+        } else if(current_path == "home-loan.php" || current_path == "loan-against-property.php" || current_path == "purchase-of-commercial-property.php" || current_path == "lease-rental-discounting.php" || current_path == "Business-loan.php" || current_path == "balance-transfer.php" || current_path == "salaried.php" || current_path == "business.php"){
+                $(".menuzord-menu li").removeClass("active");
+                $(".menuzord-menu li").eq(2).addClass("active");
+        } else if(current_path == "working-capital.php" || current_path == "term-loan.php" || current_path == "balance-transfer.php" || current_path == "emi.php"){
             $(".menuzord-menu li").removeClass("active");
-            $(".menuzord-menu li").eq(2).addClass("active");
+            $("#project-financing").addClass("active");
+        }
+        if(current_path == "privacy-policy.php"){
+            $(".menuzord-menu li").removeClass("active");
         }
     });       
     </script>
