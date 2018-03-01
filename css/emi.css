@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 #main, #main_bot,#main_bot1,#main_bot2 {
     /* width: 75%; */
     height: auto;
     margin: 0px 0 0;
-    padding: 40px 0 ;
+    padding: 20px 30px 45px ;
     position: relative;
 }
 #slider, #slider_bottom{
@@ -28,6 +29,9 @@
     text-align: center;
     color: #464646;
     font: 14px Arial, sans-serif;
+}
+.main-emi h4{
+    margin-bottom: 25px;
 }
 .ui-slider-handle {
 	position: absolute!important;
@@ -55,10 +59,10 @@
 }
 #textarea_one, #textarea_three {
 	margin-top: -6px;
-	margin-left: -25px;
+	margin-left: -28px;
 }
 #textarea_two, #textarea_four {
-    margin-left:753px;
+    margin-left:295px;
     margin-top: -20px;
 }
 #textarea_one, #textarea_two, #textarea_three, #textarea_four {
@@ -66,4 +70,14 @@
 	font-family: Arial;
 	font-size: 14px;
 	color: #666;
+}
+.right-emi{
+    /* display:grid;
+    justify-items: center;
+    align-items: center; */
+    text-align: center;
+}
+.emi-result{
+    color: #1bb580;
+    font-family: 'Roboto', sans-serif;
 }
