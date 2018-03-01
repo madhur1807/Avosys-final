@@ -9,6 +9,7 @@
       <!-- FAVICON -->
       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />      
       <!-- Bootstrap -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
       <link href="css/bootstrap.min.css" rel="stylesheet">
       <!--FONT AWESOME -->
       <link href="css/font-awesome.css" rel="stylesheet">
@@ -102,94 +103,31 @@
            <div class="container">
                <div class="row">
                    <div class="feature-bullet-list clearfix">
-                       <h5><i class="fa fa-play-circle-o"></i> PARTNERSHIP FIRM/ PVT. LTD. COMPANY OR PUBLIC LTD. CO./PERSONAL DOCUMENTS - ALL DOCUMENTS SHOULD BE SELF ATTESTED</h5>
-                      
-                       <div class="col-sm-12 col-md-12">
-                           <div class="bullet-list-content">
-                               <ul>
-                                   <li><i class="fa fa-check-circle-o"></i>Application Form with Photograph &amp; Cross sign. &amp; Login Fee Cheque as applicable in the name of Bank req.</li>
-                                   <li><i class="fa fa-check-circle-o"></i>Date of Birth Proof (PAN Card copy, Passport, Aadhar card, 10th Class Cetificate) req.</li>
-                                   <li><i class="fa fa-check-circle-o"></i>Residence Address proof (Telephone bill/Electricity bill) req.</li>
-                                   <li><i class="fa fa-check-circle-o"></i>Office Address proof (Telephone bill/Electricity bill) req.</li>
-                                   <li><i class="fa fa-check-circle-o"></i>Business &amp; Company Profile &amp; Company registration certificate req.</li>
-                                   <li><i class="fa fa-check-circle-o"></i>Memorandum &amp; Article of Association (MOA) / AOA / Partnership Deed as applicable req.</li>
-                                   <li><i class="fa fa-check-circle-o"></i>List of Director &amp; List of Shareholders on letter head duly certified by CA (In case of company) req.</li>
-                                   <li><i class="fa fa-check-circle-o"></i>Copy of Pan Card of Partnership firm/Company req.</li>
-                               </ul>
-                           </div>
-                       </div>
-                       <div class="col-sm-6 col-md-3">
-                           <div class="bullet-list-content">
-                               <ul>
-                                   <li><i class="fa fa-angle-right"></i> Creative template</li>
-                                   <li><i class="fa fa-angle-right"></i> Unique & clean design</li>
-                                   <li><i class="fa fa-angle-right"></i> Super features</li>
-                                   <li><i class="fa fa-angle-right"></i> E-Commerce pages</li>
-                                   <li><i class="fa fa-angle-right"></i> Great UI / UX work</li>
-                                   <li><i class="fa fa-angle-right"></i> Awesome typography</li>
-                               </ul>
-                           </div>
-                       </div>
-                       <div class="col-sm-6 col-md-3">
-                           <div class="bullet-list-content">
-                               <ul>
-                                   <li><i class="fa fa-star-o"></i> Creative template</li>
-                                   <li><i class="fa fa-star-o"></i> Unique & clean design</li>
-                                   <li><i class="fa fa-star-o"></i> Super features</li>
-                                   <li><i class="fa fa-star-o"></i> E-Commerce pages</li>
-                                   <li><i class="fa fa-star-o"></i> Great UI / UX work</li>
-                                   <li><i class="fa fa-star-o"></i> Awesome typography</li>
-                               </ul>
-                           </div>
-                       </div>  
-                       <div class="col-sm-6 col-md-3">
-                           <div class="bullet-list-content">
-                               <ul>
-                                   <li><i class="fa fa-arrow-circle-right"></i> Creative template</li>
-                                   <li><i class="fa fa-arrow-circle-right"></i> Unique & clean design</li>
-                                   <li><i class="fa fa-arrow-circle-right"></i> Super features</li>
-                                   <li><i class="fa fa-arrow-circle-right"></i> E-Commerce pages</li>
-                                   <li><i class="fa fa-arrow-circle-right"></i> Great UI / UX work</li>
-                                   <li><i class="fa fa-arrow-circle-right"></i> Awesome typography</li>
-                               </ul>
-                           </div>
-                       </div> 
-                       <div class="col-sm-6 col-md-3">
-                           <div class="bullet-list-content">
-                               <ul>
-                                   <li><i class="fa fa-caret-right"></i> Creative template</li>
-                                   <li><i class="fa fa-caret-right"></i> Unique & clean design</li>
-                                   <li><i class="fa fa-caret-right"></i> Super features</li>
-                                   <li><i class="fa fa-caret-right"></i> E-Commerce pages</li>
-                                   <li><i class="fa fa-caret-right"></i> Great UI / UX work</li>
-                                   <li><i class="fa fa-caret-right"></i> Awesome typography</li>
-                               </ul>
-                           </div>
-                       </div>
-                       <div class="col-sm-6 col-md-3">
-                           <div class="bullet-list-content">
-                               <ul>
-                                   <li><i class="fa fa-circle"></i> Creative template</li>
-                                   <li><i class="fa fa-circle"></i> Unique & clean design</li>
-                                   <li><i class="fa fa-circle"></i> Super features</li>
-                                   <li><i class="fa fa-circle"></i> E-Commerce pages</li>
-                                   <li><i class="fa fa-circle"></i> Great UI / UX work</li>
-                                   <li><i class="fa fa-circle"></i> Awesome typography</li>
-                               </ul>
-                           </div>
-                       </div> 
-                       <div class="col-sm-6 col-md-3">
-                           <div class="bullet-list-content">
-                               <ol>
-                                   <li> Creative template</li>
-                                   <li> Unique & clean design</li>
-                                   <li> Super features</li>
-                                   <li> E-Commerce pages</li>
-                                   <li> Great UI / UX work</li>
-                                   <li> Awesome typography</li>
-                               </ol>
-                           </div>
-                       </div>                                                                             
+                    <div class="card">
+                        <div class="card-header bg-info text-light">
+                        <h5>IN CASE OF SALARED PERSONAL DOCUMENTS - ALL DOCUMENTS SHOULD BE SELF ATTESTED</h5>
+                        </div>
+                        <div class="card-body bullet-list-content">
+                            <ol>
+                                <li>Application Form with Photograph &amp; Cross sign. &amp; Login Fee Cheque as applicable in the name of Bank req.</li>
+                                <li>Date of Birth Proof (PAN Card copy, Passport, Aadhar card, 10th Class Cetificate) req.</li>
+                                <li>Residence Address proof (Telephone bill/Electricity bill) req.</li>
+                                <li>Latest 3 months salary slip req.</li>
+                                <li>All Rent Agreement/Lease Deed req.</li>
+                                <li>Form 16 &amp; Form-26AS for last three Year / Appointment Letter req.</li>
+                                <li>Updated 12th month’s bank statement of salary a/c. &amp; Other Account. req.</li>
+                                <li>One year track record &amp; sanction letter of all loans which is running or closed within last 12 months req.</li>
+                                <li>Bank statement where EMI paid req.</li>
+                            </ol>
+
+                            <h6><i class="fa fa-arrow-circle-right"></i> PROPERTY PAPERS</h6>
+                            <ol>
+                               <li> Two Copy of sanctioned plan with area Map req.</li>
+                               <li> Copy of property documents with complete chain. (Back to back)</li>
+                            </ol>
+
+                        </div>
+                    </div>                                                                        
                    </div>
                </div>                                              
            </div>
