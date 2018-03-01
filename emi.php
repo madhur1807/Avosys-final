@@ -110,7 +110,7 @@
                         </div> 
                         <div class="col-md-6" style="text-align:right;">
                           <div class="input-group" style="width: 65%;float:right;">
-                            <input type="number" class="form-control" id="valueL" style="display: inline-block;">
+                            <input type="number" class="form-control" onChange="amountChanged(this)" id="valueL" style="display: inline-block;">
                             <span class="input-group-addon" id="basic-addon2">Lakhs</span>
                           </div>
                         </div>
@@ -124,7 +124,7 @@
                         </div> 
                         <div class="col-md-6 " style="text-align:right;">
                           <div class="input-group" style="width: 65%;float:right;">
-                            <input type="number" class="form-control" id="valueP" style="display: inline-block;">
+                            <input type="number" class="form-control" id="valueP" style="display: inline-block;" max="15">
                             <span class="input-group-addon" id="basic-addon2">p.a</span>
                           </div>
                         </div>
@@ -137,7 +137,7 @@
                         </div> 
                         <div class="col-md-6 " style="text-align:right;">
                           <div class="input-group" style="width: 65%;float:right;">
-                            <input type="number" class="form-control" id="valueY" style="display: inline-block;">
+                            <input type="number" class="form-control" id="valueY" style="display: inline-block;" max="30">
                             <span class="input-group-addon" id="basic-addon2">Years</span>
                           </div>
                         </div>
@@ -263,6 +263,29 @@
                         $('#hidden_bottom').attr('value', ui.value);
                         }
                         
+          });
+         
+          $("#valueL").bind('keyup mouseup', function () {
+              var changedvalue = $(this).val();  
+              $("#slider_1").slider({
+                value: changedvalue
+              });        
+              calEMI();  
+          });
+          $("#valueP").bind('keyup mouseup', function () {
+              var changedvalue = $(this).val();  
+          
+              $("#slider_2").slider({
+                value: changedvalue
+              });  
+              calEMI();        
+          });
+          $("#valueY").bind('keyup mouseup', function () {
+              var changedvalue = $(this).val();  
+              $("#slider_3").slider({
+                value: changedvalue
+              });  
+              calEMI();        
           });
           function calEMI(){
             var loanAmount = $("#valueL").val();
