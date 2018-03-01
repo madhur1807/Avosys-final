@@ -133,7 +133,7 @@
 						<!-- LAYER NR. 4 -->
 						<div class="tp-caption   tp-resizeme" 
 							id="slide-1-layer-4" 
-							data-x="center" data-hoffset="-137" 
+							data-x="center" data-hoffset="" 
 							data-y="526" 
 							data-width="['auto']"
 							data-height="['auto']"
@@ -149,7 +149,7 @@
 						<!-- LAYER NR. 5 -->
 						<div class="tp-caption   tp-resizeme" 
 							id="slide-1-layer-5" 
-							data-x="center" data-hoffset="98" 
+							data-x="center" data-hoffset="" 
 							data-y="526" 
 							data-width="['auto']"
 							data-height="['auto']"
@@ -160,7 +160,7 @@
 							data-splitin="none" 
 							data-splitout="none" 
 							data-responsive_offset="on" 							
-							style="z-index: 9; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);margin: 0 auto !important"><a href="about-us.php" class="btn rev-slider-btn rev-slider-btn-2">More About Us</a> 
+							style="z-index: 9; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);"><a href="about-us.php" class="btn rev-slider-btn rev-slider-btn-2">More About Us</a> 
                   </div>
 					
 					<!-- SLIDE  -->
