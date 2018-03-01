@@ -237,8 +237,8 @@
                      <div class="main-title-content text-center">
                         <h3>Rightful advice!</h3>
                         <h2>We Are Finance Experts</h2>
-                        <p>Want a head start? See how easy it is by checking out our advices from experts <br>
-                        and people who have already saved.
+                        <p>Want a head start? See how easy it is to meet all<br>
+                        your mortgage requirements.
                          <br/> We help you getting Loan in 3 Simple Steps !
                          </p>
                      </div>
@@ -313,11 +313,11 @@
                   </div>
                   <h2>Avosys is a leading financial services marketplace.</h2>
                   <p>With so many Mortgage Brokers out there today, we know that you have more choice than ever! The choice is in your hands: Where do you go to get an advice and where you purchase products?!!</p>
-                  <div class="common-btn">
+                  <!-- <div class="common-btn">
                      <div class="left-cmn-btn btn-expert-left">
                         <a href="#">Our Features</a>                           
                      </div>
-                  </div>
+                  </div> -->
                   </div>
                </div>
                <div class="col-md-6">
@@ -327,7 +327,7 @@
                            <div class="expert-right-single-content e-r-s-padding-btm e-r-s-right-padding">
                               <i class="fa fa-graduation-cap"></i>
                               <h2>Financial Experts</h2>
-                              <p>We have the most famous experts in reputable company providing expert advice.</p>
+                              <p>We have the most experienced experts available in the industry.</p>
                            </div>
                            <div class="expert-right-single-content e-r-s-padding-btm e-r-s-border e-r-s-left-padding">
                               <i class="fa fa-flag"></i>
@@ -443,34 +443,34 @@
                   <div id="client-slider" class="owl-carousel all-carousel owl-theme">
                      <div class="client-single">
                         <div class="client-img">
-                           <a href="#"><span><img src="images/client/client-1.png" alt=""></span></a>
+                           <a href="#"><span><img src="images/citibank.png" alt="" style="height: auto"></span></a>
                         </div>
                         <div class="client-img">
-                           <a href="#"><span><img src="images/client/client-5.png" alt=""></span></a>
-                        </div>
-                     </div>
-                     <div class="client-single">
-                        <div class="client-img">
-                           <a href="#"><span><img src="images/client/client-2.png" alt=""></span></a>
-                        </div>
-                        <div class="client-img">
-                           <a href="#"><span><img src="images/client/client-6.png" alt=""></span></a>
+                           <a href="#"><span><img style="height: auto" src="images/pnb.jpg" alt=""></span></a>
                         </div>
                      </div>
                      <div class="client-single">
                         <div class="client-img">
-                           <a href="#"><span><img src="images/client/client-3.png" alt=""></span></a>
+                           <a href="#"><span><img style="height:auto" src="images/hdfc.png" alt=""></span></a>
                         </div>
                         <div class="client-img">
-                           <a href="#"><span><img src="images/client/client-7.png" alt=""></span></a>
+                           <a href="#"><span><img style="height: auto" src="images/kotak.jpg" alt=""></span></a>
                         </div>
                      </div>
                      <div class="client-single">
                         <div class="client-img">
-                           <a href="#"><span><img src="images/client/client-4.png" alt=""></span></a>
+                           <a href="#"><span><img style="height: auto" src="images/reliance.png" alt=""></span></a>
                         </div>
                         <div class="client-img">
-                           <a href="#"><span><img src="images/client/client-8.png" alt=""></span></a>
+                           <a href="#"><span><img style="height: auto" src="images/indiabulls.png" alt=""></span></a>
+                        </div>
+                     </div>
+                     <div class="client-single">
+                        <div class="client-img">
+                           <a href="#"><span><img style="height:auto" src="images/rbl.png" alt=""></span></a>
+                        </div>
+                        <div class="client-img">
+                           <a href="#"><span><img style="height:auto" src="images/indusland.jpg" alt=""></span></a>
                         </div>
                      </div>
                   </div>

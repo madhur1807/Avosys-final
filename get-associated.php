@@ -46,6 +46,101 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
+      <style type="text/css">
+        .heading-bottom1 , .heading-bottom2 , .heading-bottom3, .heading-bottom4{
+          text-align: center;
+        }
+        #number1:hover{
+          border-color: #e96656;
+        }
+        #number2:hover{
+          border-color: #34d293;
+        }
+        #number3:hover{
+          border-color: #3ab0e2;
+        }
+        #number4:hover{
+          border-color: #f7d861;
+        }
+        .heading-bottom1:before {
+          position: absolute;
+          margin: auto;
+          z-index: 1;
+          content: "";
+          width: 24%;
+          height: 2px;
+          background: #e96656;
+          bottom: 199px;
+          left: 38.5%;
+        }
+        .heading-bottom2:before {
+          position: absolute;
+          margin: auto;
+          z-index: 1;
+          content: "";
+          width: 32%;
+          height: 2px;
+          background: #34d293;
+          bottom: 270px;
+          left: 33.5%;
+        }
+        .number{
+          /*border-color: #e96656 !important;*/
+          width: 145px;
+          height: 145px;
+          margin: auto;
+          border-radius: 50%;
+          border: 10px solid #ececec;
+          margin-bottom: 20px;
+          position: relative;
+          -webkit-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;
+        }
+        .heading-bottom3:before {
+          position: absolute;
+          margin: auto;
+          z-index: 1;
+          content: "";
+          width: 39%;
+          height: 2px;
+          background: #3ab0e2;
+          bottom: 221px;
+          left: 31.5%;
+        }
+        .heading-bottom4:before {
+          position: absolute;
+          margin: auto;
+          z-index: 1;
+          content: "";
+          width: 20%;
+          height: 2px;
+          background: #f7d861;
+          bottom: 199px;
+          left: 40.5%;
+        }
+        @media only screen and (max-width: 380px){
+          .heading-bottom1:before{
+            width:18%;
+            left : 41.5%;
+            bottom: 126px;
+          }
+          .heading-bottom2:before{
+            width:23%;
+            left : 38.5%;
+            bottom: 175px;
+          }
+          .heading-bottom3:before{
+            width:32%;
+            left : 34.5%;
+            bottom: 150px;
+          }
+          .heading-bottom4:before{
+            width:16%;
+            left : 42.5%;
+            bottom: 127px;
+          }
+        } 
+      </style>
    </head>
    <body>
 
@@ -102,106 +197,55 @@
                <div class="row">
                    <div class="col-md-12">
                        <div class="f-h1-head">
-                           <h1>h1 Headline</h1>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.</p>
-                       </div>
-                   </div>
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h2-head">
-                           <h2>h2 Headline</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.</p>
-                       </div>
-                   </div> 
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h3-head">
-                           <h3>h3 Headline</h3>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.</p>
-                       </div>
-                   </div>   
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h4-head">
-                           <h4>h4 Headline</h4>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.</p>
-                       </div>
-                   </div> 
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h5-head">
-                           <h5>h5 Headline</h5>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.</p>
-                       </div>
-                   </div>
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h6-head">
-                           <h6>h6 Headline</h6>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.</p>
+                           <h1 style="text-align: center;text-transform: uppercase;">JUST REFER AND EARN</h1>
+                           <p style="text-align: center;">Just Refer Your Friends,Family Members,Clients And Colleagues For Home Loan,Loan Against Property And Over Draft Limits.And Get Commission On Successful Disbursment In Your Bank Account.</p>
                        </div>
                    </div>                                                                             
                </div>
                <div class="row">
-                   <div class="col-md-12">
-                       <div class="typo-column">
-                           <h2>Fullwidth</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.</p>
-                       </div>
-                   </div>
-               </div> 
-               <div class="row">
-                   <div class="col-sm-6 col-md-6">
-                       <div class="typo-column">
-                           <h2>2 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. </p>
-                       </div>
-                   </div>
-                   <div class="col-sm-6 col-md-6">
-                       <div class="typo-column">
-                           <h2>2 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. </p>
-                       </div>
-                   </div>                
-               </div> 
-               <div class="row">
-                   <div class="col-sm-6 col-md-4">
-                       <div class="typo-column">
-                           <h2>3 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae condimentum tristique vel, eleifend sed turpis.</p>
-                       </div>
-                   </div>
-                   <div class="col-sm-6 col-md-4">
-                       <div class="typo-column">
-                           <h2>3 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae condimentum tristique vel, eleifend sed turpis. </p>
-                       </div>
-                   </div> 
-                   <div class="col-sm-6 col-md-4">
-                       <div class="typo-column">
-                           <h2>3 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae condimentum tristique vel, eleifend sed turpis. </p>
-                       </div>
-                   </div>                               
-               </div>
-               <div class="row">
                    <div class="col-sm-6 col-md-3">
                        <div class="typo-column">
-                           <h2>4 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae condimentum tristique vel, eleifend sed turpis.</p>
+                          <div class="number" id="number1">
+                            <a href="#">
+                              <i  style="background: url(http://referral.itshomeloan.com/wp-content/uploads/2015/11/rsz_one.jpg) no-repeat center; width: 100%;height: 100%;display: block;"></i>
+                            </a>
+                          </div>
+                           <h2 class="heading-bottom1">REFER US</h2>
+                           <p style="text-align: center;font-size: 15px">Just you need to submit your referral details after that we’ll contact him/her.We’ll inform you by email either he/she will be eligible for loan or not.And if he/she will be eligible then we will collect the required documents from him/her.</p>
                        </div>
                    </div>
                    <div class="col-sm-6 col-md-3">
                        <div class="typo-column">
-                           <h2>4 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae condimentum tristique vel, eleifend sed turpis.</p>
+                          <div class="number" id="number2">
+                            <a href="#">
+                              <i  style="background: url(http://referral.itshomeloan.com/wp-content/uploads/2015/11/rsz_two.jpg) no-repeat center; width: 100%;height: 100%;display: block;"></i>
+                            </a>
+                          </div>
+                           <h2 class="heading-bottom2">WE PROCESS</h2>
+                           <p style="text-align: center;font-size: 15px">After collecting the required documents, we’ll process loan via leading Banks/Financial institutions,depending upon your referral’s requirement and after that Loan will get sanctioned. It may take 10-20 working days depending on Borrower’s profile. Salaried persons get less time while Business profile takes more time. If there is any issue we will inform you with the specific reason.</p>
                        </div>
                    </div>
                    <div class="col-sm-6 col-md-3">
                        <div class="typo-column">
-                           <h2>4 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae condimentum tristique vel, eleifend sed turpis.</p>
+                          <div class="number"  id="number3">
+                            <a href="#">
+                              <i  style="background: url(http://referral.itshomeloan.com/wp-content/uploads/2015/11/rsz_three.jpg) no-repeat center; width: 100%;height: 100%;display: block;"></i>
+                            </a>
+                          </div>
+                           <h2 class="heading-bottom3">LOAN DISBURSED</h2>
+                           <p style="text-align: center;font-size: 15px">After the successful sanction process,we will get signed the loan agreement with relevant documents.It may takes 7-10 working days and your referral’s Loan will get disburse. In this complete process we will provide you a relationship manager who assist you and your referral time to time.</p>
                        </div>
                    </div>
                    <div class="col-sm-6 col-md-3">
                        <div class="typo-column">
-                           <h2>4 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae condimentum tristique vel, eleifend sed turpis.</p>
+                          <div class="number" id="number4">
+                            <a href="#">
+                              <i  style="background: url(http://referral.itshomeloan.com/wp-content/uploads/2015/11/rsz_four.jpg) no-repeat center; width: 100%;height: 100%;display: block;">  
+                              </i>
+                            </a>
+                          </div>
+                           <h2 class="heading-bottom4">GET PAID</h2>
+                           <p style="text-align: center;font-size: 15px">After successful Disbursement, you will be eligible to get commission.For that,you need to share your bank account details along with your KYC and PAN card copy and we will transfer the money in your bank account within 15 working days of Disbursement.</p>
                        </div>
                    </div>                         
                </div>

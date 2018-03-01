@@ -1496,7 +1496,7 @@ a:hover, a:focus {
     border-left: 1px solid #e5e5e5;   
 }
 .e-r-s-padding{
-    padding-top: 50px;    
+    padding-top: 29px;    
 }
 .e-r-s-left-padding{
     padding-left: 40px
@@ -1505,7 +1505,7 @@ a:hover, a:focus {
     padding-right: 40px
 }
 .e-r-s-padding-btm{
-    padding-bottom: 50px;
+    padding-bottom: 29px;
 }
 .expert-right-single-content{
     width: 50%;
@@ -2202,7 +2202,9 @@ a:hover, a:focus {
     position: relative;
     padding-top: 9px;
     padding-bottom: 9px;
-    display: block;
+    display: grid;
+    align-items: center;
+    height: 131px;
 }
 .client-img a span:before{
     background-color: #e3e3e3;
@@ -2223,7 +2225,8 @@ a:hover, a:focus {
     background-color: #e3e3e3;
 }
 .client-img a span img{
-    width:inherit;
+    /*width:inherit;*/
+    width:100% !important;
     margin-left: auto;
     margin-right: auto;
 }
