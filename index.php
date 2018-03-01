@@ -46,6 +46,11 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
+      <style type="text/css">
+         .tp-loop-wrap:nth-child(2){
+            bottom: 140px;
+         }
+      </style>
    </head>
    <body>
 
@@ -163,7 +168,7 @@
 						<!-- MAIN IMAGE -->
 						<img src="images/rev-slider.jpg"  alt="" title="bg-slider6"  width="1600" height="800" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 						<!-- LAYERS -->
-						<div class="tp-caption   tp-resizeme" 
+						<!-- <div class="tp-caption   tp-resizeme" 
 							id="slide-25-layer-8" 
 							data-x="center" data-hoffset="-100" 
 							data-y="338" 
@@ -174,10 +179,10 @@
 							data-transform_out="x:-50px;opacity:0;s:300;e:easeOutCirc;s:300;e:easeOutCirc;" 
 							data-start="700" 
 							data-responsive_offset="on" 							
-							style="z-index: 5;"><img src="images/rev-icon-1.png" alt="" width="80" height="80" data-ww="70px" data-hh="70px" data-no-retina> </div>
+							style="z-index: 5;"><img src="images/rev-icon-1.png" alt="" width="80" height="80" data-ww="70px" data-hh="70px" data-no-retina> </div> -->
 
 						<!-- LAYER NR. 2 -->
-						<div class="tp-caption   tp-resizeme" 
+						<!-- <div class="tp-caption   tp-resizeme" 
 							id="slide-25-layer-7" 
 							data-x="center" data-hoffset="1" 
 							data-y="338" 
@@ -188,10 +193,10 @@
 							data-transform_out="y:-50px;opacity:0;s:300;e:easeOutCirc;s:300;e:easeOutCirc;" 
 							data-start="1200" 
 							data-responsive_offset="on" 							
-							style="z-index: 6;"><img src="images/rev-icon-2.png" alt="" width="80" height="80" data-ww="70px" data-hh="70px" data-no-retina> </div>
+							style="z-index: 6;"><img src="images/rev-icon-2.png" alt="" width="80" height="80" data-ww="70px" data-hh="70px" data-no-retina> </div> -->
 
 						<!-- LAYER NR. 3 -->
-						<div class="tp-caption   tp-resizeme" 
+						<!-- <div class="tp-caption   tp-resizeme" 
 							id="slide-25-layer-9" 
 							data-x="center" data-hoffset="100" 
 							data-y="338" 
@@ -202,7 +207,7 @@
 							data-transform_out="x:50px;opacity:0;s:300;e:easeOutCirc;s:300;e:easeOutCirc;" 
 							data-start="1600" 
 							data-responsive_offset="on" 							
-							style="z-index: 7;"><img src="images/rev-icon-3.png" alt="" width="80" height="80" data-ww="70px" data-hh="70px" data-no-retina> </div>
+							style="z-index: 7;"><img src="images/rev-icon-3.png" alt="" width="80" height="80" data-ww="70px" data-hh="70px" data-no-retina> </div> -->
 
 						<!-- LAYER NR. 4 -->
 						<div class="tp-caption   tp-resizeme" 
@@ -218,7 +223,7 @@
 							data-splitin="none" 
 							data-splitout="none" 
 							data-responsive_offset="on" 							
-							style="z-index: 8; white-space: nowrap; font-size: 55px; line-height: 60px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Raleway;"><div class="text-center">Competitive And Affordable<br/>Financial Advice</div> 
+							style="z-index: 8; white-space: nowrap; font-size: 55px; line-height: 60px; font-weight: 700; color: rgba(255, 255, 255, 1.00);font-family:Raleway;"><div class="text-center" style="margin-top: -120px !important">Competitive And Affordable<br/>Financial Advice</div> 
                   </div>
 					</li>
 				</ul>          
