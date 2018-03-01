@@ -101,168 +101,20 @@
       <section class="feature-typo">
            <div class="container">
                <div class="row">
-                   <div class="col-md-12">
-                       <div class="f-h1-head">
-                           <h1>h1 Headline</h1>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.</p>
-                       </div>
-                   </div>
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h2-head">
-                           <h2>h2 Headline</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.</p>
-                       </div>
-                   </div> 
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h3-head">
-                           <h3>h3 Headline</h3>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.</p>
-                       </div>
-                   </div>   
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h4-head">
-                           <h4>h4 Headline</h4>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.</p>
-                       </div>
-                   </div> 
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h5-head">
-                           <h5>h5 Headline</h5>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.</p>
-                       </div>
-                   </div>
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h6-head">
-                           <h6>h6 Headline</h6>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.</p>
-                       </div>
-                   </div>                                                                             
-               </div>
-               <div class="row">
-                   <div class="col-md-12">
-                       <div class="typo-column">
-                           <h2>Fullwidth</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.</p>
-                       </div>
-                   </div>
-               </div> 
-               <div class="row">
-                   <div class="col-sm-6 col-md-6">
-                       <div class="typo-column">
-                           <h2>2 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. </p>
-                       </div>
-                   </div>
-                   <div class="col-sm-6 col-md-6">
-                       <div class="typo-column">
-                           <h2>2 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at libero. Morbi ut arcu dolor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. </p>
-                       </div>
-                   </div>                
-               </div> 
-               <div class="row">
-                   <div class="col-sm-6 col-md-4">
-                       <div class="typo-column">
-                           <h2>3 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae condimentum tristique vel, eleifend sed turpis.</p>
-                       </div>
-                   </div>
-                   <div class="col-sm-6 col-md-4">
-                       <div class="typo-column">
-                           <h2>3 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae condimentum tristique vel, eleifend sed turpis. </p>
-                       </div>
-                   </div> 
-                   <div class="col-sm-6 col-md-4">
-                       <div class="typo-column">
-                           <h2>3 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae condimentum tristique vel, eleifend sed turpis. </p>
-                       </div>
-                   </div>                               
-               </div>
-               <div class="row">
-                   <div class="col-sm-6 col-md-3">
-                       <div class="typo-column">
-                           <h2>4 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae condimentum tristique vel, eleifend sed turpis.</p>
-                       </div>
-                   </div>
-                   <div class="col-sm-6 col-md-3">
-                       <div class="typo-column">
-                           <h2>4 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae condimentum tristique vel, eleifend sed turpis.</p>
-                       </div>
-                   </div>
-                   <div class="col-sm-6 col-md-3">
-                       <div class="typo-column">
-                           <h2>4 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae condimentum tristique vel, eleifend sed turpis.</p>
-                       </div>
-                   </div>
-                   <div class="col-sm-6 col-md-3">
-                       <div class="typo-column">
-                           <h2>4 Columns</h2>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in molestie. Curabitur pellentesque massa eu nulla consequat sed porttitor arcu porttitor. Quisque volutpat pharetra felis, eu cursus lorem molestie vitae condimentum tristique vel, eleifend sed turpis.</p>
-                       </div>
-                   </div>                         
-               </div>
-               <div class="row">
-                   <div class="blockquote clearfix">
-                       <div class="col-sm-6">
-                           <div class="typo-blockquoto-1">
-                               <h2>Blockquotes</h2>
-                               <blockquote>
-                                   <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel,</h3>
-                                   <p>Begha, Book Name</p>                            
-                               </blockquote>
-                           </div>
-                           <div class="typo-blockquoto-1 typo-blockquoto-2">
-                               <blockquote>
-                                   <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel,</h3>
-                                   <p>Begha, Book Name</p>                            
-                               </blockquote>
-                           </div>                    
-                       </div>
-                       <div class="col-sm-6">
-                           <div class="typo-blockquoto-1 typo-blockquoto-3">
-                               <blockquote>
-                                   <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel,</h3>
-                                   <p>Begha, Book Name</p>                            
-                               </blockquote>
-                           </div>
-                           <div class="typo-blockquoto-1 typo-blockquoto-4">
-                               <blockquote>
-                                   <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel,</h3>
-                                   <p>Begha, Book Name</p>                            
-                               </blockquote>
-                           </div>                    
-                       </div>
-                   </div>                
-               </div> 
-               <div class="row">
                    <div class="feature-bullet-list clearfix">
-                       <h2>Bullets & Lists</h2>
-                       <div class="col-sm-6 col-md-3">
+                       <h5><i class="fa fa-play-circle-o"></i> PARTNERSHIP FIRM/ PVT. LTD. COMPANY OR PUBLIC LTD. CO./PERSONAL DOCUMENTS - ALL DOCUMENTS SHOULD BE SELF ATTESTED</h5>
+                      
+                       <div class="col-sm-12 col-md-12">
                            <div class="bullet-list-content">
                                <ul>
-                                   <li><i class="fa fa-play-circle-o"></i> Creative template</li>
-                                   <li><i class="fa fa-play-circle-o"></i> Unique & clean design</li>
-                                   <li><i class="fa fa-play-circle-o"></i> Super features</li>
-                                   <li><i class="fa fa-play-circle-o"></i> E-Commerce pages</li>
-                                   <li><i class="fa fa-play-circle-o"></i> Great UI / UX work</li>
-                                   <li><i class="fa fa-play-circle-o"></i> Awesome typography</li>
-                               </ul>
-                           </div>
-                       </div>
-                       <div class="col-sm-6 col-md-3">
-                           <div class="bullet-list-content">
-                               <ul>
-                                   <li><i class="fa fa-check-circle-o"></i> Creative template</li>
-                                   <li><i class="fa fa-check-circle-o"></i> Unique & clean design</li>
-                                   <li><i class="fa fa-check-circle-o"></i> Super features</li>
-                                   <li><i class="fa fa-check-circle-o"></i> E-Commerce pages</li>
-                                   <li><i class="fa fa-check-circle-o"></i> Great UI / UX work</li>
-                                   <li><i class="fa fa-check-circle-o"></i> Awesome typography</li>
+                                   <li><i class="fa fa-check-circle-o"></i>Application Form with Photograph &amp; Cross sign. &amp; Login Fee Cheque as applicable in the name of Bank req.</li>
+                                   <li><i class="fa fa-check-circle-o"></i>Date of Birth Proof (PAN Card copy, Passport, Aadhar card, 10th Class Cetificate) req.</li>
+                                   <li><i class="fa fa-check-circle-o"></i>Residence Address proof (Telephone bill/Electricity bill) req.</li>
+                                   <li><i class="fa fa-check-circle-o"></i>Office Address proof (Telephone bill/Electricity bill) req.</li>
+                                   <li><i class="fa fa-check-circle-o"></i>Business &amp; Company Profile &amp; Company registration certificate req.</li>
+                                   <li><i class="fa fa-check-circle-o"></i>Memorandum &amp; Article of Association (MOA) / AOA / Partnership Deed as applicable req.</li>
+                                   <li><i class="fa fa-check-circle-o"></i>List of Director &amp; List of Shareholders on letter head duly certified by CA (In case of company) req.</li>
+                                   <li><i class="fa fa-check-circle-o"></i>Copy of Pan Card of Partnership firm/Company req.</li>
                                </ul>
                            </div>
                        </div>
