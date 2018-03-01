@@ -24,15 +24,12 @@
                                             <li><a href="lease-rental-discounting.php">Lease Rental Discounting</a></li>
                                             <li><a href="bussiness-loan.php">Business Loan</a></li>
                                             <li><a href="balance-transfer.php">Balance Transfer</a></li>
-                                            <li><a href="emi.php">EMI Calculator</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="#">List of Documents</a>
                                         <ul class="dropdown">
                                             <li><a href="salaried.php">For Salaried</a></li>
-                                            <li><a href="professionals.php">For Professionals</a></li>
                                             <li><a href="business.php">For Business</a></li>
-                                            <li><a href="nri.php">For NRI</a></li>
                                         </ul>
                                     </li>
                                     
@@ -56,9 +53,7 @@
                     </li>       
                     <li id="contact"><a href="contact.php">Contact Us</a></li>
                     </ul>
-                    <div class="appointment-area">
-                        <p><a href="contact.php">Happy to help You Always !</a></p>
-                    </div>                     
+                                        
             </div>
         </div>
         </div>

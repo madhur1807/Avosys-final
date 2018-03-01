@@ -256,7 +256,6 @@
                         <h3>We are helpers</h3>
                         <h2>Advice and guides</h2>
                         <p>You can easily compare interest rates of various banks on our website. Further, you can speak to our Loan Specialists who will guide you through the entire process and help you choose a loan best suited to your requirements.</p>
-                        <a href="#"><i class="fa fa-long-arrow-right"></i><span>Learn More</span></a>
                         <span>01.</span>
                      </div>
                   </div>
@@ -274,7 +273,6 @@
                         <h3>Friendly support</h3>
                         <h2>Support in person</h2>
                         <p>We offer you the best! After submitting loan application along with the documents we take approval on loan sanctioning and help you in loan disbursement. Our relationship managers take responsibility of your loan and help you even after disbursement.</p>
-                        <a href="#"><i class="fa fa-long-arrow-right"></i><span>Learn More</span></a>
                         <span>03.</span>
                      </div>
                   </div>
