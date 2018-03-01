@@ -101,44 +101,48 @@
       <section class="feature-typo" style="padding:50px 0">
            <div class="container">
                <div class="row">
-                   <div class="col-md-12">
-                    <div id="main_bot" >
-                        <div id="slider_1" class="col-md-8">
+                   <div class="col-md-7 main-emi list-group">
+                    <div id="main_bot" class="list-group-item">
+                        <h4>Loan Amount</h4>
+                        <div id="slider_1" class="col-md-6">
                             <div id="textarea_three">0</div>
                             <div id="textarea_four">20L</div>
                         </div> 
-                        <div class="col-md-4 " style="text-align:right;">
-                          <div class="input-group" style="width:75%;float:right;">
-                            <input type="number" class="form-control" id="valueY" style="display: inline-block;">
+                        <div class="col-md-6" style="text-align:right;">
+                          <div class="input-group" style="width: 65%;float:right;">
+                            <input type="number" class="form-control" id="valueL" style="display: inline-block;">
                             <span class="input-group-addon" id="basic-addon2">Lakhs</span>
                           </div>
                         </div>
                     </div>
-                    <div id="main_bot1">
-                        <div id="slider_2" class="col-md-8">
+                    <div id="main_bot1" class="list-group-item">
+                        <h4>Interest Rate</h4>
+                        <div id="slider_2" class="col-md-6">
                             <div id="textarea_three">0</div>
                             <div id="textarea_four">15p.a.</div>
                             
                         </div> 
-                        <div class="col-md-4 " style="text-align:right;">
-                          <div class="input-group" style="width:75%;float:right;">
-                            <input type="number" class="form-control" id="valueY" style="display: inline-block;">
+                        <div class="col-md-6 " style="text-align:right;">
+                          <div class="input-group" style="width: 65%;float:right;">
+                            <input type="number" class="form-control" id="valueP" style="display: inline-block;">
                             <span class="input-group-addon" id="basic-addon2">p.a</span>
                           </div>
                         </div>
                     </div>
-                    <div id="main_bot2">
-                        <div id="slider_3" class="col-md-8">
+                    <div id="main_bot2" class="list-group-item">
+                        <h4>Loan Term</h4>
+                        <div id="slider_3" class="col-md-6">
                             <div id="textarea_three">0</div>
-                            <div id="textarea_four">30Years</div>
+                            <div id="textarea_four">30Yrs</div>
                         </div> 
-                        <div class="col-md-4 " style="text-align:right;">
-                          <div class="input-group" style="width:75%;float:right;">
+                        <div class="col-md-6 " style="text-align:right;">
+                          <div class="input-group" style="width: 65%;float:right;">
                             <input type="number" class="form-control" id="valueY" style="display: inline-block;">
                             <span class="input-group-addon" id="basic-addon2">Years</span>
                           </div>
                         </div>
                     </div>
+                    
                        <!-- <div class="f-h1-head">
                            <h1>What is EMI?</h1>
                            <p>Equated Monthly Installment – EMI for short – is the amount payable every month to the bank or any other financial institution until the loan amount is fully paid off. It consists of the interest on loan as well as part of the principal amount to be repaid. The sum of principal amount and interest is divided by the tenure, i.e., number of months, in which the loan has to be repaid. This amount has to be paid monthly. The interest component of the EMI would be larger during the initial months and gradually reduce with each payment. The exact percentage allocated towards payment of the principal depends on the interest rate. Even though your monthly EMI payment won’t change, the proportion of principal and interest components will change with time. With each successive payment, you’ll pay more towards the principal and less in interest.<br><br><span style="font-weight: bold;font-size: 14px;"
@@ -157,8 +161,13 @@
                           </p>
                        </div> -->
                    </div>
+                   <div class="col-md-5 right-emi" >
+                        <h3>Monthly EMI:</h3>
+                        <h3 class="emi-result"></h3>
+                    </div>
                </div>                                             
            </div>
+           
       </section>
       <!-- =========================
         END FEATURE TYPOGRAPHY SECTION
@@ -197,75 +206,82 @@
       <script src="js/smoothscroll.js"></script>      
       <script src="js/jquery.matchHeight.js"></script>       
       <script src="js/main.js"></script>        
+      
       <script>
       
         $(function () {
           
           var slider = $("#slider_1").slider({
           range: "min",     
-            value: 1000000,
+            value: 0,
             min: 0,
             max: 2000000,
             step: 1,
+            animate: "fast",
               
-              slide: function(event, ui) {
-                  $(ui.handle).find('.tooltip_bottom').text(ui.value);
-                  $(ui.handle).find('#valueL').val(ui.value);
-              },
-              create: function(event, ui) {
-                var tooltip_bottom = $('<div class="tooltip_bottom"></div>');
-                
-                $(event.target).find('.ui-slider-handle').append(tooltip_bottom);
+              slide:function(event,ui){
+                $('#valueL').val(ui.value);
+                calEMI();
               },
               change: function(event, ui) {
                         $('#hidden_bottom').attr('value', ui.value);
                         }
+                        
           });
 
           var slider = $("#slider_2").slider({
           range: "min",     
-            value: 4.00,
-            min: 0.00,
-            max: 15.00,
+            value: 0,
+            min: 0,
+            max: 15,
             step: 1,
-              
-              slide: function(event, ui) {
-                  $(ui.handle).find('.tooltip_bottom').text(ui.value);
-                  $(ui.handle).find('#valueP').val(ui.value);
-              },
-              create: function(event, ui) {
-                var tooltip_bottom = $('<div class="tooltip_bottom"></div>');
-                
-                $(event.target).find('.ui-slider-handle').append(tooltip_bottom);
+            animate: "fast",
+              slide:function(event,ui){
+                $('#valueP').val(ui.value);
+                calEMI();
               },
               change: function(event, ui) {
                         $('#hidden_bottom').attr('value', ui.value);
                         }
+                        
+
           });
 
           var slider = $("#slider_3").slider({
           range: "min",     
-            value: 5,
+            value: 0,
             min: 0,
             max: 30,
             step: 1,
+            animate: "fast",
               
-              slide: function(event, ui) {
-                  $(ui.handle).find('.tooltip_bottom').text(ui.value);
-                  $(ui.handle).find('#valueY').val(ui.value);
-              },
-              create: function(event, ui) {
-                var tooltip_bottom = $('<div class="tooltip_bottom"></div>');
-                
-                $(event.target).find('.ui-slider-handle').append(tooltip_bottom);
+              slide:function(event,ui){
+                $('#valueY').val(ui.value);
+                calEMI();
               },
               change: function(event, ui) {
                         $('#hidden_bottom').attr('value', ui.value);
                         }
+                        
           });
+          function calEMI(){
+            var loanAmount = $("#valueL").val();
+            var numberOfMonths = $("#valueP").val();
+            var rateOfInterest = $("#valueY").val();
+            var monthlyInterestRatio = (rateOfInterest/100)/12;
+              
+            var top = Math.pow((1+monthlyInterestRatio),numberOfMonths);
+            var bottom = top -1;
+            var sp = top / bottom;
+            var emi = ((loanAmount * monthlyInterestRatio) * sp);
+            $('.emi-result').html(emi);
+          }
+          
         });
 
 
       </script>
+      
+ 
    </body>
 </html>
