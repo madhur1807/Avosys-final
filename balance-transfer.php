@@ -9,6 +9,7 @@
       <!-- FAVICON -->
       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />      
       <!-- Bootstrap -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
       <link href="css/bootstrap.min.css" rel="stylesheet">
       <!--FONT AWESOME -->
       <link href="css/font-awesome.css" rel="stylesheet">
@@ -105,7 +106,7 @@
         START FEATURE TYPOGRAPHY SECTION
       ============================== -->         
       <section class="feature-typo">
-           <div class="container">
+            <div class="container">
                <div class="row">
                    <div class="col-md-12">
                        <div class="f-h1-head">
@@ -148,7 +149,8 @@
                        </div>
                    </div>                
                </div> 
-             </div>
+            </div>
+            
       </section>
       <!-- =========================
         END FEATURE TYPOGRAPHY SECTION

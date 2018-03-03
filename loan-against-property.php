@@ -9,6 +9,7 @@
       <!-- FAVICON -->
       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />      
       <!-- Bootstrap -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
       <link href="css/bootstrap.min.css" rel="stylesheet">
       <!--FONT AWESOME -->
       <link href="css/font-awesome.css" rel="stylesheet">
@@ -139,6 +140,40 @@
                            
 
                        </div>
+                       <div class="col-md-12">
+                          <div class="card" style="margin-bottom:20px">
+                            <div class="card-header bg-primary text-light">
+                              <h5>Eligibility Factor</h5>
+                            </div>
+                            <div class="card-body" style="font-size:1.3em">
+                              <ul>
+                                <li>
+                                  <h5>Age</h5>
+                                  <ul>
+                                    <li>21 years and above at the time of loan application</li>
+                                    <li>65 years at loan maturity</li>
+                                    However, the age may go up to 70 years and above in special cases.
+                                  </ul>
+                                </li>
+                                <li>
+                                  <h5>Job Experience or Business Stability</h5>
+                                  <ul>
+                                    <li>Salaried Employees: Minimum of 2-3 years</li>
+                                    <li>Self-Employed: Cash profit of at least 3 years</li>
+                                  </ul>
+                                </li>
+                                <li>
+                                  <h5>CIBIL Score</h5>
+                                  <ul>
+                                    <li>Good CIBIL Score</li>
+                                    (Usually, 650 and above is considered as good)
+                                    
+                                  </ul>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                      </div>
                    </div> 
                 
                </div>

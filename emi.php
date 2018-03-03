@@ -135,7 +135,7 @@
                             <div id="textarea_three">0</div>
                             <div id="textarea_four">30Yrs</div>
                         </div> 
-                        <div class="col-md-6 " style="text-align:right;">
+                        <div class="col-md-6 " style="text-align:right;overflow:auto">
                           <div class="input-group" style="width: 65%;float:right;">
                             <input type="number" class="form-control" id="valueY" style="display: inline-block;" max="30">
                             <span class="input-group-addon" id="basic-addon2">Years</span>
@@ -267,6 +267,7 @@
          
           $("#valueL").bind('keyup mouseup', function () {
               var changedvalue = $(this).val();  
+              
               $("#slider_1").slider({
                 value: changedvalue
               });        
@@ -297,7 +298,17 @@
             var bottom = top -1;
             var sp = top / bottom;
             var emi = ((loanAmount * monthlyInterestRatio) * sp);
-            $('.emi-result').html(emi);
+            var rEmi = (emi).toFixed(2);
+      
+            var lastThree = rEmi.substring(rEmi.length-6);
+            var otherNumbers = rEmi.substring(0,rEmi.length-6);
+            if(otherNumbers != '')
+                lastThree = ',' + lastThree;
+            var res = otherNumbers.replace(/\B(?=(\d{2})+(?!\d))/g, ",") + lastThree;
+            if(res == "NaN"){
+              res = "-";
+            }
+            $('.emi-result').html(" "+res);
           }
           
         });

@@ -2239,7 +2239,7 @@ a:hover, a:focus {
     background: #222222;
 }
 .footer-top-content{
-    padding: 80px 0px 60px 0px;
+    padding: 0px 0px 60px 0px;
 }
 .footer-top-single{
     background: #1c1c1c;
@@ -2276,7 +2276,7 @@ a:hover, a:focus {
 }
 .footer-time ul{
     font-size: 13px;
-    color: #474747;
+    color: #888;
     text-transform: uppercase;
     margin-top: 22px;
     margin: 0;

@@ -9,6 +9,7 @@
       <!-- FAVICON -->
       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />      
       <!-- Bootstrap -->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
       <link href="css/bootstrap.min.css" rel="stylesheet">
       <!--FONT AWESOME -->
       <link href="css/font-awesome.css" rel="stylesheet">
@@ -142,6 +143,46 @@
 
                        </div>
                    </div> 
+                   <div class="col-md-12">
+                      <div class="card" style="margin-bottom:20px">
+                        <div class="card-header bg-primary text-light">
+                          <h5>Eligibility Factor</h5>
+                        </div>
+                        <div class="card-body" style="font-size:1.3em">
+                          <ul>
+                            <li>
+                              <h5>Age</h5>
+                              <ul>
+                                <li>21 years and above at the time of loan application</li>
+                                <li>65 years at loan maturity</li>
+                              </ul>
+                            </li>
+                            <li>
+                              <h5>Credit Score / Credit History</h5>
+                              <ul>
+                                <li>Credit Score above 650</li>
+                                <li>Credit History includes repayment of existing and past loans and credit cards payments</li>
+                              </ul>
+                            </li>
+                            <li>
+                              <h5>Type of Employment /  Stability</h5>
+                              <ul>
+                                <li>Salaried or self-employed</li>
+                                <li>Job or business stability- at least 2 years</li>
+                              </ul>
+                            </li>
+                            <li>
+                              <h5>Income (Higher the income, higher the Loan Amount)</h5>
+                              <ul>
+                                <li>Salary in case of salaried employees</li>
+                                <li>Business turnover, annual income, net-profit etc. in case of self-employed</li>
+                              </ul>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                   </div>
+                    
                 
                </div>
           </div>
