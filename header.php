@@ -21,6 +21,7 @@
                                     <li><a href="lease-rental-discounting.php">Lease Rental Discounting</a></li>
                                     <li><a href="bussiness-loan.php">Business Loan</a></li>
                                     <li><a href="balance-transfer.php">Balance Transfer</a></li>
+                                    <li><a href="emi.php">EMI Calculator</a></li>
                                 </ul>
                             </li>
                             <li><a href="#">List of Documents</a>
@@ -36,46 +37,9 @@
                             <li><a href="working-capital.php">Working Capital</a></li>
                             <li><a href="term-loan.php">Term Loan</a></li>
                             <li><a href="balance-transfer.php">Balance Transfer</a></li>
-                            <li><a href="emi.php">EMI Calculator</a></li>
+                            
                         </ul>
-                    </li>
-                    <!--Services-->
-                        <!-- <li id="service"><a href="#">Services</a>
-                        <ul class="dropdown">
-                            <li><a href="#">Retail Mortgage</a>
-                                <ul class="dropdown">
-                                    <li><a href="#">Services</a>
-                                        <ul class="dropdown">
-                                            <li><a href="home-loan.php">Home Loan</a></li>
-                                            <li><a href="loan-against-property.php">Loan Against Property</a></li>
-                                            <li><a href="purchase-of-commercial-property.php">Purchase of Commercial Property</a></li>
-                                            <li><a href="lease-rental-discounting.php">Lease Rental Discounting</a></li>
-                                            <li><a href="bussiness-loan.php">Business Loan</a></li>
-                                            <li><a href="balance-transfer.php">Balance Transfer</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">List of Documents</a>
-                                        <ul class="dropdown">
-                                            <li><a href="salaried.php">For Salaried</a></li>
-                                            <li><a href="business.php">For Business</a></li>
-                                        </ul>
-                                    </li>
-                                    
-                                </ul>
-                            </li>
-                            <li><a href="#">Project Financing</a>
-                                        <ul class="dropdown">
-                                            <li><a href="working-capital.php">Working Capital</a></li>
-                                            <li><a href="term-loan.php">Term Loan</a></li>
-                                            <li><a href="balance-transfer.php">Balance Transfer</a></li>
-                                            <li><a href="emi.php">EMI Calculator</a></li>
-                                        </ul>
-                                    </li>  
-                        </ul>
-                    </li> -->
-                        <!--end of services header-->
-                        
-                    
+                    </li>                  
                                             
                     <li id="get-associated"><a href="get-associated.php">Get Associated With Us </a>
                     </li>       

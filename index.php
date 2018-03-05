@@ -269,7 +269,7 @@
                         <h3>Quick & smart</h3>
                         <h2>Tools and calculators</h2>
                         <p>To give you a hassle free and satisfactory loan deal, we take care of your documentation process. Our specialists after guiding you on all the related loan terms will send a person to collect your document kit, and submit them to the respective bank or NBFC.</p>
-                        <a href="#"><i class="fa fa-long-arrow-right"></i><span>Learn More</span></a>
+                        <a href="emi.php"><i class="fa fa-long-arrow-right"></i><span>Learn More</span></a>
                         <span>02.</span>
                      </div>
                   </div>
