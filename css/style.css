@@ -2996,7 +2996,7 @@ a:hover, a:focus {
     TEAM AREA
 -----------------------------------------*/
 .team-area{
-	padding-bottom: 70px
+	/* padding-bottom: 70px */
 }
 .team-single{
 	border: 1px solid #f3f3f3;
