@@ -151,7 +151,6 @@
                <div class="col-sm-6 col-md-6">
                   <div class="page-bredcrumbs-area text-right">
                      <ul  class="page-bredcrumbs">
-                        <li><a href="#">Services</a></li>
                         <li><a href="#">Project Financing</a></li>
                         <li><a href="#">Working Capital</a></li>
                      </ul>

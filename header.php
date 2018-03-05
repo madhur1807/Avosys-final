@@ -20,7 +20,7 @@
                                     <li><a href="purchase-of-commercial-property.php">Purchase of Commercial Property</a></li>
                                     <li><a href="lease-rental-discounting.php">Lease Rental Discounting</a></li>
                                     <li><a href="bussiness-loan.php">Business Loan</a></li>
-                                    <li><a href="balance-transfer.php">Balance Transfer</a></li>
+                                    <li><a href="balance-transfer-retail.php">Balance Transfer</a></li>
                                     <li><a href="emi.php">EMI Calculator</a></li>
                                 </ul>
                             </li>
@@ -36,8 +36,7 @@
                         <ul class="dropdown">
                             <li><a href="working-capital.php">Working Capital</a></li>
                             <li><a href="term-loan.php">Term Loan</a></li>
-                            <li><a href="balance-transfer.php">Balance Transfer</a></li>
-                            
+                            <li><a href="balance-transfer-project.php">Balance Transfer</a></li>      
                         </ul>
                     </li>                  
                                             
@@ -66,10 +65,10 @@
         } else if(current_path == "contact.php"){
             $(".menuzord-menu li").removeClass("active");
             $("#contact").addClass("active");
-        } else if(current_path == "home-loan.php" || current_path == "loan-against-property.php" || current_path == "purchase-of-commercial-property.php" || current_path == "lease-rental-discounting.php" || current_path == "Business-loan.php" || current_path == "balance-transfer.php" || current_path == "salaried.php" || current_path == "business.php"){
+        } else if(current_path == "home-loan.php" || current_path == "loan-against-property.php" || current_path == "purchase-of-commercial-property.php" || current_path == "lease-rental-discounting.php" || current_path == "Business-loan.php" || current_path == "balance-transfer-retail.php" || current_path == "salaried.php" || current_path == "business.php"){
                 $(".menuzord-menu li").removeClass("active");
                 $(".menuzord-menu li").eq(2).addClass("active");
-        } else if(current_path == "working-capital.php" || current_path == "term-loan.php" || current_path == "balance-transfer.php" || current_path == "emi.php"){
+        } else if(current_path == "working-capital.php" || current_path == "term-loan.php" || current_path == "balance-transfer-project.php" || current_path == "emi.php"){
             $(".menuzord-menu li").removeClass("active");
             $("#project-financing").addClass("active");
         }
