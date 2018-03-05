@@ -2200,8 +2200,7 @@ a:hover, a:focus {
 .client-img a span{
     text-align: center;
     position: relative;
-    padding-top: 9px;
-    padding-bottom: 9px;
+    padding: 20px 20px 15px 0px;
     display: grid;
     align-items: center;
     height: 131px;
