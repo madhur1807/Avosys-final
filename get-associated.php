@@ -249,7 +249,7 @@
                        </div>
                    </div>                         
                </div>
-               <div class="row">
+               <!-- <div class="row">
                    <div class="blockquote clearfix">
                        <div class="col-sm-6">
                            <div class="typo-blockquoto-1">
@@ -281,8 +281,8 @@
                            </div>                    
                        </div>
                    </div>                
-               </div> 
-               <div class="row">
+               </div>  -->
+               <!-- <div class="row">
                    <div class="feature-bullet-list clearfix">
                        <h2>Bullets & Lists</h2>
                        <div class="col-sm-6 col-md-3">
@@ -382,7 +382,7 @@
                            </div>
                        </div>                                                                             
                    </div>
-               </div>                                              
+               </div> -->                                              
            </div>
       </section>
       <!-- =========================
