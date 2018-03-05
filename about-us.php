@@ -101,70 +101,7 @@
       <!-- =========================
         START WELCOME SECTION
       ============================== --> 
-      <section class="welcome-area">
-         <!-- MAIN TITLE -->
-         <div class="main-title">
-            <div class="container">
-               <div class="row">
-                  <div class="col-sm-12">
-                     <div class="main-title-content text-center">
-                        <h3>Rightful advice!</h3>
-                        <h2>We Are Money Experts</h2>
-                        <p>Want a head start? See how easy it is by checking out our advices from experts.
-                            <br/> We help you getting Loan in 3 Simple Steps !
-                         </p>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div> <!-- END MAIN TITLE -->
-
-         <!-- WELCOME CONTENT -->
-         <div class="welcome-content-area">
-            <div class="container">
-               <div class="row">
-                  <div class="col-sm-4">
-                     <div class="welcome-content">
-                        <h3>We are helpers</h3>
-                        <h2>Advice and guides</h2>
-                        <p>You can easily compare interest rates of various banks on our website. Further, you can speak to our Loan Specialists who will guide you through the entire process and help you choose a loan best suited to your requirements.</p>
-                        <a href="#"><i class="fa fa-long-arrow-right"></i><span>Learn More</span></a>
-                        <span>01.</span>
-                     </div>
-                  </div>
-                  <div class="col-sm-4">
-                     <div class="welcome-content">
-                        <h3>Quick & smart</h3>
-                        <h2>Tools and calculators</h2>
-                        <p>To give you a hassle free and satisfactory loan deal, we take care of your documentation process. Our specialists after guiding you on all the related loan terms will send a person to collect your document kit, and submit them to the respective bank or NBFC.</p>
-                        <a href="#"><i class="fa fa-long-arrow-right"></i><span>Learn More</span></a>
-                        <span>02.</span>
-                     </div>
-                  </div>
-                  <div class="col-sm-4">
-                     <div class="welcome-content">
-                        <h3>Friendly support</h3>
-                        <h2>Support in person</h2>
-                        <p>We offer you the best! After submitting loan application along with the documents we take approval on loan sanctioning and help you in loan disbursement. Our relationship managers take responsibility of your loan and help you even after disbursement.</p>
-                        <a href="#"><i class="fa fa-long-arrow-right"></i><span>Learn More</span></a>
-                        <span>03.</span>
-                     </div>
-                  </div>
-               </div>
-               <div class="row">
-                  <div class="col-sm-12">
-                     <div class="common-btn">
-                        <div class="col-sm-12">
-                           <div class="" style="text-align:center">
-                              <a href="#">Our Services</a>                           
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
+     
       <!-- =========================
         START WELCOME SECTION
       ============================== -->
@@ -174,8 +111,8 @@
         START FEATURE SECTION
       ============================== -->
       <section class="feature-area">
-          <div class="main-title">
-            <div class="container" style="    margin-bottom: 75px;">
+          <div class="main-title" style="padding-top: 70px; padding-bottom: 45px">
+            <div class="container" style="margin-bottom: 55px;">
                <div class="row">
                   <div class="col-sm-12">
                      <div class="main-title-content text-center">
@@ -206,12 +143,11 @@
                 We operate out of our two offices at Netaji Subhash Place, Pitampura Delhi and Central
                 Market Prashant Vihar, Rohini Delhi.
               </p>
-              <h5>AVOSYS operates in following two verticals of Financial Services:</h5>
-              <ul>
-                
-                <li>Financial Services provider for Industry and trade</li>
-                <li>Financial Services Distributors for mortgage lenders</li>
-              </ul>
+              <h4>AVOSYS operates in following two verticals of Financial Services:</h4>
+              <ul>               
+                <strong><li style="font-size: 1.3em">Financial Services provider for Industry and trade</li></strong>
+                <strong><li style="font-size: 1.3em">Financial Services Distributors for mortgage lenders</li></strong>
+              </ul><br>
               
                 <u><h4>Financial Service Provider for Industry&amp; Trade</h4></u><br>
               <p>  
