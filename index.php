@@ -50,6 +50,9 @@
          .tp-loop-wrap:nth-child(2){
             bottom: 140px;
          }
+         .owl-carousel .owl-dots.disabled, .owl-carousel .owl-nav.disabled{
+          display:none!important;
+        }
       </style>
    </head>
    <body>

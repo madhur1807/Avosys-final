@@ -27,6 +27,7 @@ COMMON STYLES
 -----------------------------------------*/
 body {
     font-family: 'Raleway', sans-serif;
+    font-size: 1.3em;
 }
 a:hover, a:focus {
     box-shadow: 0 0px transparent;
@@ -1248,7 +1249,10 @@ a:hover, a:focus {
     font-family: 'Droid Serif', serif;
     margin-top: 40px;  
 }
-.main-title p{}
+.main-title p{
+    margin: 0 0 30px;
+    color: #333;
+}
 .welcome-content-area{}
 .welcome-content{
     padding-left: 100px;

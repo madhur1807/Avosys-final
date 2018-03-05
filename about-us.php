@@ -174,55 +174,79 @@
         START FEATURE SECTION
       ============================== -->
       <section class="feature-area">
-         <div class="feature-left">
-            <div class="feature-left-icon">
-               
-            </div>            
-         </div>
-         <div class="container">
-            <div class="row">
-               <div class="col-sm-6 col-md-6">
-               </div>
-               <div class="col-sm-6 col-md-6">
-                  <div class="feature-right">
-                     <h2>We are not pushy,we don’t convince you to use us.</h2>
-                     <p>With any financial product that you buy, it is important that you know you are getting the best advice from a reputable company as often you will have to provide sensitive information online or over the internet, so it’s important that you can trust the people who are dealing with your personal information.</p>
-                     <div class="progressbar">
-                        <div class="progress_cont">
-                             <div class="skill">Insurance<span class="pull-right"></span> </div>
-                             <div class="progress">
-                                 <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width: 0%"> <span class="sr-only">95% Complete (success)</span> </div>
-                             </div>
-                        </div>
-                        <div class="progress_cont">
-                             <div class="skill">Investments <span class="pull-right"></span> </div>
-                             <div class="progress">
-                                 <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 0%"> <span class="sr-only">75% Complete (success)</span> </div>
-                             </div>
-                        </div>
-                        <div class="progress_cont">
-                           <div class="skill">Tax Help<span class="pull-right"></span> </div>
-                           <div class="progress">
-                              <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="87" aria-valuemin="0" aria-valuemax="100" style="width: 0%"> <span class="sr-only">87% Complete (success)</span> </div>
-                           </div>
-                        </div>
-                        <div class="progress_cont">
-                           <div class="skill">Overdraft <span class="pull-right"></span> </div>
-                           <div class="progress">
-                              <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="98" aria-valuemin="0" aria-valuemax="100" style="width: 0%"> <span class="sr-only">98% Complete (success)</span> </div>
-                           </div>
-                        </div>
-                        <div class="progress_cont">
-                           <div class="skill">Mortgage<span class="pull-right"></span> </div>
-                           <div class="progress">
-                              <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 0%"> <span class="sr-only">80% Complete (success)</span> </div>
-                           </div>
-                        </div>                    
+          <div class="main-title">
+            <div class="container" style="    margin-bottom: 75px;">
+               <div class="row">
+                  <div class="col-sm-12">
+                     <div class="main-title-content text-center">
+                        <h3>Who we are</h3>
+                        <h2>Brief Profile</h2>
                      </div>
                   </div>
                </div>
             </div>
-         </div>
+            <div class="container text-dark" >
+              <p>
+                AVOSYS is leading financial services provider. We have now about two decades of
+                experience, to provide professional and unequaled domain proficiency to bring unmatched
+                value to our clients. Our unrelenting focus on Corporate Governance, high standards of
+                ethics and clarity of vision, percolate through the organization. Trust, Integrity,
+                Transparency and Professional service are the important pillars of brand AVOSYS. Our
+                teammates and our esteemed clients are our brand ambassadors. We feel proud to share
+                that our first client and our first team- mate, share the same intimate relationship even
+                today.<br>
+                Mr. Rajesh Jindal, having more than 25 years of professional experience in financial
+                Consulting &amp; Financial Services Distribution, promotes AVOSYS. A team of
+                professionals ably assists Mr. Rajesh Jindal, and the organization has grown multifold
+                during the tenure, giving a trail of satisfied clients and excellent relationship with Banking
+                Partners and teammates. The clients sourced by AVOSYS always get preference over
+                others, because of zero delinquency status and unprecedented growth maintained by our
+                esteemed clients. The status speaks loud about our ability, to analyze, understand,
+                communicate in very lucid terms.<br>
+                We operate out of our two offices at Netaji Subhash Place, Pitampura Delhi and Central
+                Market Prashant Vihar, Rohini Delhi.
+              </p>
+              <h5>AVOSYS operates in following two verticals of Financial Services:</h5>
+              <ul>
+                
+                <li>Financial Services provider for Industry and trade</li>
+                <li>Financial Services Distributors for mortgage lenders</li>
+              </ul>
+              
+                <u><h4>Financial Service Provider for Industry&amp; Trade</h4></u><br>
+              <p>  
+                AVOSYS started its journey about two decades ago, in financial consulting &amp;advisory
+                services. And to date, we have assisted our various esteemed clients dealingin all spectrum of
+                business in manufacturing, trading, imports, exports, infrastructures, builders, service
+                industry, agri-business, education, entertainment, transportation, andsoftware etc. Our domain
+                knowledge has helped us to assist our clients dealing in diverse fields like Steel, Power, Glass
+                Industry, infrastructure, educational institutes, builders for residential and commercial
+                projects, power generation &amp; transmission,coal industry, transportation, Entertainment hub
+                like mega-plexus, multiplex, Mall, hotel, hypermarket, Hospital etc., Signage industry,
+                agrochemicals, FMCG, and various other manufacturing units.
+                We have assisted large trading companies, importers, exporters, hoteliers, retail chain,
+                mediaand various other service providers. We assist our esteemed clients from various private
+                and nationalized banks, apart fromNon Banking Finance Companies and Housing Finance
+                companies.A professional team of experienced personnel attends to clients need in time bound
+                manner.
+              </p>
+              
+              <u><h4>Financial Services Distributors for mortgage lenders: -</h4></u>
+              <p>
+              AVOSYS is the leading distributor of mortgageproducts. We have wide range of
+              mortgage products like Home Loan, Loan Against Property, OD Against Property,
+              Land Loans, and Loan for Purchase of Commercial Property, Lease Rental
+              Discounting, and Business Loans etc.
+              AVOSYS is professionally managed, having about two decades of domain knowledge and
+              expertise. Understanding Customer needs intimately, we strive hard to provide the best in
+              service, focusing on more than just interest rate,we assist our clients by offering best
+              possible loans factoring in interest rate, terms and conditions, individual profile and
+              situation, and amortization period etc. Customer satisfaction is the hallmark of our
+              offerings. Over a period of time, the relationship with our esteemed customers has turned
+              into long and meaningful relationship.
+              </p>
+            </div>
+          </div>
       </section>
       <!-- =========================
         END FEATURE SECTION
@@ -231,40 +255,7 @@
       <!-- =========================
         START FEATURE BOTTOM SECTION
       ============================== -->
-      <div class="feature-bottom-area">
-         <div class="container-fluid">
-            <div class="row">
-               <div class="col-sm-3 feature-btm-b-right">
-                  <div class="feature-bottom-content">
-                     <i class="fa fa-graduation-cap"></i>
-                     <h2>Financial Experts</h2>
-                     <p>We have the most famous experts in reputable company providing expert advice.</p>
-                  </div>
-               </div>
-               <div class="col-sm-3 feature-btm-b-right">
-                  <div class="feature-bottom-content">
-                     <i class="fa fa-flag"></i>
-                     <h2> Always Available</h2>
-                     <p>Our experts are always available over the phone and online.</p>
-                  </div>
-               </div>
-               <div class="col-sm-3 feature-btm-b-right">
-                  <div class="feature-bottom-content">
-                     <i class="fa fa-briefcase"></i>
-                     <h2> Customer Focused</h2>
-                     <p>We will go ahead that extra mile to ensure our clients welfare, our working hours are convenient to our Client’s needs from our first contact.</p>
-                  </div>
-               </div>
-               <div class="col-sm-3">
-                  <div class="feature-bottom-content">
-                     <i class="fa fa-thumb-tack"></i>
-                     <h2> No Sales Cultures</h2>
-                     <p>We don’t believe in the sales culture, but instead we believe in the service culture. Yes, time is precious, but we make the right decision just to save it.</p>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
+     
       <!-- =========================
         END FEATURE BOTTOM SECTION
       ============================== --> 
