@@ -46,6 +46,21 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
+      <style type="text/css">
+         @media screen and (min-width: 1160px){
+            #div-2{
+               padding-bottom: 10px;
+            }
+            #address{
+               padding-bottom: 17px
+            }
+            
+         }
+            #div-2{
+               padding-right: 30px !important;
+            }
+         
+      </style>
    </head>
    <body>
 
@@ -162,9 +177,22 @@
       <!-- =========================
       START CONTACT US SECTION
       ============================== --> 
-      <div id="">
+      <div class="row">
+         <div class="col-md-6" style="padding-left: 28px;padding-bottom:10px;border-right: 2px solid black;border-top: 2px solid black">
+            <h2 style="text-align: center;">Head Office</h2><h5 style="text-align: center;" id="address">D-12, Basement, Barodia Towers, Central Market, Prashant Vihar,Rohini, Delhi-110085</h5>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.2241247701545!2d77.13500441446826!3d28.71284728719354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d016440000001%3A0x854cee01b3707864!2sAvusys+India+Pvt+Ltd!5e0!3m2!1sen!2sin!4v1520243728516" style="width: 100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+         </div>
+         <div class="col-md-6" style="padding-right: 0px;border-top: 2px solid black" id="div-2">
+            <h2 style="text-align: center;">Corporate Office</h2><h5 style="text-align: center;">509-10511, Pearls Best Heights-II, Netaji Subash Place, Pitampura,(Near Max Hospital) New Delhi-110034</h5>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11111.423799456077!2d77.15379037366087!3d28.69325537612982!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2b3b5f46551280d8!2sAvosys+Finance!5e0!3m2!1sen!2sin!4v1520245429594" style="width: 100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+         </div>
+      </div>
+      <!-- <div id="" style="width: 50%;float: left;border: 1px solid black"> 
          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.2241247701545!2d77.13500441446826!3d28.71284728719354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d016440000001%3A0x854cee01b3707864!2sAvusys+India+Pvt+Ltd!5e0!3m2!1sen!2sin!4v1520243728516" style="width: 100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
       </div> 
+      <div id="" style="width: 50%;float: right;border: 1px solid black"> 
+         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11111.423799456077!2d77.15379037366087!3d28.69325537612982!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2b3b5f46551280d8!2sAvosys+Finance!5e0!3m2!1sen!2sin!4v1520245429594" style="width: 100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+      </div>  -->
 
       <!-- =========================
         START FOOTER SECTION
