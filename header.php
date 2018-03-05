@@ -3,7 +3,7 @@
         <div class="container custom-header">
         <div class="row">
             <div id="menuzord" class="menuzord">
-                <a href="home.html" class="menuzord-brand"><img src="images/logo.png" width="150" alt=""></a>
+                <a href="home.html" class="menuzord-brand"><img src="images/logo.png" width="125" alt=""></a>
                     <div class="header-search">                       
                     </div>                   
                     <ul class="menuzord-menu menuzord-menu-bg">
