@@ -10,6 +10,7 @@
                 <h2 style="margin-top:0;">About Avosys</h2>
                 <p>AVOSYS is leading financial services provider. We have now about two decades of experience.</p>
                 <div class="footer-time">
+                    <span style="font-size: 15px; color: #888;text-transform: uppercase;display: block;margin-bottom: 8px">Working Hours:</span>
                     <ul>
                         <li>Monday to Saturday</li>
                         <li>10:00 - 19:00</li>
