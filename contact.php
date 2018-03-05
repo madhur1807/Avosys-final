@@ -101,7 +101,7 @@
          <div class="contact-form">
             <div class="container">
                <div class="row">
-                  <div class="col-sm-4">
+                  <!-- <div class="col-sm-4">
                      <div class="contact-form-3-text">
                         <h2>Contact Information</h2>
                         <p>Find out about the ways to deal with debts if you are falling behind with day-to-day bills, loan and credit card repayments or other commitments & get some free advice by speaking to one of our financial advisers over the phone? </p>
@@ -125,8 +125,8 @@
                            </div>                         
                         </div>
                      </div>
-                  </div> 
-                  <div class="col-sm-8">
+                  </div> --> 
+                  <div class="col-sm-12">
                      <div class="contact-form-left contact-form-3 contact-form-right">
                         <h2>Drop Me A Line</h2>
                         <div class="show_result"></div>
@@ -162,7 +162,9 @@
       <!-- =========================
       START CONTACT US SECTION
       ============================== --> 
-      <div id="map"></div> 
+      <div id="">
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.2241247701545!2d77.13500441446826!3d28.71284728719354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d016440000001%3A0x854cee01b3707864!2sAvusys+India+Pvt+Ltd!5e0!3m2!1sen!2sin!4v1520243728516" style="width: 100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+      </div> 
 
       <!-- =========================
         START FOOTER SECTION
