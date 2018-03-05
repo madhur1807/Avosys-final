@@ -2200,8 +2200,7 @@ a:hover, a:focus {
 .client-img a span{
     text-align: center;
     position: relative;
-    padding-top: 9px;
-    padding-bottom: 9px;
+    padding: 20px 20px 15px 0px;
     display: grid;
     align-items: center;
     height: 131px;
@@ -2243,7 +2242,7 @@ a:hover, a:focus {
 }
 .footer-top-single{
     background: #1c1c1c;
-    padding: 35px 0px;
+    padding: 20px 20px;
 }
 .footer-top-single p{
     font-size: 14px;
@@ -2260,7 +2259,9 @@ a:hover, a:focus {
 .footer-top-single-bg-2{
     background: #181818;
 }
-.footer-main-content{}
+.footer-main-content{
+    padding: 0 0 25px;
+}
 .footer-main-single{}
 .footer-main-single> h2{
     font-size: 15px;
