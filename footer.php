@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col-sm-12 col-md-4">
                 <div class="footer-main-single footer-first-content clearfix">
-                <h2 style="margin-top:0;">About Experts</h2>
+                <h2 style="margin-top:0;">About Avosys</h2>
                 <p>Free and impartial money advice, set up by government, advice & guides to help improve your finances.</p>
                 <div class="footer-time">
                     <ul>
