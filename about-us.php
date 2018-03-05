@@ -26,7 +26,7 @@
       <link rel="stylesheet" href="css/jquery-ui.css">        
       <!-- OWL CSS -->
       <link href="css/owl.theme.default.css" rel="stylesheet">
-      <link href="css/owl.carousel.css" rel="stylesheet">  
+      <link href="css/owl.carousel.min.css" rel="stylesheet">  
       <!-- RS5.0 Main Stylesheet -->
       <link rel="stylesheet" type="text/css" href="revolution/css/settings.css">    
       <!-- RS5.0 Layers and Navigation Styles -->
@@ -45,6 +45,11 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
+      <style>
+        .owl-carousel .owl-dots.disabled, .owl-carousel .owl-nav.disabled{
+          display:block!important;
+        }
+      </style>
    </head>
    <body>
 
@@ -379,38 +384,7 @@
       <!-- =========================
         START COUNTER UP SECTION
       ============================== -->
-      <section class="counter-up-area">
-         <div class="container">
-            <div class="row">
-               <div class="counter-up-content">
-                  <div class="col-sm-3">
-                     <div class="counter-up-content-inner">
-                        <h2><span class="counter">5000</span></h2>
-                        <p>Million Dollars Saved</p>
-                     </div>
-                  </div>
-                  <div class="col-sm-3">
-                     <div class="counter-up-content-inner">
-                        <h2><span class="counter">1325</span></h2>
-                        <p>Successful Deals</p>
-                     </div>
-                  </div>
-                  <div class="col-sm-3">
-                     <div class="counter-up-content-inner">
-                        <h2><span class="counter">321</span></h2>
-                        <p>Advisors & Experts</p>
-                     </div>
-                  </div>
-                  <div class="col-sm-3">
-                     <div class="counter-up-content-inner w-r-l-border">
-                        <h2><span class="counter">2314</span></h2>
-                        <p>Happy Customers</p>
-                     </div>
-                  </div>
-               </div>               
-            </div>
-         </div>
-      </section>
+      
       <!-- =========================
         END COUNTER UP SECTION
       ============================== --> 
@@ -447,34 +421,97 @@
                   <div id="client-slider" class="owl-carousel all-carousel owl-theme">
                      <div class="client-single">
                         <div class="client-img">
-                           <a href="#"><span><img src="images/client/client-1.png" alt=""></span></a>
-                        </div>
-                        <div class="client-img">
-                           <a href="#"><span><img src="images/client/client-5.png" alt=""></span></a>
+                           <a href="#"><span><img src="images/citibank.png" alt=""></span></a>
                         </div>
                      </div>
                      <div class="client-single">
                         <div class="client-img">
-                           <a href="#"><span><img src="images/client/client-2.png" alt=""></span></a>
-                        </div>
-                        <div class="client-img">
-                           <a href="#"><span><img src="images/client/client-6.png" alt=""></span></a>
+                           <a href="#"><span><img src="images/pnb.jpg" alt=""></span></a>
                         </div>
                      </div>
                      <div class="client-single">
                         <div class="client-img">
-                           <a href="#"><span><img src="images/client/client-3.png" alt=""></span></a>
-                        </div>
-                        <div class="client-img">
-                           <a href="#"><span><img src="images/client/client-7.png" alt=""></span></a>
+                           <a href="#"><span><img src="images/hdfc.png" alt=""></span></a>
                         </div>
                      </div>
                      <div class="client-single">
                         <div class="client-img">
-                           <a href="#"><span><img src="images/client/client-4.png" alt=""></span></a>
+                           <a href="#"><span><img src="images/kotak.jpg" alt=""></span></a>
                         </div>
+                     </div>
+                     <div class="client-single">
                         <div class="client-img">
-                           <a href="#"><span><img src="images/client/client-8.png" alt=""></span></a>
+                           <a href="#"><span><img src="images/reliance.png" alt=""></span></a>
+                        </div>
+                     </div>
+                     <div class="client-single">
+                        <div class="client-img">
+                           <a href="#"><span><img src="images/indiabulls.jpg" alt=""></span></a>
+                        </div>
+                     </div>
+                     <div class="client-single">
+                        <div class="client-img">
+                           <a href="#"><span><img src="images/rbl.png" alt=""></span></a>
+                        </div>
+                     </div>
+                     <div class="client-single">
+                        <div class="client-img">
+                           <a href="#"><span><img src="images/indusland.jpg" alt=""></span></a>
+                        </div>
+                     </div>
+                     <div class="client-single">
+                        <div class="client-img">
+                           <a href="#"><span><img src="images/capital.jpg" alt=""></span></a>
+                        </div>
+                     </div>
+                     <div class="client-single">
+                        <div class="client-img">
+                           <a href="#"><span><img src="images/dhfl.jpg" alt=""></span></a>
+                        </div>
+                     </div>
+                     <div class="client-single">
+                        <div class="client-img">
+                           <a href="#"><span><img src="images/tata.png" alt=""></span></a>
+                        </div>
+                     </div>
+                     <div class="client-single">
+                        <div class="client-img">
+                           <a href="#"><span><img src="images/full.png" alt=""></span></a>
+                        </div>
+                     </div>
+                     <div class="client-single">
+                        <div class="client-img">
+                           <a href="#"><span><img src="images/aditya.jpg" alt=""></span></a>
+                        </div>
+                     </div>
+                     <div class="client-single">
+                        <div class="client-img">
+                           <a href="#"><span><img src="images/hdfc-lmt.jpg" alt=""></span></a>
+                        </div>
+                     </div>
+                     <div class="client-single">
+                        <div class="client-img">
+                           <a href="#"><span><img src="images/bajaj.png" alt=""></span></a>
+                        </div>
+                     </div>
+                     <div class="client-single">
+                        <div class="client-img">
+                           <a href="#"><span><img src="images/hsbc.jpg" alt=""></span></a>
+                        </div>
+                     </div>
+                     <div class="client-single">
+                        <div class="client-img">
+                           <a href="#"><span><img src="images/axis.jpg" alt=""></span></a>
+                        </div>
+                     </div>
+                     <div class="client-single">
+                        <div class="client-img">
+                           <a href="#"><span><img src="images/standard.png" alt=""></span></a>
+                        </div>
+                     </div>
+                     <div class="client-single">
+                        <div class="client-img">
+                           <a href="#"><span><img src="images/due-bank.png" alt=""></span></a>
                         </div>
                      </div>
                   </div>
@@ -489,25 +526,7 @@
       <!-- =========================
         START SIGN UP SECTION
       ============================== -->
-      <section class="sign-up-area parallax-window" data-parallax="scroll" data-image-src="./images/sign-up-bg.png">
-         <div class="container">
-            <div class="row">
-                  <div class="sign-up-content">
-                     <div class="col-sm-9">
-                        <div class="sign-up-left">
-                           <span>Worried about debt?</span>
-                           <span> Find out where to get free help now!</span>
-                        </div>
-                     </div>
-                     <div class="col-sm-3">
-                        <div class="sign-up-btn">
-                           <a href="#">Get Started</a>
-                        </div>
-                     </div>
-                  </div>
-            </div>
-         </div>
-      </section>
+      
       <!-- =========================
         START SIGN UP SECTION
       ============================== -->
@@ -544,6 +563,39 @@
       <script src="js/smoothscroll.js"></script>      
       <script src="js/jquery.matchHeight.js"></script>       
       <script src="js/main.js"></script>
-             
+      <script>
+        $(document).ready(function(){
+          var owl = $('#client-slider');
+          owl.owlCarousel({
+              loop:true,
+              nav:true,
+              margin:10,
+              autoplay:true,
+              autoplayTimeout:1000,
+              responsive:{
+                  0:{
+                      items:1
+                  },
+                  600:{
+                      items:3
+                  },            
+                  960:{
+                      items:5
+                  },
+                  1200:{
+                      items:6
+                  }
+              }
+          });
+          owl.on('mousewheel', '.owl-stage', function (e) {
+              if (e.deltaY>0) {
+                  owl.trigger('next.owl');
+              } else {
+                  owl.trigger('prev.owl');
+              }
+              e.preventDefault();
+          });
+        });
+      </script>
    </body>
 </html>
