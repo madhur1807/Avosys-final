@@ -56,9 +56,16 @@
             }
             
          }
+         #div-2{
+            padding-right: 30px !important;
+         }
+         @media screen and (min-width: 360px) and (max-width: 768px){
             #div-2{
-               padding-right: 30px !important;
-            }
+               padding-right: 20px !important;
+               padding-left: 30px;
+               padding-bottom: 10px
+            }  
+         }
          
       </style>
    </head>
