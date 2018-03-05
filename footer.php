@@ -8,7 +8,7 @@
             <div class="col-sm-12 col-md-4">
                 <div class="footer-main-single footer-first-content clearfix">
                 <h2 style="margin-top:0;">About Avosys</h2>
-                <p>Free and impartial money advice, set up by government, advice & guides to help improve your finances.</p>
+                <p>AVOSYS is the leading distributor of mortgageproducts. We have wide range of mortgage products.</p>
                 <div class="footer-time">
                     <ul>
                         <li>Monday to Saturday</li>
