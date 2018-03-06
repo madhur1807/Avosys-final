@@ -59,11 +59,11 @@
                 <div class="col-sm-4 col-md-4  no-padding-right">
                 <div class="footer-bottom-single">
                     <ul class="footer-social text-right">
-                        <li> <a href="https://www.facebook.com/Avosys-India-Pvt-Ltd-568140613550968/?modal=admin_todo_tour"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="https://twitter.com/avosysindia"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="https://www.linkedin.com/in/avosys-india-5a06b915a/"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="https://www.instagram.com/avosysindia5/"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="https://plus.google.com/u/0/114185874426284137005"> <i class="fa fa-google-plus"></i></a></li>
+                        <li> <a target="_blank" href="https://www.facebook.com/Avosys-India-Pvt-Ltd-568140613550968/?modal=admin_todo_tour"><i class="fa fa-facebook"></i></a></li>
+                        <li><a target="_blank" href="https://twitter.com/avosysindia"><i class="fa fa-twitter"></i></a></li>
+                        <li><a target="_blank" href="https://www.linkedin.com/in/avosys-india-5a06b915a/"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a target="_blank" href="https://www.instagram.com/avosysindia5/"><i class="fa fa-instagram"></i></a></li>
+                        <li><a target="_blank" href="https://plus.google.com/u/0/114185874426284137005"> <i class="fa fa-google-plus"></i></a></li>
                     </ul>
                 </div>
                 </div>
