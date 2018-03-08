@@ -47,6 +47,11 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
+      <style>
+        .list-group-item{
+          border: 1px solid #f1f1f1;
+        }
+      </style>
    </head>
    <body>
 
@@ -98,90 +103,100 @@
 
       <!-- =========================
         START FEATURE TYPOGRAPHY SECTION
-      ============================== -->         
-      <section class="feature-typo">
-           <div class="container">
-               <div class="row">
-                   <div class="col-md-12">
-                       <div class="f-h1-head">
-                       <div class="col-md-6">
-                            <img src="images/loan/loan1.png" >
-                       </div>    
-                       <div class="col-md-6">
-                           <h1>Home Loan</h1>
-                           <p>Take a step closer to your dream home with top Bank home loans. 
-                               <br/>
-                             Banks offer among the most feature-packed home loans in India. Besides free document storage, get approvals on your home loan even before you choose a property. We also provide guidance on buying a property when you apply for home loans. 
+      ============================== --> 
+      <section class="feature-typo" style="padding-bottom:50px">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="f-h1-head">
+                    <div class="col-md-6">
+                          <img src="images/loan/loan1.png" >
+                    </div>    
+                    <div class="col-md-6">
+                        <h1>Home Loan</h1>
+                        <p>Take a step closer to your dream home with top Bank home loans. 
                             <br/>
-                            With quick processing and attractive interest rates, Bank’s home loans are hassle-free and customer-friendly. In addition, women who apply for home loans are eligible for lower interest rates.</p>
-                       </div>
-                           
-                       </div>
-                   </div>
-                   <div class="col-md-12">
-                       <div class="">
-                          <div class="f-h1-head">
-                            <h2 class="text-center">BENEFITS</h2>
-                          </div>
-                           
-                           <div class="container-fluid loan-category-div" style="padding:40px">
-                              <ul>
-                                <li>Quick Proceesing</li>
-                                <liFree & Safe Document Storage></li>
-                                <li>Interest rates</li>
-                                <li>Special lower interest for women</li>
-                              </ul>
-                                
-                           </div>
-                           
-
-                       </div>
-                   </div> 
-                   <div class="col-md-12">
-                     
-                      <div class="" style="margin-bottom:20px">
-                        <div class="f-h1-head">
-                          <h2 class="text-center">Eligibility Factor</h2>
-                        </div>
-                        <div class="eligibility-c" style="padding:40px">
-                          <ul>
-                            <li>
-                              <h5>Age</h5>
-                              <ul>
-                                <li>21 years and above at the time of loan application</li>
-                                <li>65 years at loan maturity</li>
-                              </ul>
-                            </li>
-                            <li>
-                              <h5>Credit Score / Credit History</h5>
-                              <ul>
-                                <li>Credit Score above 650</li>
-                                <li>Credit History includes repayment of existing and past loans and credit cards payments</li>
-                              </ul>
-                            </li>
-                            <li>
-                              <h5>Type of Employment /  Stability</h5>
-                              <ul>
-                                <li>Salaried or self-employed</li>
-                                <li>Job or business stability- at least 2 years</li>
-                              </ul>
-                            </li>
-                            <li>
-                              <h5>Income (Higher the income, higher the Loan Amount)</h5>
-                              <ul>
-                                <li>Salary in case of salaried employees</li>
-                                <li>Business turnover, annual income, net-profit etc. in case of self-employed</li>
-                              </ul>
-                            </li>
-                          </ul>
-                        </div>
-                      </div>
-                   </div>
-                    
-                
-               </div>
-          </div>
+                          Banks offer among the most feature-packed home loans in India. Besides free document storage, get approvals on your home loan even before you choose a property. We also provide guidance on buying a property when you apply for home loans. 
+                          <br/>
+                          With quick processing and attractive interest rates, Bank’s home loans are hassle-free and customer-friendly. In addition, women who apply for home loans are eligible for lower interest rates.</p>
+                    </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
       </section>
+      <section class="container-fluid">
+        <div class="col-md-3">
+          <ul class="list-group">
+            <li class=" bg-light list-group-item"><a class="sidenav-list-item" href="home-loan.php">Home Retail</a></li>
+            <li class=" bg-light list-group-item"><a class="sidenav-list-item" href="loan-against-property.php">Loan against property</a></li>
+            <li class=" bg-light list-group-item"><a class="sidenav-list-item" href="purchase-of-commercial-property.php">Purchase of commercial property</a></li>
+            <li class=" bg-light list-group-item"><a class="sidenav-list-item" href="lease-rental-discounting.php">Lease rental discounting</a></li>
+            <li class=" bg-light list-group-item"><a class="sidenav-list-item" href="bussiness-loan.php">Bussiness Loan</a></li>
+          </ul>
+        </div>        
+        <div class="col-md-9" >
+            
+            <div class="col-md-12 bg-light" style="padding:10px 20px;">
+              <div class="">
+                <div class="">
+                  <h4>BENEFITS</h4>
+                </div>
+                <div class="container-fluid loan-category-div">
+                  <ul class="container">
+                    <li>Quick Proceesing</li>
+                    <liFree & Safe Document Storage></li>
+                    <li>Interest rates</li>
+                    <li>Special lower interest for women</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-12">
+              <div class="" style="padding:10px;">
+                <div class="" style="margin-bottom:20px">
+                  <div class="">
+                    <h4>Eligibility Factor</h4>
+                  </div>
+                  <div class="eligibility-c">
+                    <ul>
+                      <li>
+                        <h5>Age</h5>
+                        <ul>
+                          <li>21 years and above at the time of loan application</li>
+                          <li>65 years at loan maturity</li>
+                        </ul>
+                      </li>
+                      <li>
+                        <h5>Credit Score / Credit History</h5>
+                        <ul>
+                          <li>Credit Score above 650</li>
+                          <li>Credit History includes repayment of existing and past loans and credit cards payments</li>
+                        </ul>
+                      </li>
+                      <li>
+                        <h5>Type of Employment /  Stability</h5>
+                        <ul>
+                          <li>Salaried or self-employed</li>
+                          <li>Job or business stability- at least 2 years</li>
+                        </ul>
+                      </li>
+                      <li>
+                        <h5>Income (Higher the income, higher the Loan Amount)</h5>
+                        <ul>
+                          <li>Salary in case of salaried employees</li>
+                          <li>Business turnover, annual income, net-profit etc. in case of self-employed</li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+      </section>
+      
       <!-- =========================
         END FEATURE TYPOGRAPHY SECTION
       ============================== --> 

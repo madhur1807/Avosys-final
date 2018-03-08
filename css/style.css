@@ -5168,6 +5168,11 @@ ul.home-10-pagination{
 .eligibility-c h5{
     font-weight: bold;
 }
+.sidenav-list-item{
+    display: block;
+    cursor: pointer;
+    color:#777;
+}
 .typo-column{}
 .typo-column h2{
     color: #222222;
