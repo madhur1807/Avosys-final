@@ -9,7 +9,7 @@
       <!-- FAVICON -->
       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />      
       <!-- Bootstrap -->
-      <!--  -->
+      
       <link href="css/bootstrap.min.css" rel="stylesheet">
       <!--FONT AWESOME -->
       <link href="css/font-awesome.css" rel="stylesheet">
@@ -129,7 +129,7 @@
       <section class="container-fluid">
         <div class="col-md-3">
           <ul class="list-group">
-            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="home-loan.php">Home Retail</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="home-loan.php">Home Loan</a></li>
             <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="loan-against-property.php">Loan against property</a></li>
             <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="purchase-of-commercial-property.php">Purchase of commercial property</a></li>
             <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="lease-rental-discounting.php">Lease rental discounting</a></li>
@@ -147,10 +147,11 @@
                 </div>
                 <div class="container-fluid loan-category-div">
                   <ul class="container">
-                    <li>Quick Proceesing</li>
-                    <liFree & Safe Document Storage></li>
-                    <li>Interest rates</li>
-                    <li>Special lower interest for women</li>
+                    <li>Easy Documentation</li>
+                    <li>Free and safe storage of property documents.</li>
+                    <li>Avail interests at low interest rates</li>
+                    <li>Special lower interest rates for women</li>
+                    <li>Quick processing</li>
                   </ul>
                 </div>
               </div>

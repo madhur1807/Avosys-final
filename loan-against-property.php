@@ -109,75 +109,81 @@
                        </div>    
                        <div class="col-md-6">
                            <h1>Loan against property</h1>
-                           <p>Pledge your property to meet your personal or business goals with Avosys loans against property. <br/>
+                           <p>Pledge your property to meet your personal or business goals with loans against property. <br/>
                             Apply for loan against property by pledging your commercial or residential property as collateral. Get up to 60% of your property’s value with loan against property. Enjoy competitive interest rates and customised options with the hassle-free processing on loans against property. <br/>
 
-                            With low EMIs and speedy loan approvals, our loans against property are the ideal solution to meet your immediate financial needs.</p>
+                            With low EMIs and speedy loan approvals, loans against property are the ideal solution to meet your immediate financial needs.</p>
                        </div>
                        </div>
-                   </div>
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h2-head" style="text-align:center">
-                           <h2>Benefits</h2>
-                           <div class="container-fluid loan-category-div" style="padding:60px">
-                                <div class="col-md-3">
-                                        <img src="images/loan/loanagainstproperty1.svg">
-                                        <div class="loan-category">Multi-purpose Loan</div>
-                                </div>
-                                <div class="col-md-3">
-                                        <img src="images/loan/loanagainstproperty2.svg">
-                                        <div class="loan-category">Flexi Loan Facility</div>
-                                </div>
-                                <div class="col-md-3">
-                                        <img src="images/loan/loanagainstproperty3.svg">
-                                        <div class="loan-category">Quick Processing</div>
-                                </div>
-                                <div class="col-md-3">
-                                        <img src="images/loan/loanagainstproperty4.svg">
-                                        <div class="loan-category">Property Dossier</div>
-                                </div>
-                           </div>
-                           
-
-                       </div>
-                       <div class="col-md-12">
-                          <div class="card" style="margin-bottom:20px">
-                            <div class="card-header bg-primary text-light">
-                              <h5>Eligibility Factor</h5>
-                            </div>
-                            <div class="card-body" style="font-size:1.3em">
-                              <ul>
-                                <li>
-                                  <h5>Age</h5>
-                                  <ul>
-                                    <li>21 years and above at the time of loan application</li>
-                                    <li>65 years at loan maturity</li>
-                                    However, the age may go up to 70 years and above in special cases.
-                                  </ul>
-                                </li>
-                                <li>
-                                  <h5>Job Experience or Business Stability</h5>
-                                  <ul>
-                                    <li>Salaried Employees: Minimum of 2-3 years</li>
-                                    <li>Self-Employed: Cash profit of at least 3 years</li>
-                                  </ul>
-                                </li>
-                                <li>
-                                  <h5>CIBIL Score</h5>
-                                  <ul>
-                                    <li>Good CIBIL Score</li>
-                                    (Usually, 650 and above is considered as good)
-                                    
-                                  </ul>
-                                </li>
-                              </ul>
-                            </div>
-                          </div>
-                      </div>
-                   </div> 
-                
+                   </div>                
                </div>
           </div>
+      </section>
+
+      <section class="container-fluid">
+        <div class="col-md-3">
+          <ul class="list-group">
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="home-loan.php">Home Loan</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="loan-against-property.php">Loan against property</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="purchase-of-commercial-property.php">Purchase of commercial property</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="lease-rental-discounting.php">Lease rental discounting</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="bussiness-loan.php">Bussiness Loan</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="balance-tranfer.php">Balance Transfer</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="emi.php">EMI Calculator</a></li>
+          </ul>
+        </div>        
+        <div class="col-md-9" >
+            
+            <div class="col-md-12 bg-light" style="padding:10px 20px;">
+              <div class="">
+                <div class="">
+                  <h4>BENEFITS</h4>
+                </div>
+                <div class="container-fluid loan-category-div">
+                  <ul class="container">
+                    <li>Multi-purpose Loan</li>
+                    <li>Flexi Loan Facility</li>
+                    <li>Quick Processing</li>
+                    <li>Free and safe storage of property documents.</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-12">
+              <div class="" style="padding:10px;">
+                <div class="" style="margin-bottom:20px">
+                  <div class="">
+                    <h4>Eligibility Factor</h4>
+                  </div>
+                  <div class="eligibility-c">
+                    <ul>
+                      <li>
+                        <h5>Age</h5>
+                        <ul>
+                          <li>21 years and above at the time of loan application</li>
+                          <li>65 years at loan maturity</li>
+                        </ul>
+                      </li>
+                      <li>
+                        <h5>Job Experience or Business Stability</h5>
+                        <ul>
+                          <li>Salaried Employees: Minimum of 2-3 years</li>
+                          <li>Self-Employed: Cash profit of at least 3 years</li>
+                        </ul>
+                      </li>
+                      <li>
+                        <h5>CIBIL Score</h5>
+                        <ul>
+                          <li>Good CIBIL Score</li>
+                          (Usually, 650 and above is considered as good)
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
       </section>
       <!-- =========================
         END FEATURE TYPOGRAPHY SECTION
