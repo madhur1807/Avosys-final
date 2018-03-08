@@ -46,9 +46,11 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
       <style>
-        /* .owl-carousel .owl-dots.disabled, .owl-carousel .owl-nav.disabled{
-          display:block!important;
-        } */
+        @media screen and (min-width: 360px) and (max-width: 768px){
+          .client-img a span{
+            padding: 0px;
+          }
+        }
       </style>
    </head>
    <body>
@@ -112,7 +114,7 @@
       ============================== -->
       <section class="feature-area">
           <div class="main-title" style="padding-top: 70px; padding-bottom: 45px">
-            <div class="container" style="margin-bottom: 55px;">
+            <div class="container" style="margin-bottom: 35px;">
                <div class="row">
                   <div class="col-sm-12">
                      <div class="main-title-content text-center">
@@ -132,54 +134,28 @@
                 teammates and our esteemed clients are our brand ambassadors. We feel proud to share
                 that our first client and our first team- mate, share the same intimate relationship even
                 today.<br>
-                Mr. Rajesh Jindal, having more than 25 years of professional experience in financial
-                Consulting &amp; Financial Services Distribution, promotes AVOSYS. A team of
-                professionals ably assists Mr. Rajesh Jindal, and the organization has grown multifold
-                during the tenure, giving a trail of satisfied clients and excellent relationship with Banking
-                Partners and teammates. The clients sourced by AVOSYS always get preference over
+                The clients sourced by AVOSYS always get preference over
                 others, because of zero delinquency status and unprecedented growth maintained by our
-                esteemed clients. The status speaks loud about our ability, to analyze, understand,
+                esteemed clients. The status speaks loud about our ability to analyze, understand,
                 communicate in very lucid terms.<br>
-                We operate out of our two offices at Netaji Subhash Place, Pitampura Delhi and Central
-                Market Prashant Vihar, Rohini Delhi.
+                We operate out of our two offices at Netaji Subhash Place, Pitampura, Delhi and Central
+                Market Prashant Vihar, Rohini, Delhi.
               </p>
               <h4>AVOSYS operates in following two verticals of Financial Services:</h4>
               <ul>               
-                <strong><li style="font-size: 1.3em">Financial Services provider for Industry and trade</li></strong>
-                <strong><li style="font-size: 1.3em">Financial Services Distributors for mortgage lenders</li></strong>
+                <strong><li style="font-size: 1.3em">Project Finance</li></strong>
+                <strong><li style="font-size: 1.3em">Retail Mortgage</li></strong>
               </ul><br>
               
-                <u><h4>Financial Service Provider for Industry&amp; Trade</h4></u><br>
+                <u><h4>Project Finance</h4></u>
               <p>  
-                AVOSYS started its journey about two decades ago, in financial consulting &amp;advisory
-                services. And to date, we have assisted our various esteemed clients dealingin all spectrum of
-                business in manufacturing, trading, imports, exports, infrastructures, builders, service
-                industry, agri-business, education, entertainment, transportation, andsoftware etc. Our domain
-                knowledge has helped us to assist our clients dealing in diverse fields like Steel, Power, Glass
-                Industry, infrastructure, educational institutes, builders for residential and commercial
-                projects, power generation &amp; transmission,coal industry, transportation, Entertainment hub
-                like mega-plexus, multiplex, Mall, hotel, hypermarket, Hospital etc., Signage industry,
-                agrochemicals, FMCG, and various other manufacturing units.
-                We have assisted large trading companies, importers, exporters, hoteliers, retail chain,
-                mediaand various other service providers. We assist our esteemed clients from various private
-                and nationalized banks, apart fromNon Banking Finance Companies and Housing Finance
-                companies.A professional team of experienced personnel attends to clients need in time bound
-                manner.
+                AVOSYS started its journey about two decades ago, in financial consulting &amp;&nbsp;advisory services. And to date, we have assisted our various esteemed clients dealing in all spectrum of business in manufacturing, trading, imports, exports, infrastructures, builders, service industry, agri-business, education, entertainment, transportation, and software etc. Our domain knowledge has helped us to assist our clients dealing in diverse fields like Steel, Power, Glass Industry, infrastructure, educational institutes, builders for residential and commercial projects, power generation &amp; transmission,coal industry, transportation, Entertainment hub like mega-plexus, multiplex, Mall, hotel, hypermarket, Hospital etc., Signage industry, agrochemicals, FMCG, and various other manufacturing units. We have assisted large trading companies, importers, exporters, hoteliers, retail chain, mediaand various other service providers. We assist our esteemed clients from various private       and nationalized banks, apart fromNon Banking Finance Companies and Housing Finance
+                companies. A professional team of experienced personnel attends to clients need in time bound manner.
               </p>
               
-              <u><h4>Financial Services Distributors for mortgage lenders: -</h4></u>
+              <u><h4>Retail Mortgage</h4></u>
               <p>
-              AVOSYS is the leading distributor of mortgageproducts. We have wide range of
-              mortgage products like Home Loan, Loan Against Property, OD Against Property,
-              Land Loans, and Loan for Purchase of Commercial Property, Lease Rental
-              Discounting, and Business Loans etc.
-              AVOSYS is professionally managed, having about two decades of domain knowledge and
-              expertise. Understanding Customer needs intimately, we strive hard to provide the best in
-              service, focusing on more than just interest rate,we assist our clients by offering best
-              possible loans factoring in interest rate, terms and conditions, individual profile and
-              situation, and amortization period etc. Customer satisfaction is the hallmark of our
-              offerings. Over a period of time, the relationship with our esteemed customers has turned
-              into long and meaningful relationship.
+              AVOSYS is the leading distributor of mortgage products. We have wide range of         mortgage products like Home Loan, Loan Against Property, Purchase of Commercial Property, Lease Rental Discounting, and Business Loans etc. AVOSYS is professionally managed, having about two decades of domain knowledge and expertise. Understanding Customer needs intimately, we strive hard to provide the best in service, focusing on more than just interest rate,we assist our clients by offering best possible loans factoring in interest rate, terms and conditions, individual profile and situation, and amortization period etc. Customer satisfaction is the hallmark of our offerings. Over a period of time, the relationship with our esteemed customers has turned into long and meaningful relationship.
               </p>
             </div>
           </div>
@@ -195,13 +171,36 @@
       <!-- =========================
         END FEATURE BOTTOM SECTION
       ============================== --> 
-
+      <section class="team-area" style="padding-bottom: 30px">
+         <!-- MAIN TITLE -->
+         <div class="main-title" style="padding-top: 40px;padding-bottom: 30px">
+            <div class="container">
+               <div class="row">
+                  <div class="col-sm-12">
+                     <div class="main-title-content text-center">
+                        <h2>Our Promoters</h2>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div> <!-- END MAIN TITLE -->
+         <div class="team-area-details">
+            <div class="container">
+               <div class="row">
+                  
+                  <div class="col-sm-6 col-md-6">
+                     <p>Mr. Rajesh Jindal, a Chartered Accountant by qualification, having more than 25 years of professional experience, in financial consulting & financial service distribution, promotes AVOSYS. A team of professionals ably assist Mr. Jindal and the organisation has grown multifold during the tenure, giving a trail of satisfied clients and excellent relationship with bank partners and team mates.</p>
+                  </div>
+               </div>             
+            </div>
+         </div>          
+      </section>
       <!-- =========================
         START TEAM SECTION
       ============================== -->
-      <section class="team-area">
+      <section class="team-area" style="background-color: #f9f9f9;padding-bottom: 30px">
          <!-- MAIN TITLE -->
-         <div class="main-title">
+         <div class="main-title" style="padding-top: 40px;padding-bottom: 30px">
             <div class="container">
                <div class="row">
                   <div class="col-sm-12">
@@ -216,89 +215,9 @@
          <div class="team-area-details">
             <div class="container">
                <div class="row">
-                  <div class="col-sm-6 col-md-3">
-                     <div class="team-single">
-                        <div class="team-image">
-                           <img src="images/team/team-1.jpg"  class="img-responsive" alt="">
-                           <div class="team-hover-text">
-                              <h2>Ahmed Abd-Alhaleem</h2>
-                              <p>Head of Investment</p>
-                           </div>
-                        </div>
-                        <div class="team-text text-center">
-                           <h3>Omar Elnagar</h3>
-                           <p>Civil Engineer</p> 
-                           <div class="team-social">
-                              <a class="fa fa-facebook" href="#"></a>
-                              <a class="fa fa-twitter" href="#"></a>
-                              <a class="fa fa-linkedin" href="#"></a>
-                              <a class="fa fa-rss" href="#"></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-sm-6 col-md-3">
-                     <div class="team-single">
-                        <div class="team-image">
-                           <img src="images/team/team-2.jpg"  class="img-responsive" alt="">
-                           <div class="team-hover-text">
-                              <h2>Ahmed Hassan</h2>
-                              <p>Tax Advice</p>
-                           </div>
-                        </div>
-                        <div class="team-text text-center">
-                           <h3>Ahmed Hassan</h3>
-                           <p>Tax Advice</p> 
-                           <div class="team-social">
-                              <a class="fa fa-facebook" href="#"></a>
-                              <a class="fa fa-twitter" href="#"></a>
-                              <a class="fa fa-linkedin" href="#"></a>
-                              <a class="fa fa-rss" href="#"></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-sm-6 col-md-3">
-                     <div class="team-single">
-                        <div class="team-image">
-                           <img src="images/team/team-3.jpg"  class="img-responsive" alt="">
-                           <div class="team-hover-text">
-                              <h2>Mohamed Habaza</h2>
-                              <p>Business Planner</p>
-                           </div>
-                        </div>
-                        <div class="team-text text-center">
-                           <h3>Mohamed Habaza</h3>
-                           <p>Business Planner</p> 
-                           <div class="team-social">
-                              <a class="fa fa-facebook" href="#"></a>
-                              <a class="fa fa-twitter" href="#"></a>
-                              <a class="fa fa-linkedin" href="#"></a>
-                              <a class="fa fa-rss" href="#"></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-sm-6 col-md-3">
-                     <div class="team-single">
-                        <div class="team-image">
-                           <img src="images/team/team-4.jpg"  class="img-responsive" alt="">
-                           <div class="team-hover-text">
-                              <h2>Amr Gamal Sadeq</h2>
-                              <p>Stock Market Broker</p>
-                           </div>
-                        </div>
-                        <div class="team-text text-center">
-                           <h3>Amr Gamal Sadeq</h3>
-                           <p>Stock Market Broker</p> 
-                           <div class="team-social">
-                              <a class="fa fa-facebook" href="#"></a>
-                              <a class="fa fa-twitter" href="#"></a>
-                              <a class="fa fa-linkedin" href="#"></a>
-                              <a class="fa fa-rss" href="#"></a>
-                           </div>
-                        </div>
-                     </div>
+                  
+                  <div class="col-sm-6 col-md-6 col-md-offset-3 col-sm-offset-3" style="text-align: center;">
+                     <p>AVOSYS is backed up by a team of chartered accountants and other professionals who have a vast expertise of mortgage industry. The team understands the imortance of customer satisfaction and puts in all it's acquired knowledge & ability to achieve it.</p>
                   </div>
                </div>             
             </div>
@@ -307,7 +226,7 @@
       <!-- =========================
         END TEAM SECTION
       ============================== -->
-
+      
       <!-- =========================
         START COUNTER UP SECTION
       ============================== -->
@@ -330,12 +249,11 @@
       ============================== -->
       <section class="client-area">
          <!-- MAIN TITLE -->
-         <div class="main-title">
+         <div class="main-title" style="padding-top: 45px">
             <div class="container">
                <div class="row">
                   <div class="col-sm-12">
                      <div class="main-title-content text-center">
-                        <h3>Awesome Customers</h3>
                         <h2>Our Partners</h2>
                      </div>
                   </div>
