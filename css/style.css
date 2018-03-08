@@ -5178,7 +5178,7 @@ ul.home-10-pagination{
 }
 .services-nav-li:hover{
     transform:scale(1.01,1.01);
-    box-shadow:2px 2px 5px #eee;
+    box-shadow:2px 2px 3px #eee;
 }
 .typo-column{}
 .typo-column h2{

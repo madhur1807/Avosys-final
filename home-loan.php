@@ -134,6 +134,8 @@
             <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="purchase-of-commercial-property.php">Purchase of commercial property</a></li>
             <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="lease-rental-discounting.php">Lease rental discounting</a></li>
             <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="bussiness-loan.php">Bussiness Loan</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="balance-tranfer.php">Balance Transfer</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="emi.php">EMI Calculator</a></li>
           </ul>
         </div>        
         <div class="col-md-9" >
