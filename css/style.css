@@ -5173,6 +5173,13 @@ ul.home-10-pagination{
     cursor: pointer;
     color:#777;
 }
+.services-nav-li{
+    transition: 0.3s;
+}
+.services-nav-li:hover{
+    transform:scale(1.01,1.01);
+    box-shadow:2px 2px 5px #eee;
+}
 .typo-column{}
 .typo-column h2{
     color: #222222;

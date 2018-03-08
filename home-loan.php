@@ -129,11 +129,11 @@
       <section class="container-fluid">
         <div class="col-md-3">
           <ul class="list-group">
-            <li class=" bg-light list-group-item"><a class="sidenav-list-item" href="home-loan.php">Home Retail</a></li>
-            <li class=" bg-light list-group-item"><a class="sidenav-list-item" href="loan-against-property.php">Loan against property</a></li>
-            <li class=" bg-light list-group-item"><a class="sidenav-list-item" href="purchase-of-commercial-property.php">Purchase of commercial property</a></li>
-            <li class=" bg-light list-group-item"><a class="sidenav-list-item" href="lease-rental-discounting.php">Lease rental discounting</a></li>
-            <li class=" bg-light list-group-item"><a class="sidenav-list-item" href="bussiness-loan.php">Bussiness Loan</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="home-loan.php">Home Retail</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="loan-against-property.php">Loan against property</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="purchase-of-commercial-property.php">Purchase of commercial property</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="lease-rental-discounting.php">Lease rental discounting</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="bussiness-loan.php">Bussiness Loan</a></li>
           </ul>
         </div>        
         <div class="col-md-9" >
