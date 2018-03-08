@@ -112,7 +112,7 @@
                            <p>A term loan is a loan from a bank for a specific amount that has a specified repayment schedule and a fixed or floating interest rate. For example, many banks have term-loan programs that can offer small businesses the cash they need to operate from month to month. Often, a small business uses the cash from a term loan to purchase fixed assets such as equipment for its production process.<br>A term loan is for equipment, real estate or working capital paid off between one and 25 years. The loan carries a fixed or variable interest rate, monthly or quarterly repayment schedule, and set maturity date. The loan requires collateral and a rigorous approval process to reduce the risk of repayment. A term loan is appropriate for an established small business with sound financial statements and a substantial down payment to minimize payment amounts and total loan cost.</p>
                        </div>
                    </div>
-                   <div class="col-md-12">
+                   <!-- <div class="col-md-12">
                        <div class="f-h1-head f-h2-head">
                           <h3>Features of Term Loan</h3>
                           <ul class="features-ul">
@@ -124,8 +124,8 @@
                             <li><p>Term loans can be converted into equity according to the terms and conditions that have been laid out by the lender.</p></li>
                           </ul>
                        </div>
-                   </div> 
-                   <div class="col-md-12">
+                   </div>  -->
+                   <!-- <div class="col-md-12">
                        <div class="f-h1-head f-h2-head">
                            <h3>Advantages of Term Loans</h3>
                            <ul class="features-ul">
@@ -136,8 +136,8 @@
                             <li><p>The lender will have a collateral security and hence the loan is not a huge risk to the financial institution.</p></li>
                             <li><p>Since the loan can be converted to equity, the lender can get the right to control the affairs of the business or firm.</p></li>
                           </ul>
-                   </div>   
-                   <div class="col-md-12">
+                   </div> -->   
+                   <!-- <div class="col-md-12">
                        <div class="f-h1-head f-h2-head">
                            <h3>Disadvantages of Term Loans</h3>
                            <ul class="features-ul">
@@ -148,8 +148,8 @@
                             <li><p>The lender of term loan will have no control over the company’s affairs and it leads to the lender asking the borrower to convert the loan to equity.</p></li>
                           </ul>
                        </div>
-                   </div> 
-                   <div class="col-md-12">
+                   </div>  -->
+                  <!--  <div class="col-md-12">
                        <div class="f-h1-head f-h2-head">
                            <h3 style="margin-bottom: 15px">Types of Term Loan</h3>
                            <h4 style="text-decoration: underline;">Classified As Per Facility</h4>
@@ -168,7 +168,7 @@
                              <li><p><strong>Secured and Unsecured Loan: </strong> Interim loan is useful for businesses that run out of cash and need to make urgent payments. Banks grant loan only to those borrowers who are reliable and timely pay off the loan amount. The bank keeps assets like building, machinery, etc. as a mortgage while granting the interim loan. This short-term business financing arrangement is best if you wish to buy commercial property or during construction of the commercial propertySecured loans are those loans on which the banks demand a collateral security in exchange. The collateral security can be any asset of the business. The bank has the right to sell off the asset and recover the money in case of non-payment of the loan amount. The period of secured loans is more than 12 months. The rate of interest is comparatively lower than the unsecured loans. On the other hand, unsecured loans do not have any collateral security in exchange for a loan. Banks grant unsecured loans only when they are sure of the repaying ability of the borrower.</p></li>
                            </ul>
                        </div>
-                   </div>
+                   </div> -->
                                                                                                
                </div>
              </div>
