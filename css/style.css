@@ -1288,7 +1288,8 @@ a:hover, a:focus {
 }
 .welcome-content p{
     font-size: 14px;
-    color: #9b9b9b;
+    font-weight: 500;
+    color: #4e4e4e;
 }
 .welcome-content > a{
     font-size: 13px;
@@ -1528,7 +1529,7 @@ a:hover, a:focus {
 }
 .expert-right-single-content p{
     font-size: 14px;
-    color: #9b9b9b;
+    color: #444;
     font-family: 'Raleway', sans-serif;
     margin-bottom: 0px    
 }
@@ -1972,7 +1973,7 @@ a:hover, a:focus {
 }
 .main-title-left p {
     font-size: 15px;
-    color: #9b9b9b;
+    color: #444;
     font-family: 'Raleway', sans-serif;
     margin-top: 40px;
 }

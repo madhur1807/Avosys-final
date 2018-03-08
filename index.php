@@ -481,7 +481,14 @@
                            <a href="javascript:void(0)"><span><img style="height:auto" src="images/indusland.jpg" alt=""></span></a>
                         </div>
                      </div>
-
+                     <div class="client-single">
+                        <div class="client-img">
+                           <a href="javascript:void(0)"><span><img style="height:auto" src="images/axis.jpg" alt=""></span></a>
+                        </div>
+                        <div class="client-img">
+                           <a href="javascript:void(0)"><span><img style="height: auto" src="images/tata.png" alt=""></span></a>
+                        </div>
+                     </div>
                   </div>
                </div>
             </div>

@@ -552,7 +552,7 @@ jQuery(function($) {
         */ 
         var client_slider = $("#client-slider");
         client_slider.owlCarousel({
-            loop: true,
+            loop: false,
             margin: 30,
             dots: false,
             nav: false,
@@ -567,7 +567,7 @@ jQuery(function($) {
                     items: 4
                 },
                 1200: {
-                    items: 4
+                    items: 5
                 }
             }
         }); 

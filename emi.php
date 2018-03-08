@@ -106,7 +106,7 @@
                         <h4>Loan Amount</h4>
                         <div id="slider_1" class="col-md-6">
                             <div id="textarea_three">0</div>
-                            <div id="textarea_four">20L</div>
+                            <div id="textarea_four">200L</div>
                         </div> 
                         <div class="col-md-6" style="text-align:right;">
                           <div class="input-group" style="width: 65%;float:right;">
@@ -119,7 +119,7 @@
                         <h4>Interest Rate</h4>
                         <div id="slider_2" class="col-md-6">
                             <div id="textarea_three">0</div>
-                            <div id="textarea_four">15p.a.</div>
+                            <div id="textarea_four">20p.a.</div>
                             
                         </div> 
                         <div class="col-md-6 " style="text-align:right;">
@@ -133,33 +133,16 @@
                         <h4>Loan Term</h4>
                         <div id="slider_3" class="col-md-6">
                             <div id="textarea_three">0</div>
-                            <div id="textarea_four">30Yrs</div>
+                            <div id="textarea_four">360Yrs</div>
                         </div> 
                         <div class="col-md-6 " style="text-align:right;overflow:auto">
                           <div class="input-group" style="width: 65%;float:right;">
                             <input type="number" class="form-control" id="valueY" style="display: inline-block;" max="30">
-                            <span class="input-group-addon" id="basic-addon2">Years</span>
+                            <span class="input-group-addon" id="basic-addon2">Months</span>
                           </div>
                         </div>
                     </div>
                    
-                       <!-- <div class="f-h1-head">
-                           <h1>What is EMI?</h1>
-                           <p>Equated Monthly Installment – EMI for short – is the amount payable every month to the bank or any other financial institution until the loan amount is fully paid off. It consists of the interest on loan as well as part of the principal amount to be repaid. The sum of principal amount and interest is divided by the tenure, i.e., number of months, in which the loan has to be repaid. This amount has to be paid monthly. The interest component of the EMI would be larger during the initial months and gradually reduce with each payment. The exact percentage allocated towards payment of the principal depends on the interest rate. Even though your monthly EMI payment won’t change, the proportion of principal and interest components will change with time. With each successive payment, you’ll pay more towards the principal and less in interest.<br><br><span style="font-weight: bold;font-size: 14px;"
-                            >Here’s the formula to calculate EMI:</span><br><br>
-                            <img src="images/emiformula.png"><br>
-                            <b>where</b><br>
-                            <b>E</b> is EMI<br>
-                            <b>P</b> is Principal Loan Amount<br>
-                            
-                            <b>r</b> is s rate of interest calculated on monthly basis. (i.e., r = Rate of Annual interest/12/100. If rate of interest is 10.5% per annum, then r = 10.5/12/100=0.00875)<br>
-                            <b>n</b> is loan term / tenure / duration in number of months<br><br>
-                            Whether you obtain a secured loan (home loan or car loan) or an unsecured loan (personal loan), you have to repay the loan through Equated Monthly Installments (EMIs) over a specified period of time called the loan tenure. The cost of your loan is calculated in terms of monthly payments. Loan EMI calculation can help you find out the monthly cost of your loan. Accordingly, you can create a monthly budget to balance your income and expense.<br><br>
-                            To ensure your loan EMI payments are within your repayment capacity, you can either adjust the loan tenure or the loan amount, or both. You can’t adjust the loan interest rate and processing fee levied by a bank. However, you can compare various loan offers and choose one with a low interest rate and zero processing fee to lower the cost of your loan.
-
-                            
-                          </p>
-                       </div> -->
                    </div>
                    <div class="right-emi" >
                         <h3>Monthly EMI:</h3>
@@ -215,7 +198,7 @@
           range: "min",     
             value: 0,
             min: 0,
-            max: 2000000,
+            max: 20000000,
             step: 1,
             animate: "fast",
               
@@ -233,7 +216,7 @@
           range: "min",     
             value: 0,
             min: 0,
-            max: 15,
+            max: 20,
             step: 1,
             animate: "fast",
               slide:function(event,ui){
@@ -251,7 +234,7 @@
           range: "min",     
             value: 0,
             min: 0,
-            max: 30,
+            max: 360,
             step: 1,
             animate: "fast",
               
@@ -290,25 +273,32 @@
           });
           function calEMI(){
             var loanAmount = $("#valueL").val();
-            var numberOfMonths = $("#valueP").val();
-            var rateOfInterest = $("#valueY").val();
+            var rateOfInterest = $("#valueP").val();
+            var numberOfMonths = $("#valueY").val();
+            
             var monthlyInterestRatio = (rateOfInterest/100)/12;
               
             var top = Math.pow((1+monthlyInterestRatio),numberOfMonths);
             var bottom = top -1;
             var sp = top / bottom;
             var emi = ((loanAmount * monthlyInterestRatio) * sp);
+
             var rEmi = (emi).toFixed(2);
-      
+            
+            // adding commas to result
             var lastThree = rEmi.substring(rEmi.length-6);
             var otherNumbers = rEmi.substring(0,rEmi.length-6);
             if(otherNumbers != '')
                 lastThree = ',' + lastThree;
             var res = otherNumbers.replace(/\B(?=(\d{2})+(?!\d))/g, ",") + lastThree;
-            if(res == "NaN"){
+            
+            
+
+            //show - if result is NaN
+            if(res == "NaN" ||res == "In,finity"){
               res = "-";
             }
-            $('.emi-result').html(" "+res);
+            $('.emi-result').html("<i class='fa fa-inr' aria-hidden='true' style='margin-right:10px'></i>"+res);
           }
           
         });

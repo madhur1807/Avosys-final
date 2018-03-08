@@ -46,9 +46,9 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
       <style>
-        .owl-carousel .owl-dots.disabled, .owl-carousel .owl-nav.disabled{
+        /* .owl-carousel .owl-dots.disabled, .owl-carousel .owl-nav.disabled{
           display:block!important;
-        }
+        } */
       </style>
    </head>
    <body>
@@ -345,7 +345,7 @@
          <div class="container">
             <div class="row">
                <div class="col-md-12">
-                  <div id="client-slider" class="owl-carousel all-carousel owl-theme">
+                  <div id="client2-slider" class="owl-carousel all-carousel owl-theme">
                      <div class="client-single">
                         <div class="client-img">
                            <a href="#"><span><img src="images/citibank.png" alt=""></span></a>
@@ -492,13 +492,13 @@
       <script src="js/main.js"></script>
       <script>
         $(document).ready(function(){
-          var owl = $('#client-slider');
+          var owl = $('#client2-slider');
           owl.owlCarousel({
               loop:true,
-              nav:true,
+              nav:false,
               margin:10,
               autoplay:true,
-              autoplayTimeout:1000,
+              autoplayTimeout:4000,
               responsive:{
                   0:{
                       items:1
