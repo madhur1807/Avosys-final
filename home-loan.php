@@ -119,36 +119,31 @@
                        </div>
                    </div>
                    <div class="col-md-12">
-                       <div class="f-h1-head f-h2-head" style="text-align:center;">
-                           <h2>Benefits</h2>
-                           <div class="container-fluid loan-category-div" style="padding:60px">
-                                <div class="col-md-3">
-                                        <img src="images/loan/homeloan1.png">
-                                        <div class="loan-category">Quick Proceesing</div>
-                                </div>
-                                <div class="col-md-3">
-                                        <img src="images/loan/homeloan2.png">
-                                        <div class="loan-category">Free & Safe Document Storage</div>
-                                </div>
-                                <div class="col-md-3">
-                                        <img src="images/loan/homeloan3.png">
-                                        <div class="loan-category">Interest rates</div>
-                                </div>
-                                <div class="col-md-3">
-                                        <img src="images/loan/homeloan4.png">
-                                        <div class="loan-category">Special lower interest for women</div>
-                                </div>
+                       <div class="">
+                          <div class="f-h1-head">
+                            <h2 class="text-center">BENEFITS</h2>
+                          </div>
+                           
+                           <div class="container-fluid loan-category-div" style="padding:40px">
+                              <ul>
+                                <li>Quick Proceesing</li>
+                                <liFree & Safe Document Storage></li>
+                                <li>Interest rates</li>
+                                <li>Special lower interest for women</li>
+                              </ul>
+                                
                            </div>
                            
 
                        </div>
                    </div> 
                    <div class="col-md-12">
-                      <div class="card" style="margin-bottom:20px">
-                        <div class="card-header bg-primary text-light">
-                          <h5>Eligibility Factor</h5>
+                     
+                      <div class="" style="margin-bottom:20px">
+                        <div class="f-h1-head">
+                          <h2 class="text-center">Eligibility Factor</h2>
                         </div>
-                        <div class="card-body" style="font-size:1.3em">
+                        <div class="eligibility-c" style="padding:40px">
                           <ul>
                             <li>
                               <h5>Age</h5>

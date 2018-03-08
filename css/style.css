@@ -27,7 +27,7 @@ COMMON STYLES
 -----------------------------------------*/
 body {
     font-family: 'Raleway', sans-serif;
-    font-size: 1.3em;
+    font-size: 1.5em;
 }
 a:hover, a:focus {
     box-shadow: 0 0px transparent;
@@ -5159,13 +5159,14 @@ ul.home-10-pagination{
     font-size: 14px;
 }
 .f-h1-head p{
-    font-family: 'Lora', serif;
-    font-size: 14px;
     color: #696969;
     line-height: 24px;
     font-weight: normal;
     text-transform: initial;
     margin-bottom: 30px;
+}
+.eligibility-c h5{
+    font-weight: bold;
 }
 .typo-column{}
 .typo-column h2{
