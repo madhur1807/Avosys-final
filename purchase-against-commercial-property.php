@@ -104,7 +104,7 @@
                    <div class="col-md-12">
                        <div class="f-h1-head">
                        <div class="col-md-6">
-                            <img src="images/loan/loan1.png" >
+                            <img src="images/purchase-against.jpg" style="width: 100%;height: auto">
                        </div>    
                        <div class="col-md-6">
                            <h1>Purchase Against Commercial Property</h1>

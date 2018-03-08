@@ -47,6 +47,13 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
+      <style type="text/css">
+        @media screen and (min-width: 992px){
+          #loanAgainst{
+            padding-top: 35px;
+          }
+        }
+      </style>
    </head>
    <body>
 
@@ -105,7 +112,7 @@
                    <div class="col-md-12">
                        <div class="f-h1-head">
                        <div class="col-md-6">
-                            <img src="images/loan/loan1.png" >
+                            <img id="loanAgainst" src="images/Loan-Against-Property.jpg" style="width:100%;height: auto">
                        </div>    
                        <div class="col-md-6">
                            <h1>Loan against property</h1>
