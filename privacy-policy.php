@@ -104,7 +104,7 @@
                    <div class="col-md-12">
                        <div class="f-h1-head">
                            <h1  style="text-align: center;">Terms of Use and Privacy Policy</h1>
-                           <p>We respect your privacy. You are advised to please read the Privacy Policy carefully. By accessing the services provided by <strong>AVOSYS</strong>, you agree to the collection and use of your data by <strong>AVOSYS</strong> and you are authorizing us & our associate partners to give you a call to offer you their services for the product you have opted for, imparting product knowledge, offering promotional offers running on website & offers offered by the associated third parties. You also authorize us to give you a call from mymoneymantra & its associate partners for the above mentioned purposes irrespective of your being registered for DND.</p>
+                           <p>We respect your privacy. You are advised to please read the Privacy Policy carefully. By accessing the services provided by <strong>AVOSYS</strong>, you agree to the collection and use of your data by <strong>AVOSYS</strong> and you are authorizing us & our associate partners to give you a call to offer you their services. You also authorize us to give you a call from AVOSYS & its associate partners for the above mentioned purposes irrespective of your number being registered for DND.</p>
                        </div>
                    </div>
                    <div class="col-md-12">
@@ -128,16 +128,16 @@
                              <li class="f-h3-head"><p style="margin-bottom: 5px;">Email address</p></li>
                              <li class="f-h3-head"><p style="margin-bottom: 5px;">Mobile phone number and contact details</p></li>
                              <li class="f-h3-head"><p style="margin-bottom: 5px;">ZIP/Postal code</p></li>
-                             <li class="f-h3-head"><p style="margin-bottom: 5px;">Demographic profile (like your age, gender, occupation, address)</p></li>
-                             <li class="f-h3-head"><p style="margin-bottom: 5px;">Preferences (such as housing loan, education loan, personal loan, credit card, car loan)</p></li>
-                             <li class="f-h3-head"><p style="margin-bottom: 5px;">Financial information (like salary)</p></li>
+                             <li class="f-h3-head"><p style="margin-bottom: 5px;">Personal profile (like your age, gender, occupation, address, etc.)</p></li>
+                             <li class="f-h3-head"><p style="margin-bottom: 5px;">Preferences (such as housing loan, LAP, Purchase Of Commercial Property, LRD, BL, etc.)</p></li>
+                             <li class="f-h3-head"><p style="margin-bottom: 5px;">Financial information (like salary/business income)</p></li>
                            </ul></p>
                        </div>
                    </div>   
                    <div class="col-md-12">
                        <div class="f-h1-head f-h5-head">
                            <h5>Why we collect the information?</h5>
-                           <p>We use contact information internally to send sms/email alerts to you for your login details and alerts on bidders requests or some advertising messages/emails from us. If at any time you wish to stop these sms/email alerts all you have to do is write an email to us <br> <br>We will not use or rent your financial information for any purpose other than to complete a transaction with you. By giving us the information you are giving us permission:<ul>
+                           <p>We collect this information so as to contact you, understand your requirement and get your loan request processed. In addition to this we may call you/ send you SMS from time to time about new products/offers available.<br> <br>We will not use or rent your financial information for any purpose other than to complete a transaction with you. By giving us the information you are giving us permission:<ul>
                              <li class="f-h3-head"><p style="margin-bottom: 5px;">To provide products or services you’ve requested</p></li>
                              <li class="f-h3-head"><p style="margin-bottom: 5px;">To disclose the information under special circumstances such as compliance with applicable local law, court summons, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.</p></li>
                            </ul></p>
@@ -149,8 +149,8 @@
                             <p> <ul>
                              <li class="f-h3-head"><p style="margin-bottom: 5px;">We need to share your information to provide the product or service you have requested to enable them to contact you.</p></li>
                              <li class="f-h3-head"><p style="margin-bottom: 5px;">We have your consent from you to share the information.</p></li>
-                             <li class="f-h3-head"><p style="margin-bottom: 5px;">We will never share/sell your information to anyone except to banks and marketing partners (like Google, Facebook, etc.)</p></li>
-                             <li class="f-h3-head"><p style="margin-bottom: 5px;">We will share the information to banks will be solely for the purpose of completion your application</p></li>
+                             <li class="f-h3-head"><p style="margin-bottom: 5px;">We will never share/sell your information to anyone except to banks and NBFC's.</p></li>
+                             <li class="f-h3-head"><p style="margin-bottom: 5px;">We will share the information to banks/NBFC will be solely for the purpose of completion of your application</p></li>
                              <li class="f-h3-head"><p style="margin-bottom: 5px;">We need to share your information with certain service partners in order to respond to your queries / comments or to resolve service issues and to serve you better.</p></li>
                            </ul></p>
                        </div>

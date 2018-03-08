@@ -262,24 +262,23 @@
                   <div class="col-sm-4">
                      <div class="welcome-content">
                         <h3>We are helpers</h3>
-                        <h2>Advice and guides</h2>
-                        <p>You can easily compare interest rates of various banks on our website. Further, you can speak to our Loan Specialists who will guide you through the entire process and help you choose a loan best suited to your requirements.</p>
+                        <h2>Advice and Guides</h2>
+                        <p>We as loan specialist, will guide you through the entire process and help you chose a loan best suited to your requirement.</p>
                         <span>01.</span>
                      </div>
                   </div>
                   <div class="col-sm-4">
                      <div class="welcome-content">
                         <h3>Quick & smart</h3>
-                        <h2>Tools and calculators</h2>
+                        <h2>File Processing</h2>
                         <p>To give you a hassle free and satisfactory loan deal, we take care of your documentation process. Our specialists after guiding you on all the related loan terms will send a person to collect your document kit, and submit them to the respective bank or NBFC.</p>
-                        <a href="emi.php"><i class="fa fa-long-arrow-right"></i><span>Learn More</span></a>
                         <span>02.</span>
                      </div>
                   </div>
                   <div class="col-sm-4">
                      <div class="welcome-content">
                         <h3>Friendly support</h3>
-                        <h2>Support in person</h2>
+                        <h2>Support in Person</h2>
                         <p>We offer you the best! After submitting loan application along with the documents we take approval on loan sanctioning and help you in loan disbursement. Our relationship managers take responsibility of your loan and help you even after disbursement.</p>
                         <span>03.</span>
                      </div>
@@ -320,7 +319,7 @@
                      <img src="images/logo.png" width="150" alt="">
                   </div>
                   <h2>Avosys is a leading financial services marketplace.</h2>
-                  <p>With so many Mortgage Brokers out there today, we know that you have more choice than ever! The choice is in your hands: Where do you go to get an advice and where you purchase products?!!</p>
+                  <p>With so many Mortgage Brokers out there today, we know that you have more choice than ever! The choice is in your hands: Where do you go to get an advice and where you purchase products!</p>
                   <!-- <div class="common-btn">
                      <div class="left-cmn-btn btn-expert-left">
                         <a href="#">Our Features</a>                           
@@ -335,18 +334,18 @@
                            <div class="expert-right-single-content e-r-s-padding-btm e-r-s-right-padding">
                               <i class="fa fa-graduation-cap"></i>
                               <h2>Financial Experts</h2>
-                              <p>We have the most experienced experts available in the industry.</p>
+                              <p>We have a team of some of the most experienced people in the industry.</p>
                            </div>
                            <div class="expert-right-single-content e-r-s-padding-btm e-r-s-border e-r-s-left-padding">
                               <i class="fa fa-flag"></i>
                               <h2>Always Available</h2>
-                              <p>Our experts are always available over the phone and online.</p>
+                              <p>Our team members are always available over the phone and online.</p>
                            </div>
                         </div>                        
                         <div class="expert-right-single-content e-r-s-padding e-r-s-right-padding">
                            <i class="fa fa-briefcase"></i>
                            <h2>Customer Focused</h2>
-                           <p>We will go ahead that extra mile to ensure our clients welfare, our working hours are convenient to our Client's needs from our first contact.</p>
+                           <p>We will go ahead that extra mile to ensure what's best for our clients.</p>
                         </div>
                         <div class="expert-right-single-content e-r-s-padding e-r-s-left-padding e-r-s-border">
                            <i class="fa fa-thumb-tack"></i>
@@ -407,6 +406,8 @@
                                     <option>Lease Rental Discounting</option>
                                     <option>Buisness Loan</option>
                                     <option>Balance Transfer</option>
+                                    <option>Working Capital</option>
+                                    <option>Term Loan</option>
                                  </select>
                               </div>
                               <div class="col-sm-12">
@@ -438,7 +439,6 @@
                <div class="row">
                   <div class="col-sm-12">
                      <div class="main-title-content text-center">
-                        <h3>Awesome Customers</h3>
                         <h2>Our Partners</h2>
                      </div>
                   </div>

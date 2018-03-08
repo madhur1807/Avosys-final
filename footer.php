@@ -23,16 +23,19 @@
             
             <div class="col-sm-6 col-md-4">
                 <div class="footer-top-single ">
-                    <p class="text-center">Corp. Office</p>
-                    <p>509-10511, Pearls Best Heights-II, Netaji Subash Place, Pitampura,</p>
-                    <p>(Near Max Hospital) New Delhi-110034, </p>
+                    <p class="text-center">Corporate Office</p>
+                    <p>509-10-11, Pearls Best Heights-II,</p>
+                    <p>Netaji Subash Place,</p> 
+                    <p>Pitampura,(Near Max Hospital)</p>
+                    <p> New Delhi-110034, </p>
                     <p>Phone : +91-11-42060709, 42060710</p>
                 </div>
             </div>
             <div class="col-sm-6 col-md-4">
                 <div class="footer-top-single ">
-                    <p class="text-center">Head Office Office</p>
-                    <p>D-12, Basement, Barodia Towers, Central Market, Prashant Vihar,</p>
+                    <p class="text-center">Head Office</p>
+                    <p>D-12, Basement, Barodia Towers, </p>
+                    <p>Central Market, Prashant Vihar,</p>
                     <p>Rohini, Delhi-110085, </p>
                     <p>Phone : +91-11-27554707, 27550952</p>
                 </div>
