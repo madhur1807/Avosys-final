@@ -107,45 +107,89 @@
                             <img src="images/loan/loan1.png" >
                        </div>    
                        <div class="col-md-6">
-                           <h1>Purchase Of Commercial Property</h1>
-                           <p>Presenting Commercial Property Purchase Loans for purchase of ready/ under construction commercial property.<br/>
-                            We offer two variants under Purchase of Commercial Property.
+                           <h1>Purchase Against Commercial Property</h1>
+                           <p>Loan can be availed for purchase against commercial property. Loan can be availed for both ready commercial property as well as under construction property.
                             </p>
-                            <ol style="padding: 0px 10px;">
-                                <li>   Loan to purchase Ready Commercial Property.</li>
-                                <li>  Loan to purchase Under-construction Commercial Property.</li>
-                            </ol>
                        </div>
                        </div>
                    </div>
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h2-head" style="text-align:center">
-                           <h2>Benefits</h2>
-                           <div class="container-fluid loan-category-div" style="padding:60px">
-                                <div class="col-md-3">
-                                        <img src="images/loan/loanagainstproperty1.svg">
-                                        <div class="loan-category">Avail Maximum Loan Amount</div>
-                                </div>
-                                <div class="col-md-3">
-                                        <img src="images/loan/loanagainstproperty2.svg">
-                                        <div class="loan-category">Purchase of commercial property</div>
-                                </div>
-                                <div class="col-md-3">
-                                        <img src="images/loan/loanagainstproperty3.svg">
-                                        <div class="loan-category">Quick Processing</div>
-                                </div>
-                                <div class="col-md-3">
-                                        <img src="images/loan/loanagainstproperty4.svg">
-                                        <div class="loan-category">Easy Documentation</div>
-                                </div>
-                           </div>
-                           
-
-                       </div>
-                   </div> 
+                  
                 
                </div>
           </div>
+      </section>
+
+      <section class="container-fluid">
+        <div class="col-md-3">
+          <ul class="list-group">
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="home-loan.php">Home Loan</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="loan-against-property.php">Loan against property</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="purchase-against-commercial-property.php">Purchase Against commercial property</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="lease-rental-discounting.php">Lease rental discounting</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="bussiness-loan.php">Bussiness Loan</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="balance-tranfer.php">Balance Transfer</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="emi.php">EMI Calculator</a></li>
+          </ul>
+        </div>        
+        <div class="col-md-9" >
+            
+            <div class="col-md-12 bg-light" style="padding:10px 20px;">
+              <div class="">
+                <div class="">
+                  <h4>BENEFITS</h4>
+                </div>
+                <div class="container-fluid loan-category-div">
+                  <ul class="container">
+                    <li>Avail maximum loan amount</li>
+                    <li>Purchase of commercial property</li>
+                    <li>Quick Processing</li>
+                    <li>Easy Documentation</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <!-- <div class="col-md-12">
+              <div class="" style="padding:10px;">
+                <div class="" style="margin-bottom:20px">
+                  <div class="">
+                    <h4>Eligibility Factor</h4>
+                  </div>
+                  <div class="eligibility-c">
+                    <ul>
+                      <li>
+                        <h5>Age</h5>
+                        <ul>
+                          <li>21 years and above at the time of loan application</li>
+                          <li>65 years at loan maturity</li>
+                        </ul>
+                      </li>
+                      <li>
+                        <h5>Credit Score / Credit History</h5>
+                        <ul>
+                          <li>Credit Score above 650</li>
+                          <li>Credit History includes repayment of existing and past loans and credit cards payments</li>
+                        </ul>
+                      </li>
+                      <li>
+                        <h5>Type of Employment /  Stability</h5>
+                        <ul>
+                          <li>Salaried or self-employed</li>
+                          <li>Job or business stability- at least 2 years</li>
+                        </ul>
+                      </li>
+                      <li>
+                        <h5>Income (Higher the income, higher the Loan Amount)</h5>
+                        <ul>
+                          <li>Salary in case of salaried employees</li>
+                          <li>Business turnover, annual income, net-profit etc. in case of self-employed</li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div> -->
+        </div>
       </section>
       <!-- =========================
         END FEATURE TYPOGRAPHY SECTION
