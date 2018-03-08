@@ -89,7 +89,8 @@
                <div class="col-sm-6 col-md-6">
                   <div class="page-bredcrumbs-area text-right">
                      <ul  class="page-bredcrumbs">
-                        <li><a href="#">Project Financing</a></li>
+                        <li><a href="#">Retail Mortgage</a></li>
+                        <li><a href="#">Services</a></li>
                         <li><a href="#">Balance Transfer</a></li>
                      </ul>
                   </div>
@@ -110,46 +111,57 @@
                    <div class="col-md-12">
                        <div class="f-h1-head">
                            <h1>What exactly is a balance transfer?  </h1>
-                           <p>A balance transfer is the transfer of (part of) the balance (either money or credit) in an account to another account, often held at another institution. It is most commonly used when describing a credit card balance transfer.<br>Balance transfer allows people to move their debts such as credit card balances, student loans, home loan medical bills, car loans to a zero or lower interest rate credit card for a promotional or limited period. The overall amount and the types of balances you can transfer depends on your credit card as well as your credit score. Moreover, balance transfer should be done as per the timings allocated by the credit card company.<br>While many credit card issuers offer 0% interest balance transfers, it is important to note that some issuers also charge a transfer fee, which could range from 0–5%. As a result, consumers should evaluate the balance transfer interest rate during the promotional period, the length of the promotional period, and the balance transfer fee when deciding on which balance transfer promotion is best.</p>
+                           <p>A balance transfer is the transfer of (part of) the loan amount to an institution from other institution. Balance transfer allows people to move their debts balance from one institution to another institution lowering their EMI by availing lower rate of interest or prolonged period. It can also be transfered with the intent of availing a greater amount then currently availed i.e. balance transfer with top up.</p>
                        </div>
-                   </div>
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h2-head">
-                          <h3>How do I complete a balance transfer ?</h3>
-                          <ul class="features-ul">
-                            <li><p>When you respond to a balance transfer offer, you’ll indicate who you want to pay, the account numbers, and how much you want to transfer.</p></li>
-                            <li><p> Once you’re approved for the balance transfer, the credit card company contacts your creditors or billers on your behalf and pays them the amount you indicated. It can take up to two weeks for this process.</p></li>  
-                            <li><p>If you have any payments due before that time, you’ll want to go ahead and make those payments by their due dates to avoid late fees. </p></li>
-                            <li><p>Credit card balance transfers may charge a balance transfer fee—usually 3% to 5% of transferred debt. </p></li>
-                          </ul>
-                       </div>
-                   </div> 
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h2-head">
-                           <h3>What are the benefits of a balance transfer?</h3>
-                           <ul class="features-ul">
-                            <li><p> A low balance transfer APR can help you catch up on your existing debt. That’s because you can get a low promo or introductory APR to pay down that balance for a defined time frame, like 12 months.</p></li>
-                            <li><p>A low promo or introductory APR may also help cut the time it takes to reduce your debt. When you pay high APRs, a lot of your payment goes to the interest rather than paying down the principal balance itself.</p></li>  
-                            <li><p>Finally, instead of paying multiple creditors on multiple due dates, consolidating all of your balances onto one card with a low or 0% promo or introductory balance transfer APR means you only have to keep track of one payment a month—and not multiple cards with multiple due dates.</p></li>
-                          </ul>
                    </div>                                                                            
                </div>
-               <div class="row">
-                   <div class="col-sm-6 col-md-6">
-                       <div class="typo-column" style="padding: 5px">
-                           <h3 style="font-weight: bold;text-decoration: underline;">What types of existing balances can I transfer?</h3>
-                           <p>You can transfer the existing balances off of your store credit cards, gas cards and other cards. Just remember, when you are approved for a credit card, you will be given a certain limit and you can only transfer up to that amount – be sure to account for any balance transfer fees. The typical balance transfer fee in 2017 was 3%.</p>
-                       </div>
-                   </div>
-                   <div class="col-sm-6 col-md-6">
-                       <div class="typo-column" style="padding: 5px">
-                           <h3 style="font-weight: bold;text-decoration: underline;">What are the different kinds of balance transfer rates available?</h3>
-                           <p>Credit card companies offer incentives—like a low interest rate on purchases and balance transfers—to encourage you to transfer your business to them, and hopefully establish a long-lasting relationship.The best balance transfer rates could be offered by credit card companies to new cardmembers.</p>
-                       </div>
-                   </div>                
-               </div> 
-            </div>
+            </div>            
+      </section>
+
+      <section class="container-fluid">
+        <div class="col-md-3">
+          <ul class="list-group">
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="home-loan.php">Home Loan</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="loan-against-property.php">Loan against property</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="purchase-against-commercial-property.php">Purchase Against commercial property</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="lease-rental-discounting.php">Lease rental discounting</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="bussiness-loan.php">Bussiness Loan</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="balance-tranfer.php">Balance Transfer</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="emi.php">EMI Calculator</a></li>
+          </ul>
+        </div>        
+        <div class="col-md-9" >
             
+            <div class="col-md-12 bg-light" style="padding:10px 20px;">
+              <div class="">
+                <div class="">
+                  <h4>BENEFITS</h4>
+                </div>
+                <div class="container-fluid loan-category-div">
+                  <ul class="container">
+                    <li>Lower EMI by availing lower ROI or prolonged repayment period.</li>
+                    <li>Top up on the security already currently mortgaged.</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-12">
+              <div class="" style="padding:10px;">
+                <div class="" style="margin-bottom:20px">
+                  <div class="">
+                    <h4>Eligibility Factor</h4>
+                  </div>
+                  <div class="eligibility-c">
+                    <ul class="container"> 
+                      <li>
+                        Good track record with the institution where the loan is currently running.
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
       </section>
       <!-- =========================
         END FEATURE TYPOGRAPHY SECTION

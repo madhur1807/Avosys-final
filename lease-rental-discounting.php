@@ -107,32 +107,91 @@
                             <img src="images/loan/loan2.jpg" >
                        </div>    
                        <div class="col-md-6">
-                           <h1>lease rental discounting</h1>
+                           <h1>Lease Rental Discounting</h1>
                            <p>We always strive for innovation to benefit our customers in as many ways possible.<br/> 
-                             That’s why we offer a rent securitization scheme wherein we provide loan against assured rental receivable from a property owned by you, which has been let out to a Bank, Multinational Company, AA* or AAA* Rated Corporate and Government/ Semi Government Undertakings.</p>
+                           That’s why we offer a rent securitization scheme where in lenders provide loan against assured rental receivable from a property owned by you, which has been let out to a Bank, Multinational Company, AA* or AAA* Rated Corporate and Government/ Semi Government Undertakings.</p>
                        </div>
                        </div>
-                   </div>
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h2-head" >
-                           <h2 style="text-align:center">Benefits</h2>
-                           <div class="container-fluid loan-category-div" style="padding:30px">
-                               <ol class="ol-loan">
-                                 <li>Provides an extensive range of non-home loan products like Loan for Purchase & Construction of Commercial Property, Loan Against Residential & Commercial Property and Lease Rental Discounting.</li>
-                                 <li>Pan India branch network.</li>
-                                 <li>Robust service delivery model – door step services ensuring easy and fast approval & disbursal of loans.</li>
-                                 <li>Excellent post disbursement services.</li>
-                                 <li>Facility of enhancement in loan amount in the event of escalations in cost.</li>
-                                 <li>Dedicated team of well-experienced employees who work on best-in-class information systems & network to deliver and provide customer satisfaction.</li>
-                               </ol>
-                           </div>
-                           
-
-                       </div>
-                   </div> 
-                
+                   </div>               
                </div>
           </div>
+      </section>
+
+
+      <section class="container-fluid">
+        <div class="col-md-3">
+          <ul class="list-group">
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="home-loan.php">Home Loan</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="loan-against-property.php">Loan against property</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="purchase-against-commercial-property.php">Purchase Against commercial property</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="lease-rental-discounting.php">Lease rental discounting</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="bussiness-loan.php">Bussiness Loan</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="balance-tranfer.php">Balance Transfer</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="emi.php">EMI Calculator</a></li>
+          </ul>
+        </div>        
+        <div class="col-md-9" >
+            
+            <div class="col-md-12 bg-light" style="padding:10px 20px;">
+              <div class="">
+                <div class="">
+                  <h4>BENEFITS</h4>
+                </div>
+                <div class="container-fluid loan-category-div">
+                  <ul class="container">
+                    <li>Easy Documentation</li>
+                    <li>Hassle free loan application process</li>
+                    <li>Hassle free loan transfer with top up facility</li>
+                    <li>Quick processing</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-12">
+              <div class="" style="padding:10px;">
+                <div class="" style="margin-bottom:20px">
+                  <div class="">
+                    <h4>Eligibility Factor</h4>
+                  </div>
+                  <div class="eligibility-c">
+                    <ul class="container">
+                      <li>
+                        Assets
+                        <!-- <ul>
+                          <li>21 years and above at the time of loan application</li>
+                          <li>65 years at loan maturity</li>
+                        </ul> -->
+                      </li>
+                      <li>
+                        Property Value
+                        <!-- <ul>
+                          <li>Credit Score above 650</li>
+                          <li>Credit History includes repayment of existing and past loans and credit cards payments</li>
+                        </ul> -->
+                      </li>
+                      <li>
+                        Liabilities
+                        <!-- <ul>
+                          <li>Salaried or self-employed</li>
+                          <li>Job or business stability- at least 2 years</li>
+                        </ul> -->
+                      </li>
+                      <li>
+                        Capacity of repaying the loan amount
+                        <!-- <ul>
+                          <li>Salary in case of salaried employees</li>
+                          <li>Business turnover, annual income, net-profit etc. in case of self-employed</li>
+                        </ul> -->
+                      </li>
+                      <li>
+                        Legal & Technical clearance of properrty document
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
       </section>
       <!-- =========================
         END FEATURE TYPOGRAPHY SECTION
