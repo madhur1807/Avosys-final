@@ -5139,6 +5139,7 @@ ul.home-10-pagination{
 ******************************************/
 .feature-typo{
     padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .f-h1-head *{
@@ -5159,17 +5160,35 @@ ul.home-10-pagination{
     font-size: 22px;
 }
 .f-h5-head h5{
-    font-size: 18px;
+    font-size: 14px;
+}
+.terms-heading{
+    text-align: center;
+    color:#ff5959;
+    margin-bottom:50px;
+    position:relative;
+    font-size: 20px;
+}
+.terms-heading:before{
+    content: '';
+    width: 60px;
+    height: 3px;
+    border-radius: 25px;
+    position: absolute;
+    bottom: -15px;
+    left: 50%;
+    margin-left: -30px;
+    background: #ff5959;
 }
 .f-h6-head h6{
     font-size: 14px;
 }
 .f-h1-head p{
     color: #696969;
-    line-height: 24px;
     font-weight: normal;
     text-transform: initial;
-    margin-bottom: 30px;
+    margin-bottom: 5px;
+    margin: 0;
 }
 .eligibility-c h5{
     font-weight: bold;

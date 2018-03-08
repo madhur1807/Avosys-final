@@ -98,12 +98,12 @@
       <!-- =========================
         START FEATURE TYPOGRAPHY SECTION
       ============================== -->         
-      <section class="feature-typo">
+      <section class="feature-typo policy-page">
            <div class="container">
                <div class="row">
                    <div class="col-md-12">
                        <div class="f-h1-head">
-                           <h1  style="text-align: center;">Terms of Use and Privacy Policy</h1>
+                           <h3  style="" class="terms-heading">Terms of Use and Privacy Policy</h3>
                            <p>We respect your privacy. You are advised to please read the Privacy Policy carefully. By accessing the services provided by <strong>AVOSYS</strong>, you agree to the collection and use of your data by <strong>AVOSYS</strong> and you are authorizing us & our associate partners to give you a call to offer you their services. You also authorize us to give you a call from AVOSYS & its associate partners for the above mentioned purposes irrespective of your number being registered for DND.</p>
                        </div>
                    </div>
@@ -137,7 +137,8 @@
                    <div class="col-md-12">
                        <div class="f-h1-head f-h5-head">
                            <h5>Why we collect the information?</h5>
-                           <p>We collect this information so as to contact you, understand your requirement and get your loan request processed. In addition to this we may call you/ send you SMS from time to time about new products/offers available.<br> <br>We will not use or rent your financial information for any purpose other than to complete a transaction with you. By giving us the information you are giving us permission:<ul>
+                           <p>We collect this information so as to contact you, understand your requirement and get your loan request processed. In addition to this we may call you/ send you SMS from time to time about new products/offers available.</p> 
+                           <p>We will not use or rent your financial information for any purpose other than to complete a transaction with you. By giving us the information you are giving us permission:<ul>
                              <li class="f-h3-head"><p style="margin-bottom: 5px;">To provide products or services you’ve requested</p></li>
                              <li class="f-h3-head"><p style="margin-bottom: 5px;">To disclose the information under special circumstances such as compliance with applicable local law, court summons, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.</p></li>
                            </ul></p>
