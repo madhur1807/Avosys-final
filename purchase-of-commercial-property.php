@@ -5,7 +5,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <!-- TITLE -->
-      <title>Purchase Of Commercial Property</title>
+      <title>Purchase Against Commercial Property</title>
       <!-- FAVICON -->
       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />      
       <!-- Bootstrap -->
@@ -76,7 +76,7 @@
             <div class="row">
                <div class="col-sm-6 col-md-6">
                   <div class="page-title-left">
-                     <h2>Purchase Of Commercial Property</h2>
+                     <h2>Purchase Against Commercial Property</h2>
                   </div>
                </div>
                <div class="col-sm-6 col-md-6">
@@ -84,7 +84,7 @@
                      <ul  class="page-bredcrumbs">
                         <li><a href="#">Retail Mortgage</a></li>
                         <li><a href="#">Services</a></li>
-                        <li><a href="#">Purchase Of Commercial Property</a></li>
+                        <li><a href="#">Purchase Against Commercial Property</a></li>
                      </ul>
                   </div>
                </div>

@@ -17,7 +17,7 @@
                                 <ul class="dropdown">
                                     <li><a href="home-loan.php">Home Loan</a></li>
                                     <li><a href="loan-against-property.php">Loan Against Property</a></li>
-                                    <li><a href="purchase-of-commercial-property.php">Purchase of Commercial Property</a></li>
+                                    <li><a href="purchase-of-commercial-property.php">Purchase Against Commercial Property</a></li>
                                     <li><a href="lease-rental-discounting.php">Lease Rental Discounting</a></li>
                                     <li><a href="bussiness-loan.php">Business Loan</a></li>
                                     <li><a href="balance-transfer-retail.php">Balance Transfer</a></li>
