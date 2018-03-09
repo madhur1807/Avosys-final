@@ -50,6 +50,19 @@
           .client-img a span{
             padding: 0px;
           }
+          #promoter{
+            float: none !important;
+            width: 100% !important
+          }
+          #promoter1{
+            float: none !important;
+            width: 100% !important
+          }
+        }
+        @media screen and (min-width: 992px){
+          #promoter{
+            padding-top: 3% !important;
+          }
         }
       </style>
    </head>
@@ -188,9 +201,16 @@
             <div class="container">
                <div class="row">
                   
-                  <div class="col-sm-6 col-md-6">
-                     <p>Mr. Rajesh Jindal, a Chartered Accountant by qualification, having more than 25 years of professional experience, in financial consulting & financial service distribution, promotes AVOSYS. A team of professionals ably assist Mr. Jindal and the organisation has grown multifold during the tenure, giving a trail of satisfied clients and excellent relationship with bank partners and team mates.</p>
+                  <div  class="col-sm-12 col-md-12" style="text-align: center">
+                     
+                     <p id="promoter1" style="width: 20%;float: left">
+                       <img alt="" src="images/rajesh-jindal.jpg" style="width: 60%;height: auto">
+                     </p>
+                     <p id="promoter" style="float: right; width: 80%">Mr. Rajesh Jindal, a Chartered Accountant by qualification, having more than 25 years of professional experience, in financial consulting & financial service distribution, promotes AVOSYS. A team of professionals ably assist Mr. Jindal and the organisation has grown multifold during the tenure, giving a trail of satisfied clients and excellent relationship with bank partners and team mates.</p>
                   </div>
+                  <!-- <div class="col-sm-6 col-md-6" style="text-align: center">
+                    <img alt="" class="" src="images/rajesh-jindal.jpg" style="width: 30%;height: auto">
+                  </div> -->
                </div>             
             </div>
          </div>          
