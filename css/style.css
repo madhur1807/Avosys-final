@@ -1234,7 +1234,7 @@ a:hover, a:focus {
 .main-title h2{
     font-size: 30px;
     color: #222222;
-    font-weight: 900;
+    font-weight: 600;
     margin-top: 10px;
     position: relative;
     text-transform: uppercase;
@@ -1252,7 +1252,7 @@ a:hover, a:focus {
 .main-title p {
     font-size: 15px;
     color: #a5a5a5;
-    font-family: 'Droid Serif', serif;
+    font-family: 'Raleway', sans-serif;
     margin-top: 40px;  
 }
 .main-title p{
@@ -4417,12 +4417,12 @@ ul.home-10-pagination{
 .page-title-area{}
 .page-title-left h2{
     color: #fff;
-    font-size: 40px;
+    font-size: 35px;
     line-height: 1;
     text-transform: uppercase;
     margin: 0;
     letter-spacing: 0.04em;
-    font-weight: 800;
+    font-weight: 600;
 }
 .page-bredcrumbs-area{}
 .page-bredcrumbs{}

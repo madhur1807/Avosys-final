@@ -125,7 +125,7 @@
       <!-- =========================
         START FEATURE SECTION
       ============================== -->
-      <section class="feature-area">
+      <section class="feature-area" style="background:#fff;">
           <div class="main-title" style="padding-top: 70px; padding-bottom: 45px">
             <div class="container" style="margin-bottom: 35px;">
                <div class="row">
@@ -154,19 +154,19 @@
                 We operate out of our two offices at Netaji Subhash Place, Pitampura, Delhi and Central
                 Market Prashant Vihar, Rohini, Delhi.
               </p>
-              <h4>AVOSYS operates in following two verticals of Financial Services:</h4>
-              <ul>               
-                <li style="font-size: 1.2em">Project Finance</li>
-                <li style="font-size: 1.2em">Retail Mortgage</li>
-              </ul><br>
+              <h5><i class="fa fa-hand-o-right" aria-hidden="true"></i> &nbsp;&nbsp;&nbsp;AVOSYS operates in following two verticals of Financial Services:</h5>
+              <ol>               
+                <li style="font-weight:500">Project Finance</li>
+                <li style="font-weight:500">Retail Mortgage</li>
+              </ol><br>
               
-                <u><h4>Project Finance</h4></u>
+              <h4><i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;Project Finance</h4>
               <p>  
                 AVOSYS started its journey about two decades ago, in financial consulting &amp;&nbsp;advisory services. And to date, we have assisted our various esteemed clients dealing in all spectrum of business in manufacturing, trading, imports, exports, infrastructures, builders, service industry, agri-business, education, entertainment, transportation, and software etc. Our domain knowledge has helped us to assist our clients dealing in diverse fields like Steel, Power, Glass Industry, infrastructure, educational institutes, builders for residential and commercial projects, power generation &amp; transmission,coal industry, transportation, Entertainment hub like mega-plexus, multiplex, Mall, hotel, hypermarket, Hospital etc., Signage industry, agrochemicals, FMCG, and various other manufacturing units. We have assisted large trading companies, importers, exporters, hoteliers, retail chain, mediaand various other service providers. We assist our esteemed clients from various private       and nationalized banks, apart fromNon Banking Finance Companies and Housing Finance
                 companies. A professional team of experienced personnel attends to clients need in time bound manner.
               </p>
               
-              <u><h4>Retail Mortgage</h4></u>
+              <h4><i class="fa fa-angle-double-right" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp; Retail Mortgage</h4>
               <p>
               AVOSYS is the leading distributor of mortgage products. We have wide range of         mortgage products like Home Loan, Loan Against Property, Purchase of Commercial Property, Lease Rental Discounting, and Business Loans etc. AVOSYS is professionally managed, having about two decades of domain knowledge and expertise. Understanding Customer needs intimately, we strive hard to provide the best in service, focusing on more than just interest rate,we assist our clients by offering best possible loans factoring in interest rate, terms and conditions, individual profile and situation, and amortization period etc. Customer satisfaction is the hallmark of our offerings. Over a period of time, the relationship with our esteemed customers has turned into long and meaningful relationship.
               </p>
@@ -184,7 +184,7 @@
       <!-- =========================
         END FEATURE BOTTOM SECTION
       ============================== --> 
-      <section class="team-area" style="padding-bottom: 30px">
+      <section class="team-area" style="padding-bottom: 30px;background-color: #f9f9f9;">
          <!-- MAIN TITLE -->
          <div class="main-title" style="padding-top: 40px;padding-bottom: 30px">
             <div class="container">
@@ -201,10 +201,10 @@
             <div class="container">
                <div class="row">
                   
-                  <div  class="col-sm-12 col-md-12" style="text-align: center">
+                  <div  class="col-sm-12 col-md-8 col-md-offset-2" style="text-align: left;    border: 4px solid #eee;">
                      
                      <p id="promoter1" style="width: 20%;float: left">
-                       <img alt="" src="images/rajesh-jindal.jpg" style="width: 60%;height: auto">
+                       <img alt="" src="images/rajesh-jindal.jpg" style="width: 115px;height: auto">
                      </p>
                      <p id="promoter" style="float: right; width: 80%">Mr. Rajesh Jindal, a Chartered Accountant by qualification, having more than 25 years of professional experience, in financial consulting & financial service distribution, promotes AVOSYS. A team of professionals ably assist Mr. Jindal and the organisation has grown multifold during the tenure, giving a trail of satisfied clients and excellent relationship with bank partners and team mates.</p>
                   </div>
@@ -218,7 +218,7 @@
       <!-- =========================
         START TEAM SECTION
       ============================== -->
-      <section class="team-area" style="background-color: #f9f9f9;padding-bottom: 30px">
+      <section class="team-area" style="padding-bottom: 30px">
          <!-- MAIN TITLE -->
          <div class="main-title" style="padding-top: 40px;padding-bottom: 30px">
             <div class="container">
@@ -267,7 +267,7 @@
       <!-- =========================
         START QUOTE SECTION
       ============================== -->
-      <section class="client-area">
+      <section class="client-area" style="background-color: #f9f9f9;">
          <!-- MAIN TITLE -->
          <div class="main-title" style="padding-top: 45px">
             <div class="container">
