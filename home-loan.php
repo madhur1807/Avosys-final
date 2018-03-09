@@ -133,7 +133,7 @@
             <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="loan-against-property.php">Loan against property</a></li>
             <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="purchase-against-commercial-property.php">Purchase Against commercial property</a></li>
             <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="lease-rental-discounting.php">Lease rental discounting</a></li>
-            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="bussiness-loan.php">Bussiness Loan</a></li>
+            <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="bussiness-loan.php">Business Loan</a></li>
             <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="balance-tranfer.php">Balance Transfer</a></li>
             <li class=" bg-light list-group-item services-nav-li"><a class="sidenav-list-item" href="emi.php">EMI Calculator</a></li>
           </ul>
