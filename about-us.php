@@ -125,7 +125,7 @@
       <!-- =========================
         START FEATURE SECTION
       ============================== -->
-      <section class="feature-area" style="background:#fff;">
+      <section class="feature-area" style="background-color: rgba(249, 249, 249, 0.82);">
           <div class="main-title" style="padding-top: 70px; padding-bottom: 45px">
             <div class="container" style="margin-bottom: 35px;">
                <div class="row">
@@ -184,7 +184,7 @@
       <!-- =========================
         END FEATURE BOTTOM SECTION
       ============================== --> 
-      <section class="team-area" style="padding-bottom: 30px;background-color: #f9f9f9;">
+      <section class="team-area" style="padding-bottom: 30px;background-color: #fff;">
          <!-- MAIN TITLE -->
          <div class="main-title" style="padding-top: 40px;padding-bottom: 30px">
             <div class="container">
@@ -201,7 +201,7 @@
             <div class="container">
                <div class="row">
                   
-                  <div  class="col-sm-12 col-md-8 col-md-offset-2" style="text-align: left;    border: 4px solid #eee;">
+                  <div  class="col-sm-12 col-md-8 col-md-offset-2" style="text-align: left;    border: 4px solid #f1f1f1;">
                      
                      <p id="promoter1" style="width: 20%;float: left">
                        <img alt="" src="images/rajesh-jindal.jpg" style="width: 115px;height: auto">
@@ -218,7 +218,7 @@
       <!-- =========================
         START TEAM SECTION
       ============================== -->
-      <section class="team-area" style="padding-bottom: 30px">
+      <section class="team-area" style="padding-bottom: 30px;background-color: rgba(249, 249, 249, 0.82);">
          <!-- MAIN TITLE -->
          <div class="main-title" style="padding-top: 40px;padding-bottom: 30px">
             <div class="container">
@@ -267,7 +267,7 @@
       <!-- =========================
         START QUOTE SECTION
       ============================== -->
-      <section class="client-area" style="background-color: #f9f9f9;">
+      <section class="client-area" style="background-color: #fff;">
          <!-- MAIN TITLE -->
          <div class="main-title" style="padding-top: 45px">
             <div class="container">
