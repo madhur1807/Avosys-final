@@ -120,7 +120,7 @@
 
       <section class="container-fluid">
               
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-md-8 balance-tranfer-div">
             
             <div class="col-md-12 bg-light" style="padding:10px 20px;">
               <div class="">

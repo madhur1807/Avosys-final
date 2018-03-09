@@ -70,7 +70,7 @@
           width: 24%;
           height: 2px;
           background: #e96656;
-          bottom: 199px;
+          bottom: -10px;
           left: 38.5%;
         }
         .heading-bottom2:before {
@@ -81,7 +81,7 @@
           width: 32%;
           height: 2px;
           background: #34d293;
-          bottom: 270px;
+          bottom: -10px;
           left: 33.5%;
         }
         .number{
@@ -104,7 +104,7 @@
           width: 39%;
           height: 2px;
           background: #3ab0e2;
-          bottom: 221px;
+          bottom: -10px;
           left: 31.5%;
         }
         .heading-bottom4:before {
@@ -115,7 +115,7 @@
           width: 20%;
           height: 2px;
           background: #f7d861;
-          bottom: 199px;
+          bottom: -10px;
           left: 40.5%;
         }
         @media only screen and (max-width: 380px){
@@ -195,7 +195,7 @@
       <section class="feature-typo">
            <div class="container">
                <div class="row">
-                   <div class="col-md-12">
+                   <div class="col-md-12" style="margin-bottom:40px">
                        <div class="f-h1-head">
                            <h1 style="text-align: center;text-transform: uppercase;">JUST REFER AND EARN</h1>
                            <p style="text-align: center;">Just Refer Your Friends,Family Members,Clients And Colleagues For Home Loan,Loan Against Property And Over Draft Limits.And Get Commission On Successful Disbursment In Your Bank Account.</p>

@@ -4413,7 +4413,9 @@ ul.home-10-pagination{
     top: 0;
     width: 100%;
 }
-
+.balance-tranfer-div{
+    margin-left: 7%;
+}
 .page-title-area{}
 .page-title-left h2{
     color: #fff;
@@ -4454,6 +4456,9 @@ ul.home-10-pagination{
     .page-title-left{
         text-align: center;
         margin-bottom: 25px;
+    }
+    .balance-tranfer-div{
+        margin-left: 0;
     }
     .page-bredcrumbs-area{
         text-align: center;
@@ -5233,10 +5238,11 @@ ul.home-10-pagination{
     font-weight: bold;
     text-transform: uppercase;
     font-size: 20px;
+    position: relative;
 }
 .typo-column p{
     margin-bottom: 25px;
-    font-family: 'Lora', serif;
+    /* font-family: 'Lora', serif; */
     font-size: 13px;
     line-height: 24px;
     color: #666;
