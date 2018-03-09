@@ -5,7 +5,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <!-- TITLE -->
-      <title>Bussiness Loan</title>
+      <title>Business Loan</title>
       <!-- FAVICON -->
       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />      
       <!-- Bootstrap -->
@@ -77,7 +77,7 @@
             <div class="row">
                <div class="col-sm-9 col-md-6">
                   <div class="page-title-left">
-                     <h2>Bussiness Loan</h2>
+                     <h2>Business Loan</h2>
                   </div>
                </div>
                <div class="col-sm-3 col-md-6">
@@ -85,7 +85,7 @@
                      <ul  class="page-bredcrumbs">
                         <li><a href="#">Retail Mortgage</a></li>
                         <li><a href="#">Services</a></li>
-                        <li><a href="#">Bussiness Loan</a></li>
+                        <li><a href="#">Business Loan</a></li>
                      </ul>
                   </div>
                </div>
@@ -108,7 +108,7 @@
                             <img src="images/loan/loan3.jpg" >
                        </div>    
                        <div class="col-md-6">
-                           <h1>Bussiness Loan</h1>
+                           <h1>Business Loan</h1>
                            <p>
                             There comes a time in every business when there is a need for extra credit and funds for its smooth functioning. These funds help you, the business owner, to expand, invest and help in your working capital needs. At times like these, a quick business loan is the best financial aid that can help you grow.<br/>
                             This borrowed capital can be applied towards daily capital expenses, for specific project funding, expansion of the business including purchasing of new machinery for the business. You can also apply to take a loan for business if you need investment for starting a new business or ancillary units for your existing business.</p>

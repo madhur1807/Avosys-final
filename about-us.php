@@ -156,8 +156,8 @@
               </p>
               <h4>AVOSYS operates in following two verticals of Financial Services:</h4>
               <ul>               
-                <strong><li style="font-size: 1.3em">Project Finance</li></strong>
-                <strong><li style="font-size: 1.3em">Retail Mortgage</li></strong>
+                <li style="font-size: 1.2em">Project Finance</li>
+                <li style="font-size: 1.2em">Retail Mortgage</li>
               </ul><br>
               
                 <u><h4>Project Finance</h4></u>
