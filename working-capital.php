@@ -306,21 +306,21 @@
                           </ul> 
                         </div>
                       </div> 
-                      <div class="col-md-12">
+                      <div class="col-md-12" >
                         <div class="f-h3-head f-h3-head">
                           <h5 class="text-upper">working capital term loan.</h5>
                           <p>
                             This is fund based product for entities having a medium to long term working capital requirement of business as well as for expansion of business. Tenure upto 5 years.
                           </p>
                           
-                          <h5>Key Features</h5>
+                          <h5 id="non-fund">Key Features</h5>
                           <ul>
                             <li>EMI based  term loans</li>
                           </ul> 
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-12" id="non-fund">
+                    <div class="col-md-12">
                       <div class="jumbotron jumbotron-danger">
                         <div class="jumbotron-heading">
                           <h4>What is Non Fund Based Working Capital?</h4>

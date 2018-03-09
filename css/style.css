@@ -5143,9 +5143,11 @@ ul.home-10-pagination{
 }
 .list-group-item{
     background:#f9f9f9;
+    border-color:#f1f1f1;
 }
 .list-group-item a{
     color:#777;
+    font-size: 14px;
 }
 .jumbotron{
     background: #f9f9f9;
