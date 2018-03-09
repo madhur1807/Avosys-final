@@ -109,6 +109,13 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
+      <style>
+        .affix {
+            top: 100px;
+            z-index: 9999 !important;
+            width:22%;
+        }
+      </style>
    </head>
    <body>
 
@@ -165,45 +172,235 @@
 
       <!-- =========================
         START FEATURE TYPOGRAPHY SECTION
-      ============================== -->         
-      <section class="feature-typo">
-           <div class="container">
-               <div class="row">
-                   <div class="col-md-12">
-                       <div class="f-h1-head">
-                           <h1>Working capital</h1>
-                           <p>
-                              Working capital is the life blood to any bussiness. A bussiness require optimal cash flows to survive on a regular basis. Working Capital is also required to further sustain a firm's growth, improve bussiness operation and stay ahead of competition.
-                              We assist business financially by helping them aquire different type of working capital finance in the form of various fund and non-fund based products. 
-                           </p>
-                       </div>
-                   </div>
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h2-head">
-                           <p>
-                           <h2>What is fund based working capital?</h2>
-                            Fund based working capital is well thoughts are made available to the process to address the immediate liquidity needs.
+      ============================== --> 
+      <section class="feature-typo container-fluid">
+        <nav class="col-md-3" id="myScrollspy">
+          <ul class="list-group" data-spy="affix" data-offset-top="170">
+            <li class="list-group-item"><a href="#fund">Fund Based Working Capital</a></li>
+            <li class="list-group-item"><a href="#non-fund">Non Fund Based Working Capital</a></li>
+          </ul>
+        </nav>    
+          
+        <div class="col-md-9">
+              <div class="">
+                  <div class="row">
+                      <div class="col-md-12" id="fund">
+                          <div class="f-h3-head">
+                              <h3 style="margin-top:0">Working Capital Finance</h3>
+                              <p>
+                                Working Capital is the life-blood to any bussiness. A business requires optimal cash flows to survive on a regular basis. Working Capital is also required to further sustain a firm's growth, improve bussiness operations and stay ahead of competition.
+                                We assist business financially by helping them acquire different types of working capital finance in the form of various fund and non-fund based products. 
+                              </p>
+                          </div>
+                      </div>
+                      <div class="col-md-12" >
+                        <div class="jumbotron jumbotron-warning">
+                          <div class="jumbotron-heading">
+                            <h4>What is Fund Based Working Capital?</h4>
+                          </div>
+                          <div class="jumbotron-body">
+                            <p>
+                              Fund based working capital is where funds are made available to the business to address their immediate liquidity needs.
+                            </p>
+                          </div>
+                        </div>
 
-                           </p>
-                       </div>
-                   </div> 
-                   <div class="col-md-12">
-                       <div class="f-h1-head f-h2-head">
-                           <h2>Export Packing Credit</h2>
-                           <p>The scheme is intended to make short-term working capital finance available to exporters at internationally comparable interest rates.<br><br>Types of Export Credit: (1) Pre-shipment Export Credit/ Packing Credit (RPC/PCFC), (2) Post-shipment Export Credit – both in Foreign Currency (FCY) and Rupees.<br><br>Pre-shipment / Packing Credit also known as 'Packing credit' is a loan/ advance granted to an exporter for financing the purchase, processing, manufacturing or packing of goods prior to shipment. Packing credit can also be extended as working capital assistance to meet expenses such as wages, utility payments, travel expenses etc; to companies engaged in export or services. Packing credit is sanctioned/granted on the basis of letter of credit or a confirmed and irrevocable order for the export of goods / services from India or any other evidence of an order for export from India.<br><br>'Post-shipment Credit' means any loan or advance granted or any other credit provided by a bank to an exporter of goods / services from India from the date of extending credit after shipment of goods / rendering of services to the date of realisation of export proceeds as per the period of realization prescribed by Reserve Bank of India (RBI) and includes any loan or advance granted to an exporter, in consideration of, or on the security of any duty drawback allowed by the Government from time to time. As per extant guidelines of RBI, the period prescribed for realisation of export proceeds is 12 months from the date of shipment.</p>
-                       </div>
-                       <div class="f-h1-head f-h2-head">
-                           <h2>Bank Guarantee</h2>
-                           <p>A bank guarantee is a promise from a bank or other lending institution that if a particular borrower defaults on a loan, the bank will cover the loss. Note that a bank guarantee is not the same as a letter of credit.</p><strong><h5>HOW IT WORKS (EXAMPLE):</h5></strong><p>Let's assume Company XYZ is a small, relatively unknown restaurant company that would like to purchase $3 million of kitchen equipment. The equipment vendor may require Company XYZ to provide a bank guarantee in order to feel more confident that it will receive payment for the equipment it ships to Company XYZ.<br>To obtain this bank guarantee, Company XYZ requests one from its preferred lender (usually the bank with which it keeps its cash accounts). The lender provides the guarantee in writing, which is then passed on to Company XYZ and its vendor. Company XYZ's lender essentially becomes a co-signer on the purchase contract with the vendor.</p><h5>WHY IT MATTERS:</h5><p>A bank guarantee enables companies to make purchases that they would otherwise not be able to make; these guarantees thus serve to heighten business activity and expand entrepreneurial activity.</p>
-                       </div>
-                       <div class="f-h1-head f-h2-head">
-                           <h2>Buyer's Credit</h2>
-                           <p>Buyer credit is a short term credit available to an importer (buyer) from overseas lenders such as banks and other financial institution for goods they are importing. The overseas banks usually lend the importer (buyer) based on the letter of comfort (a bank guarantee) issued by the importer's bank. For this service the importer's bank or buyer's credit consultant charges a fee called an arrangement fee.<br><br>Buyer's credit helps local importers gain access to cheaper foreign funds that may be closer to LIBOR rates as against local sources of funding which are more costly.<br><br>The duration of buyer's credit may vary from country to country, as per the local regulations. For example, in India, buyer's credit can be availed for one year in case the import is for tradeable goods and for three years if the import is for capital goods.</p><h5>BREAKING DOWN 'Buyer's Credit'</h5><p>Buyer’s credit benefits both the seller (exporter) and buyer (importer) in a trade transaction. The exporter is paid in accordance with the terms of the sale contract with the importer, without undue delays. The availability of buyer’s credit also makes it feasible for the exporter to pursue large export orders. The importer obtains the flexibility to pay for the purchases over a period of time, as stipulated in the terms of the buyer’s credit facility, rather than up front at the time of purchase. The importer can also request funding in a major currency that is more stable than the domestic currency, especially if the latter has a significant risk of devaluation.</p><h5>How Does Buyer's Credit Work?</h5><p>The buyer’s credit process typically has the following steps: The exporter enters into a commercial contract with the foreign buyer that specifies the goods or services being supplied, prices, payment terms, etc. The buyer obtains credit from a bank or financial institution to finance the purchase. An export credit agency based in the exporter’s country provides a guarantee to the lending bank covering the risk of default by the buyer. Once the exporter ships the goods, the lending bank pays the exporter as per the terms of the contract with the buyer. The buyer makes principal and interest payments to the lending bank according to the terms of the loan agreement until the loan has been repaid in full.</p>                   
-                       </div>
-                   </div>                                                                              
-               </div>                                             
-           </div>
+                        <div class="jumbotron jumbotron-warning">
+                          <div class="jumbotron-heading">
+                            <h4>What are the products offered under Fund Based Working Capital?</h4>
+                          </div>
+                          <div class="jumbotron-body">
+                            <ul class="jumbotron-body">
+                              <li>Cash Credit/Overdraft</li>
+                              <li>Export Packing Credit</li>
+                              <li>Bill Discounting</li>
+                              <li>Letter of Credit discounting</li>
+                              <li>Working Capital Term Loan</li>
+                            </ul>
+                          </div>
+              
+                        </div>
+                      </div> 
+                    <div class="col-md-12 padding-left">
+                      <div class="col-md-12">
+                          <div class="f-h3-head f-h3-head">
+                            <h4>CASH CREDIT</h4>
+                            <p>
+                              Cash credit is a running account facility which enables the customer to withdraw amounts from the Current Account,  upto the extent of the sanctioned limit. Cash credit is provided to bridge the working capital gap business. It  is extended against hypothecation  of stock, receivables, short term deposits and other current assets which generally hold up the liquidity of a business.<br>
+                              Cash credit can be offered on an annual renewal basis. Cash credit program is highly flexible to meet the needs of various business segments.
+                            </p>
+
+                            <h5>Key  Features</h5>
+                            <ul>
+                              <li>Seamless Account  features like Net Banking, International Debit card,RTGS/NEFT, DD  Pay-Order etc.</li>
+                              <li>Competitive interest rate.</li>
+                              <li>One stop shop for all trade services.</li>
+                              <li>Free at par cheque payable  across the country.</li>
+                              <li>Overdraft with constant drawing power equal to sanctioned limit</li>
+                            </ul>
+
+                            <h5>Customer Profile</h5>
+                            <ul>
+                              <li>Manufacturers</li>
+                              <li>Retail/wholesale traders  importers/ exporters</li>
+                              <li>Service providers </li>
+                            </ul>
+
+                            <h5> Eligibility</h5>
+                            <ul>
+                              <li>Assessed Working Capital requirement </li>
+                              <li>Cash profits in current and previous year</li>
+                              <li>Availability of Real Estate collateral business operating since last 3 years.</li>
+                            </ul>
+
+                            <h5>Acceptable Collaterals</h5>
+                            <ul>
+                              <li>Current assets pertaining to business</li>
+                              <li>Fixed deposit</li>
+                              <li>Residential/Commercial property</li>
+                              <li>Industrial property</li>
+                              <li>GOI Bonds/Debt Funds/LIC Surrender Value.</li>
+                            </ul>
+                          </div>
+
+                          <div class="f-h3-head f-h3-head">
+                              <h4 class="text-upper">Export packing credit (EPC)</h4>
+                              <p>Export Packing Credit is the finance given to execute export orders.</p>
+                              
+                              <h5>Key Features</h5>
+                              <ul>
+                                <li>Available in rupee and foreign currency</li>
+                                <li>Facility to obtain credit reports for overseas buyers through international rating agencies</li>
+                              </ul>
+
+                              <h5>Customer Profile</h5>
+                              <ul>
+                                <li>Export manufacturing entities.</li>
+                              </ul> 
+                              
+                              <h5>Eligibility</h5>
+                              <ul>
+                                <li>Based on export orders in hand &amp; in addition to existing working capital limits.</li>
+                              </ul>
+                          </div>
+                      </div>   
+                      <div class="col-md-12">
+                        <div class="f-h3-head f-h3-head">
+                          <h4 class="text-upper">Foreign Bill Discounting (FDB)</h4>
+                          <p>
+                            Also known as post shipment financing this is another form of lending to the exporters.
+                            After execution of orders, once the goods are shipped to the final destination, the client can avail funding against such bills/invoices, in INR as well as foreign currency. This form of financing is part of existing working capital limits.
+                          </p>
+                        </div>
+                      </div>  
+                      <div class="col-md-12">
+                        <div class="f-h3-head f-h3-head">
+                          <h4 class="text-upper">LC BILL DISCOUNTING</h4>
+                          <p>
+                            Under this offering of the Bank discounts Letter of Credits obtained by the clients against credit sales, done by them.
+                          </p>
+                          
+                          <h5>Key Features</h5>
+                          <ul>
+                            <li>Collateral not required, easy documentation.</li>
+                          </ul> 
+                        </div>
+                      </div> 
+                      <div class="col-md-12" >
+                        <div class="f-h3-head f-h3-head">
+                          <h5 class="text-upper">working capital term loan.</h5>
+                          <p>
+                            This is fund based product for entities having a medium to long term working capital requirement of business as well as for expansion of business. Tenure upto 5 years.
+                          </p>
+                          
+                          <h5 id="non-fund">Key Features</h5>
+                          <ul>
+                            <li>EMI based  term loans</li>
+                          </ul> 
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-12">
+                      <div class="jumbotron jumbotron-danger">
+                        <div class="jumbotron-heading">
+                          <h4>What is Non Fund Based Working Capital?</h4>
+                        </div>
+                        <div class="jumbotron-body">
+                          <p>
+                          Non Fund Based Working Capital involves no outlay of funds (i.e. transaction of funds is not involved).  Assurance is given by bank; wherein if the principal party defaults the bank is liable to pay to the beneficiary. Banks  earn Commission through this  and it is a Contingent Liability for the bank.
+                          </p>
+                        </div>
+                      </div>
+
+                      <div class="jumbotron jumbotron-danger">  
+                        <div class="jumbotron-heading">
+                          <h4>What are the products offered under Non Fund Based Working Capital?</h4>
+                        </div>
+                        <div class="jumbotron-body">
+                          <ul>
+                            <li>Bank guarantee</li>
+                            <li>Letter of Credit/Capex LC.</li>
+                            <li>Buyer’s Credit.</li>
+                          </ul> 
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-md-12 padding-left">
+                      
+
+                      <div class="col-md-12">
+                        <div class="f-h3-head f-h3-head">
+                          <h4 class="text-upper">bank guarantee</h4>
+                          <p>
+                          Two type of Bank Guarantee are made available, namely Performance Guarantee and Financial Guarantee. Performance guarantee covers timeliness, service quality and adherence to terms of agreement whereas Financial Guarantee  covers payments.  It is typically used by Traders Service Providers and Contractors for any kind of bidding. Performance guarantee or retention money.
+                          </p>
+                          
+                          <h5>Key Features</h5>
+                          <ul>
+                            <li> wider acceptance</li>
+                            <li>very strong Global network giving a competitive edge in multi currency payments.</li>
+                          </ul> 
+                        </div>
+                      </div>
+
+                      <div class="col-md-12">
+                        <div class="f-h3-head f-h3-head">
+                          <h4 class="text-upper">Letter of credit/capex LC</h4>
+                          <p>
+                          This is used for buying Raw Materials/Capital Goods on credit,  both domestic (Inland) and import (Foreign). Working capital LC is issued for a  maximum period of 6 month and Capex LC  is issued for maximum period of 3 Years.
+                          </p>
+                          
+                          <h5>Key Features</h5>
+                          <ul>
+                            <li>Our LCs  are globally accepted</li>
+                            <li>Large network correspondent banks across the world.</li>
+                          </ul> 
+                        </div>
+                      </div>
+
+                      <div class="col-md-12">
+                        <div class="f-h3-head f-h3-head">
+                          <h4 class="text-upper">Buyer’s credit</h4>
+                          <p>
+                          This is generally used for import of raw materials. The funding is available up to 360 days, subject to the working capital cycle of the business.
+
+                          </p>
+                          
+                          <h5>Key Features</h5>
+                          <ul>
+                            <li>It offers LIBOR  based pricing which is cheaper than rupee  pricing.</li>
+                          </ul> 
+                        </div>
+                      </div>
+                    </div>
+                    
+
+                  </div>                                             
+              </div>
+        </div>
       </section>
+      
       <!-- =========================
         END FEATURE TYPOGRAPHY SECTION
       ============================== --> 

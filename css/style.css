@@ -5141,7 +5141,29 @@ ul.home-10-pagination{
     padding-top: 50px;
     padding-bottom: 50px;
 }
-
+.list-group-item{
+    background:#f9f9f9;
+    border-color:#f1f1f1;
+}
+.list-group-item a{
+    color:#777;
+    font-size: 14px;
+}
+.jumbotron{
+    background: #f9f9f9;
+    padding:25px;
+    padding-left: 20px !important;
+}
+.jumbotron-body p{
+    font-size: 14px!important;
+    font-weight: 400;
+}
+.padding-left{
+    padding-left:50px;
+}
+.text-upper{
+    text-transform:uppercase;
+}
 .f-h1-head *{
     color: #222222;
     font-weight: bold;
