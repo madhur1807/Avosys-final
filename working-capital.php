@@ -172,13 +172,19 @@
                    <div class="col-md-12">
                        <div class="f-h1-head">
                            <h1>Working capital</h1>
-                           <p>Working capital is the amount of an entity's current assets minus its current liabilities. The result is considered a prime measure of the short-term liquidity of an organization. A strongly positive working capital balance indicates robust financial strength, while negative working capital is considered an indicator of impending bankruptcy.<br>A 2:1 ratio of current assets to current liabilities is considered healthy, though the ratio can vary by industry. The ratio may also be reviewed on a trend line, with the intent of spotting any declines or sudden drops that could indicate liquidity problems.<br><center><strong style="font-size:15px">Working Capital = CURRENT ASSETS - CURRENT LIABILITIES</strong></center></p>
+                           <p>
+                              Working capital is the life blood to any bussiness. A bussiness require optimal cash flows to survive on a regular basis. Working Capital is also required to further sustain a firm's growth, improve bussiness operation and stay ahead of competition.
+                              We assist business financially by helping them aquire different type of working capital finance in the form of various fund and non-fund based products. 
+                           </p>
                        </div>
                    </div>
                    <div class="col-md-12">
                        <div class="f-h1-head f-h2-head">
-                           <h2>Cash Credit</h2>
-                           <p>Under Cash credit facility, a line of credit is provided to the borrower on the basis of his projected level of sales, inventories, receivables and cash requirements. This is also known as “Credit Limit” granted by the bank. This facility is operated in the same manner as overdraft facility.<br><br>The cash credit facility is generally given for a period of 12 months and reviewed / revised at the end of the year.<br><br>To some extent, the Cash Credit facility is problematic for the banks. This is because customers can draw the credit up to their maximum approved credit limit, but practically they seldom reach the maximum limit. This creates a liquidity problem for the banks. Due to this, RBI encourages the businesses in India avail the working capital finance in the form of two components viz. a short-term loan component and a cash credit component. Out of these two, the borrower would fully withdraw the loan component while use the cash credit component as per requirements. The RBI guidelines say that a business that enjoys working capital credit limit of Rs. 10 crore should avail 80% as loan component while 20% as cash credit component. However, RBI gives banks the freedom to define / alter this composition.</p>
+                           <p>
+                           <h2>What is fund based working capital?</h2>
+                            Fund based working capital is well thoughts are made available to the process to address the immediate liquidity needs.
+
+                           </p>
                        </div>
                    </div> 
                    <div class="col-md-12">
