@@ -65,7 +65,7 @@
         } else if(current_path == "contact.php"){
             $(".menuzord-menu li").removeClass("active");
             $("#contact").addClass("active");
-        } else if(current_path == "home-loan.php" || current_path == "loan-against-property.php" || current_path == "purchase-of-commercial-property.php" || current_path == "lease-rental-discounting.php" || current_path == "business-loan.php" || current_path == "balance-transfer-retail.php" || current_path == "salaried.php" || current_path == "business.php"){
+        } else if(current_path == "home-loan.php" || current_path == "loan-against-property.php" || current_path == "purchase-of-commercial-property.php" || current_path == "lease-rental-discounting.php" || current_path == "bussiness-loan.php" || current_path == "balance-transfer-retail.php" || current_path == "salaried.php" || current_path == "business.php"){
                 $(".menuzord-menu li").removeClass("active");
                 $(".menuzord-menu li").eq(2).addClass("active");
         } else if(current_path == "working-capital.php" || current_path == "term-loan.php" || current_path == "balance-transfer-project.php" || current_path == "emi.php"){
