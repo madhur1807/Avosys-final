@@ -115,6 +115,14 @@
             z-index: 9999 !important;
             width:22%;
         }
+        @media only screen and (max-width: 768px){
+            .affix {
+              display:none;
+          }
+          .side-ul{
+            display:none;
+          }
+        }
       </style>
    </head>
    <body>
@@ -175,7 +183,7 @@
       ============================== --> 
       <section class="feature-typo container-fluid">
         <nav class="col-md-3" id="myScrollspy">
-          <ul class="list-group" data-spy="affix" data-offset-top="170">
+          <ul class="list-group side-ul" data-spy="affix" data-offset-top="170">
             <li class="list-group-item"><a href="#fund">Fund Based Working Capital</a></li>
             <li class="list-group-item"><a href="#non-fund">Non Fund Based Working Capital</a></li>
           </ul>
