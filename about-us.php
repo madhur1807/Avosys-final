@@ -203,7 +203,7 @@
                   
                   <div  class="col-sm-12 col-md-8 col-md-offset-2" style="text-align: left;    border: 4px solid #f1f1f1;">
                      
-                     <p id="promoter1" style="width: 20%;float: left">
+                     <p id="promoter1" style="text-align:center;float:left">
                        <img alt="" src="images/rajesh-jindal.jpg" style="width: 115px;height: auto">
                      </p>
                      <p id="promoter" style="float: right; width: 80%">Mr. Rajesh Jindal, a Chartered Accountant by qualification, having more than 25 years of professional experience, in financial consulting & financial service distribution, promotes AVOSYS. A team of professionals ably assist Mr. Jindal and the organisation has grown multifold during the tenure, giving a trail of satisfied clients and excellent relationship with bank partners and team mates.</p>
